@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600.0mm"
+   height="338.0mm"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="70_0001 (1).svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.28924125"
+     inkscape:cx="772.71137"
+     inkscape:cy="886.80298"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs2" />
+  <g
+     id="g12"
+     style="fill:none;stroke:#bbbbbb;stroke-opacity:1">
+    <polygon
+       points="2267.811,638.74014 1133.8583,638.74014 1133.8583,1276.5354 2267.811,1276.5354 "
+       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       id="polygon4" />
+    <polygon
+       points="2267.811,0.94486026 1133.8583,0.94486026 1133.8583,638.74014 2267.811,638.74014 "
+       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       id="polygon6" />
+    <polygon
+       points="-0.094526396,0.94486026 -0.094526396,638.74014 1133.8583,638.74014 1133.8583,0.94486026 "
+       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       id="polygon8" />
+    <polygon
+       points="1133.8583,638.74014 -0.094526396,638.74014 -0.094526396,1276.5354 1133.8583,1276.5354 "
+       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+       id="polygon10" />
+  </g>
+</svg>
