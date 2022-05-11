@@ -5,8 +5,8 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>FLOOR PLAN GENERATION</title>
-    <meta name="description" content="Slides for My Project">
+		<title>Portfolio</title>
+    <meta name="description" content="Collection Of My Projects">
 		<meta name="author" content="Raban Ohlhoff">
     
 		<link rel="stylesheet" href="dist/reset.css">
@@ -21,12 +21,26 @@
 			
 			  <!-- Vertical Stack Start -->
 			  <section>
-			  
-				  <section>
+			    
+				  <section data-background="assets/learning/2.svg" data-background-opacity= 0.4  data-transition="zoom" data-background-transition="zoom">
             <a style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;" href="floorplan.html#/1">
               PARAMETRIC <br>
               FLOOR PLAN <br>
               GENERATION
+            </a>
+				  </section>
+				  
+				  	<section data-background="assets/generation/2.svg" data-background-opacity= 0.4  data-transition="zoom" data-background-transition="zoom">
+            <a style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;" href="https://slides.com/sinasta/deck/fullscreen">
+              RESPONSIVE <br>
+              SHADING <br>
+              SYSTEMS
+            </a>
+				  </section>
+				  
+				  	<section data-background="assets/introduction/2.svg" data-background-opacity= 0.4  data-transition="zoom" data-background-transition="zoom">
+            <a style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;" href="https://sinasta.github.io">
+              WEBSITE
             </a>
 				  </section>
 				  
@@ -39,13 +53,10 @@
 
 		<script src="dist/reveal.js"></script>
 		<script src="plugin/zoom/zoom.js"></script>
-		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/search/search.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
-		<script src="plugin/highlight/highlight.js"></script>
 		<script>
 			Reveal.initialize({
-			  controls: false,
+			  controls: true,
 			  controlsLayout: 'edges',
 			  slideNumber: false,
 				progress: false,
@@ -54,15 +65,13 @@
 				touch: true,
 				navigationMode: 'linear',
 				mouseWheel: true,
-				transition: 'slide',
-				transitionSpeed: 'fast',
-				backgroundTransition: 'slide',
+
 				hideInactiveCursor: true,
 				hideCursorTime: 1000,
 				viewDistance: 1,
 				mobileViewDistance: 1,
 				
-				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
+				plugins: [ RevealZoom, RevealMarkdown, ]
 			});
 		</script>
 

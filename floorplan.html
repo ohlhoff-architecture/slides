@@ -13,7 +13,9 @@
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/black.css">
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<link rel="stylesheet" href="plugin/drawer/drawer.css">
 		
+		<script src="plugin/drawer/drawer.js"></script>
 		<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 		<style>
       model-viewer {
@@ -436,7 +438,6 @@
 		<script src="dist/reveal.js"></script>
 		<script src="plugin/zoom/zoom.js"></script>
 		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/search/search.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
 		<script>
@@ -446,7 +447,7 @@
 				progress: false,
 				center: true,
 				hash: true,
-				touch: false,
+				touch: true,
 				navigationMode: 'default',
 				mouseWheel: false,
 				transition: 'none',
@@ -458,8 +459,8 @@
 				mobileViewDistance: 1,
 				margin: -0.3,
 				
-				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
-			});
+				plugins: [ RevealDrawer, RevealZoom, RevealNotes, RevealMarkdown, RevealHighlight ]
+		  });
 		</script>
 
 	</body>
