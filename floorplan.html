@@ -13,6 +13,18 @@
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/black.css">
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		
+		<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+		<style>
+      model-viewer {
+        width: 500px;
+        height: 700px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+      }
+    </style>
 	</head>
 	
 	<body>
@@ -69,11 +81,10 @@
 				  ></section>
 				
 				  <section 
-				    data-background-video="assets/generation/GA/animation.mp4"
+				    data-background="assets/generation/GA/animation.gif"
 				    data-background-size= "contain"
 				    data-background-transition="none"
 				    data-transition="none"
-            data-background-video-muted
 				  ></section>
 				</section>
 				<!-- Vertical Deck End -->
@@ -86,6 +97,26 @@
             </p>
 				  </section>
 				
+				  <section>
+				    <model-viewer 
+				      bounds="tight" 
+				      enable-pan 
+				      src="assets/model.glb" 
+				      ar 
+				      ar-modes="webxr scene-viewer quick-look"
+				      camera-controls
+				      poster="poster.webp"
+				      shadow-intensity="1"
+				      exposure="0.63">
+                <div 
+                  class="progress-bar hide" 
+                  slot="progress-bar">
+                <div class="update-bar">
+                </div>
+              </div>
+            </model-viewer>
+				  </section>
+				  
 				  <section 
 				    data-background="assets/data/General.svg"
 				    data-background-size= "contain"
@@ -228,6 +259,7 @@
 				hideCursorTime: 1000,
 				viewDistance: 1,
 				mobileViewDistance: 1,
+				margin: -0.3,
 				
 				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
 			});
