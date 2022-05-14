@@ -1,27 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" width="600.0mm" height="338.0mm">
-<defs>
-</defs>
-<g>
-<polygon points=" 2267.8109722850877 1276.53541176337 2267.8109722850877 0.9448602633697192 -0.0945263960466385 0.9448602633697192 -0.0945263960466385 1276.53541176337 "
-style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/></g>
-<g>
-<polygon points=" 996.2598247465583 1179.1972834613994 996.0021975146257 1177.2408393739192 995.2470676777612 1175.4177595058377 994.0457984826251 1173.8522167587298 992.4803007909966 1172.6509475635937 990.6571758674355 1171.895817726729 988.700776835435 1171.638235550276 986.7442876924754 1171.895817726729 984.9212528798734 1172.6509475635937 983.3556650772858 1173.8522167587298 982.1543958821497 1175.4177595058377 981.3992660452852 1177.2408393739192 981.1417289243117 1179.1972834613994 981.3992660452852 1181.1537275488795 982.1543958821497 1182.976807416961 983.3556650772858 1184.542350164069 984.9212528798734 1185.743619359205 986.7442876924754 1186.4987491960694 988.700776835435 1186.7563313725227 990.6571758674355 1186.4987491960694 992.4803007909966 1185.743619359205 994.0457984826251 1184.542350164069 995.2470676777612 1182.976807416961 996.0021975146257 1181.1537275488795 "
-style="
-    mix-blend-mode:normal;
-    fill:rgb(126, 126, 126);
-    fill-opacity:1.0;
-    stroke:none;
-    stroke-opacity:0;
-    stroke-width:0
-"/></g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600.0mm"
+   height="338.0mm"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="0.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="26.179129"
+     inkscape:cx="4.7938951"
+     inkscape:cy="686.71115"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12">
+    <sodipodi:guide
+       position="0,1277.4803"
+       orientation="0,2267.7165"
+       id="guide911" />
+    <sodipodi:guide
+       position="2267.7165,1277.4803"
+       orientation="1277.4803,0"
+       id="guide913" />
+    <sodipodi:guide
+       position="2267.7165,0"
+       orientation="0,-2267.7165"
+       id="guide915" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1277.4803,0"
+       id="guide917" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     id="g10">
+    <polygon
+       points=" 996.2598247465583 1179.1972834613994 996.0021975146257 1177.2408393739192 995.2470676777612 1175.4177595058377 994.0457984826251 1173.8522167587298 992.4803007909966 1172.6509475635937 990.6571758674355 1171.895817726729 988.700776835435 1171.638235550276 986.7442876924754 1171.895817726729 984.9212528798734 1172.6509475635937 983.3556650772858 1173.8522167587298 982.1543958821497 1175.4177595058377 981.3992660452852 1177.2408393739192 981.1417289243117 1179.1972834613994 981.3992660452852 1181.1537275488795 982.1543958821497 1182.976807416961 983.3556650772858 1184.542350164069 984.9212528798734 1185.743619359205 986.7442876924754 1186.4987491960694 988.700776835435 1186.7563313725227 990.6571758674355 1186.4987491960694 992.4803007909966 1185.743619359205 994.0457984826251 1184.542350164069 995.2470676777612 1182.976807416961 996.0021975146257 1181.1537275488795 "
+       style="     mix-blend-mode:normal;     fill:rgb(126, 126, 126);     fill-opacity:1.0;     stroke:none;     stroke-opacity:0;     stroke-width:0 "
+       id="polygon8" />
+  </g>
+  <rect
+     style="fill:none;fill-opacity:0.8;stroke:#bbbbbb;stroke-width:1.9;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect941"
+     width="2267.7166"
+     height="1277.4803"
+     x="0"
+     y="1.496063e-05" />
 </svg>

@@ -1,454 +1,314 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" width="600.0mm" height="338.0mm">
-<defs>
-</defs>
-<g>
-<line x1="1050.9619527725831" y1="1238.740127152274" x2="37.700713159569744" y2="1238.740127152274" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1105.1820772786332" y1="1314.3306963744658" x2="-37.88985606262207" y2="1314.3306963744658" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1015.3417214356299" y1="624.7881661122286" x2="955.155260219719" y2="760.443141256294" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="939.5389409048681" y1="609.2506938865492" x2="888.3606920435715" y2="724.6017325703451" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="889.4600457440187" y1="800.7709042606166" x2="37.700713159569744" y2="919.5920033388462" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="888.3606920435715" y1="724.6017325703451" x2="37.700713159569744" y2="843.2694853240064" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="37.700713159569744" y1="843.2694853240064" x2="37.700713159569744" y2="38.74009981898621" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="-37.88976595166302" y1="886.7032379204486" x2="-37.88976595166302" y2="-36.850379292246544" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="2230.0159129513895" y1="405.11404813546585" x2="2230.0159129513895" y2="1238.740127152274" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="2305.606392062622" y1="348.842097091778" x2="2305.606392062622" y2="1314.3306963744658" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="2305.606392062622" y1="1314.3306963744658" x2="1700.6626884326706" y2="1314.3306963744658" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="2230.0159129513895" y1="1238.740127152274" x2="1750.3006706708738" y2="1238.740127152274" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="409.41851168077187" y1="-36.850379292246544" x2="1220.6192620392837" y2="-36.850379292246544" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="497.9340111482978" y1="38.74009981898621" x2="1183.6125834863406" y2="38.74009981898621" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1259.2199133469162" y1="38.74009981898621" x2="1266.0823134336006" y2="364.1657360116245" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1183.6125834863406" y1="38.74009981898621" x2="1190.8053303489132" y2="379.8309855772412" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1700.6626884326706" y1="1314.3306963744658" x2="1105.1820772786332" y2="1314.3306963744658" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1671.884672327574" y1="1238.740127152274" x2="1131.5279985988884" y2="1238.740127152274" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1050.9619527725831" y1="1238.740127152274" x2="889.4600457440187" y2="800.7709042606166" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1131.5279985988884" y1="1238.740127152274" x2="955.155260219719" y2="760.443141256294" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="987.244763959056" y1="549.7745323053739" x2="1190.8053303489132" y2="379.8309855772412" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1015.3417214356299" y1="624.7881661122286" x2="1240.3670787157575" y2="436.9246584565336" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1266.0823134336006" y1="364.1657360116245" x2="1912.2311454206945" y2="453.30475826031807" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1240.3670787157575" y1="436.9246584565336" x2="1869.2134351222" y2="523.6767315108712" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1948.61813090823" y1="520.0941901117994" x2="1750.3006706708738" y2="1238.740127152274" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1869.2134351222" y1="523.6767315108712" x2="1671.884672327574" y2="1238.740127152274" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="-37.88985606262207" y1="1314.3306963744658" x2="-37.88976595166302" y2="886.7032379204486" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="37.700713159569744" y1="1238.740127152274" x2="37.700713159569744" y2="919.5920033388462" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="-37.88976595166302" y1="-36.850379292246544" x2="409.41851168077187" y2="-36.850379292246544" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="37.700713159569744" y1="38.74009981898621" x2="393.28026969108583" y2="38.74009981898621" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="497.9340111482978" y1="38.74009981898621" x2="987.244763959056" y2="549.7745323053739" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="393.28026969108583" y1="38.74009981898621" x2="939.5389409048681" y2="609.2506938865492" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1912.2311454206945" y1="453.30475826031807" x2="2230.0159129513895" y2="323.4567585950282" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1948.61813090823" y1="520.0941901117994" x2="2230.0159129513895" y2="405.11404813546585" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1259.2199133469162" y1="38.74009981898621" x2="2230.0159129513895" y2="38.74009981898621" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="1220.6192620392837" y1="-36.850379292246544" x2="2305.606392062622" y2="-36.850379292246544" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="2305.606392062622" y1="-36.850379292246544" x2="2305.606392062622" y2="348.842097091778" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/><line x1="2230.0159129513895" y1="38.74009981898621" x2="2230.0159129513895" y2="323.4567585950282" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:1.8897637377604881;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-"/></g>
-<g>
-<line x1="387.75394479428104" y1="465.7064592219107" x2="696.8909888620534" y2="301.18006796369" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:0.7559055479035853;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-    stroke-dasharray:11.338582426562928 11.338582426562928;
-"/><line x1="696.8909888620534" y1="301.18006796369" x2="917.4701362560654" y2="223.34411386381453" style="
-    mix-blend-mode:normal;
-    fill:none;
-    fill-opacity:0;
-    stroke:rgb(126, 126, 126);
-    stroke-opacity:1.0;
-    stroke-width:0.7559055479035853;
-    stroke-linecap:butt;
-    stroke-linejoin:bevel;
-    paint-order:markers fill stroke;
-    stroke-dasharray:11.338582426562928 11.338582426562928;
-"/></g>
-<g>
-<polygon points=" 391.53346874984265 465.7064592219107 391.4047001893559 464.72830476138995 391.0270902154441 463.8167422996095 390.42645561787606 463.0339483983157 389.6437067720619 462.43326874526815 388.7321443102813 462.05570382683584 387.75394479428104 461.9269352663491 386.77574527828074 462.05570382683584 385.8641828165002 462.43326874526815 385.08143397068596 463.0339483983157 384.4807993731179 463.8167422996095 384.1031893992062 464.72830476138995 383.97442083871937 465.7064592219107 384.1031893992062 466.68470379339055 384.4807993731179 467.59626625517103 385.08143397068596 468.37897004550575 385.8641828165002 468.9796496985533 386.77574527828074 469.3572146169855 387.75394479428104 469.48598317747235 388.7321443102813 469.3572146169855 389.6437067720619 468.9796496985533 390.42645561787606 468.37897004550575 391.0270902154441 467.59626625517103 391.4047001893559 466.68470379339055 "
-style="
-    mix-blend-mode:normal;
-    fill:rgb(126, 126, 126);
-    fill-opacity:1.0;
-    stroke:none;
-    stroke-opacity:0;
-    stroke-width:0
-"/><polygon points=" 700.6705128176151 301.18006796369 700.5417442571282 300.20182339221026 700.1641342832165 299.2903510413887 699.5634996856485 298.50755714009495 698.7807508398342 297.9068774870474 697.8691883780537 297.5293125686152 696.8909888620534 297.40054400812835 695.9127893460532 297.5293125686152 695.0012268842726 297.9068774870474 694.2184780384584 298.50755714009495 693.6178434408904 299.2903510413887 693.2402334669786 300.20182339221026 693.1114649064918 301.18006796369 693.2402334669786 302.1583125351698 693.6178434408904 303.06978488599134 694.2184780384584 303.8525787872851 695.0012268842726 304.45325844033266 695.9127893460532 304.83082335876486 696.8909888620534 304.9595919192517 697.8691883780537 304.83082335876486 698.7807508398342 304.45325844033266 699.5634996856485 303.8525787872851 700.1641342832165 303.06978488599134 700.5417442571282 302.1583125351698 "
-style="
-    mix-blend-mode:normal;
-    fill:rgb(126, 126, 126);
-    fill-opacity:1.0;
-    stroke:none;
-    stroke-opacity:0;
-    stroke-width:0
-"/><polygon points=" 921.2496602116271 223.34411386381453 921.1208916511403 222.36586929233476 920.743326732708 221.4543068305543 920.1426470796605 220.67160304021945 919.3598531783667 220.0709233871719 918.4483808275452 219.6933584687397 917.4701362560654 219.56458990825286 916.4918916845857 219.6933584687397 915.5803292228051 220.0709233871719 914.7976254324703 220.67160304021945 914.1969457794228 221.4543068305543 913.8193808609906 222.36586929233476 913.6906123005037 223.34411386381453 913.8193808609906 224.3223584352943 914.1969457794228 225.233920897075 914.7976254324703 226.0166246874096 915.5803292228051 226.61730434045717 916.4918916845857 226.99486925888937 917.4701362560654 227.1236378193762 918.4483808275452 226.99486925888937 919.3598531783667 226.61730434045717 920.1426470796605 226.0166246874096 920.743326732708 225.233920897075 921.1208916511403 224.3223584352943 "
-style="
-    mix-blend-mode:normal;
-    fill:rgb(126, 126, 126);
-    fill-opacity:1.0;
-    stroke:none;
-    stroke-opacity:0;
-    stroke-width:0
-"/></g>
-<g>
-<polygon points=" 246.54259274856665 462.6596274744094 246.28505562759307 460.7032284424088 245.52983567976952 458.8801035188477 244.32856648463346 457.3146058272192 242.763068793005 456.11333663208313 240.9399438694439 455.35820679521873 238.98354483744336 455.10057956328603 237.0271458054428 455.35820679521873 235.20402088188172 456.11333663208313 233.63852319025327 457.3146058272192 232.4372539951172 458.8801035188477 231.68203404729368 460.7032284424088 231.4244969263201 462.6596274744094 231.68203404729368 464.6161166173689 232.4372539951172 466.43915142997093 233.63852319025327 468.00473923255845 235.20402088188172 469.20600842769454 237.0271458054428 469.96113826455905 238.98354483744336 470.21876549649164 240.9399438694439 469.96113826455905 242.763068793005 469.20600842769454 244.32856648463346 468.00473923255845 245.52983567976952 466.43915142997093 246.28505562759307 464.6161166173689 "
-style="
-    mix-blend-mode:normal;
-    fill:rgb(126, 126, 126);
-    fill-opacity:1.0;
-    stroke:none;
-    stroke-opacity:0;
-    stroke-width:0
-"/><polygon points=" 924.8504040244275 223.7479911822902 924.5928669034539 221.79150203933068 923.8377370665894 219.96846722672876 922.6364678714533 218.40296953510028 921.0708800688658 217.20161022900515 919.2478452562638 216.44648039214053 917.2913561133042 216.1889432711671 915.3349570813036 216.44648039214053 913.5118321577426 217.20161022900515 911.9463344661141 218.40296953510028 910.745065270978 219.96846722672876 909.9898453231546 221.79150203933068 909.7323082021809 223.7479911822902 909.9898453231546 225.70448032524996 910.745065270978 227.52751513785188 911.9463344661141 229.09301282948036 913.5118321577426 230.2943721355755 915.3349570813036 231.04950197243988 917.2913561133042 231.30703909341355 919.2478452562638 231.04950197243988 921.0708800688658 230.2943721355755 922.6364678714533 229.09301282948036 923.8377370665894 227.52751513785188 924.5928669034539 225.70448032524996 "
-style="
-    mix-blend-mode:normal;
-    fill:rgb(126, 126, 126);
-    fill-opacity:1.0;
-    stroke:none;
-    stroke-opacity:0;
-    stroke-width:0
-"/></g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600.0mm"
+   height="338.0mm"
+   version="1.1"
+   id="svg102"
+   sodipodi:docname="0.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview104"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5784825"
+     inkscape:cx="1133.1371"
+     inkscape:cy="638.74016"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg102" />
+  <defs
+     id="defs2" />
+  <g
+     id="g80">
+    <line
+       x1="1050.9619527725831"
+       y1="1238.740127152274"
+       x2="37.700713159569744"
+       y2="1238.740127152274"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line4" />
+    <line
+       x1="1105.1820772786332"
+       y1="1314.3306963744658"
+       x2="-37.88985606262207"
+       y2="1314.3306963744658"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line6" />
+    <line
+       x1="1015.3417214356299"
+       y1="624.7881661122286"
+       x2="955.155260219719"
+       y2="760.443141256294"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line8" />
+    <line
+       x1="939.5389409048681"
+       y1="609.2506938865492"
+       x2="888.3606920435715"
+       y2="724.6017325703451"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line10" />
+    <line
+       x1="889.4600457440187"
+       y1="800.7709042606166"
+       x2="37.700713159569744"
+       y2="919.5920033388462"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line12" />
+    <line
+       x1="888.3606920435715"
+       y1="724.6017325703451"
+       x2="37.700713159569744"
+       y2="843.2694853240064"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line14" />
+    <line
+       x1="37.700713159569744"
+       y1="843.2694853240064"
+       x2="37.700713159569744"
+       y2="38.74009981898621"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line16" />
+    <line
+       x1="-37.88976595166302"
+       y1="886.7032379204486"
+       x2="-37.88976595166302"
+       y2="-36.850379292246544"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line18" />
+    <line
+       x1="2230.0159129513895"
+       y1="405.11404813546585"
+       x2="2230.0159129513895"
+       y2="1238.740127152274"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line20" />
+    <line
+       x1="2305.606392062622"
+       y1="348.842097091778"
+       x2="2305.606392062622"
+       y2="1314.3306963744658"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line22" />
+    <line
+       x1="2305.606392062622"
+       y1="1314.3306963744658"
+       x2="1700.6626884326706"
+       y2="1314.3306963744658"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line24" />
+    <line
+       x1="2230.0159129513895"
+       y1="1238.740127152274"
+       x2="1750.3006706708738"
+       y2="1238.740127152274"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line26" />
+    <line
+       x1="409.41851168077187"
+       y1="-36.850379292246544"
+       x2="1220.6192620392837"
+       y2="-36.850379292246544"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line28" />
+    <line
+       x1="497.9340111482978"
+       y1="38.74009981898621"
+       x2="1183.6125834863406"
+       y2="38.74009981898621"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line30" />
+    <line
+       x1="1259.2199133469162"
+       y1="38.74009981898621"
+       x2="1266.0823134336006"
+       y2="364.1657360116245"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line32" />
+    <line
+       x1="1183.6125834863406"
+       y1="38.74009981898621"
+       x2="1190.8053303489132"
+       y2="379.8309855772412"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line34" />
+    <line
+       x1="1700.6626884326706"
+       y1="1314.3306963744658"
+       x2="1105.1820772786332"
+       y2="1314.3306963744658"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line36" />
+    <line
+       x1="1671.884672327574"
+       y1="1238.740127152274"
+       x2="1131.5279985988884"
+       y2="1238.740127152274"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line38" />
+    <line
+       x1="1050.9619527725831"
+       y1="1238.740127152274"
+       x2="889.4600457440187"
+       y2="800.7709042606166"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line40" />
+    <line
+       x1="1131.5279985988884"
+       y1="1238.740127152274"
+       x2="955.155260219719"
+       y2="760.443141256294"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line42" />
+    <line
+       x1="987.244763959056"
+       y1="549.7745323053739"
+       x2="1190.8053303489132"
+       y2="379.8309855772412"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line44" />
+    <line
+       x1="1015.3417214356299"
+       y1="624.7881661122286"
+       x2="1240.3670787157575"
+       y2="436.9246584565336"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line46" />
+    <line
+       x1="1266.0823134336006"
+       y1="364.1657360116245"
+       x2="1912.2311454206945"
+       y2="453.30475826031807"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line48" />
+    <line
+       x1="1240.3670787157575"
+       y1="436.9246584565336"
+       x2="1869.2134351222"
+       y2="523.6767315108712"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line50" />
+    <line
+       x1="1948.61813090823"
+       y1="520.0941901117994"
+       x2="1750.3006706708738"
+       y2="1238.740127152274"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line52" />
+    <line
+       x1="1869.2134351222"
+       y1="523.6767315108712"
+       x2="1671.884672327574"
+       y2="1238.740127152274"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line54" />
+    <line
+       x1="-37.88985606262207"
+       y1="1314.3306963744658"
+       x2="-37.88976595166302"
+       y2="886.7032379204486"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line56" />
+    <line
+       x1="37.700713159569744"
+       y1="1238.740127152274"
+       x2="37.700713159569744"
+       y2="919.5920033388462"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line58" />
+    <line
+       x1="-37.88976595166302"
+       y1="-36.850379292246544"
+       x2="409.41851168077187"
+       y2="-36.850379292246544"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line60" />
+    <line
+       x1="37.700713159569744"
+       y1="38.74009981898621"
+       x2="393.28026969108583"
+       y2="38.74009981898621"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line62" />
+    <line
+       x1="497.9340111482978"
+       y1="38.74009981898621"
+       x2="987.244763959056"
+       y2="549.7745323053739"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line64" />
+    <line
+       x1="393.28026969108583"
+       y1="38.74009981898621"
+       x2="939.5389409048681"
+       y2="609.2506938865492"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line66" />
+    <line
+       x1="1912.2311454206945"
+       y1="453.30475826031807"
+       x2="2230.0159129513895"
+       y2="323.4567585950282"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line68" />
+    <line
+       x1="1948.61813090823"
+       y1="520.0941901117994"
+       x2="2230.0159129513895"
+       y2="405.11404813546585"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line70" />
+    <line
+       x1="1259.2199133469162"
+       y1="38.74009981898621"
+       x2="2230.0159129513895"
+       y2="38.74009981898621"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line72" />
+    <line
+       x1="1220.6192620392837"
+       y1="-36.850379292246544"
+       x2="2305.606392062622"
+       y2="-36.850379292246544"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line74" />
+    <line
+       x1="2305.606392062622"
+       y1="-36.850379292246544"
+       x2="2305.606392062622"
+       y2="348.842097091778"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line76" />
+    <line
+       x1="2230.0159129513895"
+       y1="38.74009981898621"
+       x2="2230.0159129513895"
+       y2="323.4567585950282"
+       style="     mix-blend-mode:normal;     fill:none;     fill-opacity:0;     stroke:rgb(126, 126, 126);     stroke-opacity:1.0;     stroke-width:1.8897637377604881;     stroke-linecap:butt;     stroke-linejoin:bevel;     paint-order:markers fill stroke; "
+       id="line78" />
+  </g>
+  <g
+     id="g100">
+    <polygon
+       points=" 246.54259274856665 462.6596274744094 246.28505562759307 460.7032284424088 245.52983567976952 458.8801035188477 244.32856648463346 457.3146058272192 242.763068793005 456.11333663208313 240.9399438694439 455.35820679521873 238.98354483744336 455.10057956328603 237.0271458054428 455.35820679521873 235.20402088188172 456.11333663208313 233.63852319025327 457.3146058272192 232.4372539951172 458.8801035188477 231.68203404729368 460.7032284424088 231.4244969263201 462.6596274744094 231.68203404729368 464.6161166173689 232.4372539951172 466.43915142997093 233.63852319025327 468.00473923255845 235.20402088188172 469.20600842769454 237.0271458054428 469.96113826455905 238.98354483744336 470.21876549649164 240.9399438694439 469.96113826455905 242.763068793005 469.20600842769454 244.32856648463346 468.00473923255845 245.52983567976952 466.43915142997093 246.28505562759307 464.6161166173689 "
+       style="     mix-blend-mode:normal;     fill:rgb(126, 126, 126);     fill-opacity:1.0;     stroke:none;     stroke-opacity:0;     stroke-width:0 "
+       id="polygon96" />
+    <polygon
+       points=" 924.8504040244275 223.7479911822902 924.5928669034539 221.79150203933068 923.8377370665894 219.96846722672876 922.6364678714533 218.40296953510028 921.0708800688658 217.20161022900515 919.2478452562638 216.44648039214053 917.2913561133042 216.1889432711671 915.3349570813036 216.44648039214053 913.5118321577426 217.20161022900515 911.9463344661141 218.40296953510028 910.745065270978 219.96846722672876 909.9898453231546 221.79150203933068 909.7323082021809 223.7479911822902 909.9898453231546 225.70448032524996 910.745065270978 227.52751513785188 911.9463344661141 229.09301282948036 913.5118321577426 230.2943721355755 915.3349570813036 231.04950197243988 917.2913561133042 231.30703909341355 919.2478452562638 231.04950197243988 921.0708800688658 230.2943721355755 922.6364678714533 229.09301282948036 923.8377370665894 227.52751513785188 924.5928669034539 225.70448032524996 "
+       style="     mix-blend-mode:normal;     fill:rgb(126, 126, 126);     fill-opacity:1.0;     stroke:none;     stroke-opacity:0;     stroke-width:0 "
+       id="polygon98" />
+  </g>
 </svg>

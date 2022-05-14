@@ -4,7 +4,7 @@
    height="338.0mm"
    version="1.1"
    id="svg14"
-   sodipodi:docname="70_0001 (1).svg"
+   sodipodi:docname="0.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,34 +21,38 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.28924125"
-     inkscape:cx="772.71137"
-     inkscape:cy="886.80298"
+     inkscape:cx="554.90011"
+     inkscape:cy="1135.7301"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+     inkscape:current-layer="svg14">
+    <sodipodi:guide
+       position="0,1277.4803"
+       orientation="0,2267.7165"
+       id="guide905" />
+    <sodipodi:guide
+       position="2267.7165,1277.4803"
+       orientation="1277.4803,0"
+       id="guide907" />
+    <sodipodi:guide
+       position="2267.7165,0"
+       orientation="0,-2267.7165"
+       id="guide909" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1277.4803,0"
+       id="guide911" />
+  </sodipodi:namedview>
   <defs
      id="defs2" />
-  <g
-     id="g12"
-     style="fill:none;stroke:#bbbbbb;stroke-opacity:1">
-    <polygon
-       points="2267.811,638.74014 1133.8583,638.74014 1133.8583,1276.5354 2267.811,1276.5354 "
-       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
-       id="polygon4" />
-    <polygon
-       points="2267.811,0.94486026 1133.8583,0.94486026 1133.8583,638.74014 2267.811,638.74014 "
-       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
-       id="polygon6" />
-    <polygon
-       points="-0.094526396,0.94486026 -0.094526396,638.74014 1133.8583,638.74014 1133.8583,0.94486026 "
-       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
-       id="polygon8" />
-    <polygon
-       points="1133.8583,638.74014 -0.094526396,638.74014 -0.094526396,1276.5354 1133.8583,1276.5354 "
-       style="mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#bbbbbb;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
-       id="polygon10" />
-  </g>
+  <rect
+     style="fill:none;fill-opacity:0.8;stroke:#bbbbbb;stroke-width:4"
+     id="rect935"
+     width="2267.7166"
+     height="1277.4803"
+     x="0"
+     y="1.496063e-05" />
 </svg>
