@@ -22,7 +22,7 @@
 		<style>
       model-viewer {
         --poster-color: transparent;
-        width: 500px;
+
         height: 700px;
         display: block;
         margin-left: auto;
@@ -38,7 +38,7 @@
 			
 			  <!-- Slide Start -->
 				<section>
-          <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+          <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif">
             PARAMETRIC <br>
             FLOOR PLAN <br>
             GENERATION
@@ -341,7 +341,7 @@
 				  <section data-auto-animate>
 					  <pre data-id="code-animation">
 					    <code 
-					      style="font-size:20px"
+					      style="font-size:20px;"
 					      class="hljs"
 					      data-trim data-line-numbers
 					    >
@@ -362,7 +362,7 @@
 				<section data-auto-animate>
 					  <pre data-id="code-animation">
 					    <code
-					      style="line-height:1.2; font-size:10px"
+					      style="line-height:1.2; font-size:10px;"
 					      class="hljs"
 					      data-trim
 					      data-line-numbers="5-9|11-15|21-22|26-30"
@@ -535,16 +535,15 @@
 				  </section>
 				  
 				  <section>
-				    <model-viewer 
+				    <model-viewer
 				      bounds="tight" 
 				      enable-pan 
 				      src="assets/data/model.glb" 
-				      ar 
-				      ar-modes="webxr scene-viewer quick-look"
 				      camera-controls
-				      poster="poster.webp"
+				      environment-image="neutral"
 				      shadow-intensity="1"
-				      exposure="0.63">
+				      exposure="0.63"
+				      camera-orbit="-63.07deg 22.5deg auto">
                 <div 
                   class="progress-bar hide" 
                   slot="progress-bar">
@@ -552,6 +551,7 @@
                 </div>
               </div>
             </model-viewer>
+            
 				  </section>
 				</section>
 				<!-- Vertical Deck End -->
@@ -637,7 +637,7 @@
 				center: true,
 				hash: true,
 				touch: true,
-				navigationMode: 'default',
+				navigationMode: 'linear',
 				mouseWheel: false,
 				transition: 'none',
 				transitionSpeed: 'fast',
