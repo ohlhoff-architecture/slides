@@ -17,12 +17,14 @@
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
 		<link rel="stylesheet" href="plugin/drawer/drawer.css">
 		
+		<link rel="stylesheet" href="plugin/fullscreen/plugin.js">
+    <script src="plugin/fullscreen/plugin.js"></script>
+		
 		<script src="plugin/drawer/drawer.js"></script>
 		<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 		<style>
       model-viewer {
         --poster-color: transparent;
-
         height: 700px;
         display: block;
         margin-left: auto;
@@ -48,7 +50,7 @@
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/introduction/2.svg" data-background-opacity= 0.6>
+				  <section data-background="assets/introduction/2.svg" data-background-opacity= 0.7>
             <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
               INTRODUCTION
             </p>
@@ -65,7 +67,7 @@
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/generation/2.svg" data-background-opacity= 0.6>
+				  <section data-background="assets/generation/2.svg" data-background-opacity= 0.7>
             <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
               GENERATION
             </p>
@@ -306,7 +308,7 @@
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/data/2.svg" data-background-opacity= 0.6>
+				  <section data-background="assets/data/2.svg" data-background-opacity= 0.7>
             <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
               DATA
             </p>
@@ -551,14 +553,13 @@
                 </div>
               </div>
             </model-viewer>
-            
 				  </section>
 				</section>
 				<!-- Vertical Deck End -->
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/analysis/2.svg" data-background-opacity= 0.6>
+				  <section data-background="assets/analysis/2.svg" data-background-opacity= 0.7>
             <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
               ANALYSIS
             </p>
@@ -589,7 +590,7 @@
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/learning/2.svg" data-background-opacity= 0.6>
+				  <section data-background="assets/learning/2.svg" data-background-opacity= 0.7>
             <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
               LEARNING
             </p>
@@ -613,7 +614,7 @@
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/conclusion/2.svg" data-background-opacity= 0.6>
+				  <section data-background="assets/conclusion/2.svg" data-background-opacity= 0.7>
             <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
               DISCUSSION
             </p>
@@ -648,7 +649,7 @@
 				mobileViewDistance: 3,
 				margin: -0.3,
 				
-				plugins: [ RevealDrawer, RevealZoom, RevealNotes, RevealMarkdown, RevealHighlight ]
+				plugins: [ RevealDrawer, RevealZoom, RevealNotes, RevealMarkdown, RevealHighlight, RevealFullscreen ]
 		  });
 		</script>
 

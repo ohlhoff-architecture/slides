@@ -355,3 +355,13 @@ section.has-light-background, section.has-light-background h1, section.has-light
     background-color: var(--r-background-color);
   }
 }
+
+/* Fullscreen images in cover of contain mode */
+.reveal img.fullscreen {
+  position: absolute;
+  top: 50%;
+  bottom: auto;
+  left: 50%;
+  right: auto;
+  transform: translate( -50%, -50% ) scale( 100% );
+}
