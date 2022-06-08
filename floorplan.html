@@ -39,7 +39,7 @@
       }
       
       #ar-button {
-        background-image: url(../../assets/ic_view_in_ar_new_googblue_48dp.png);
+        background-image: url(assets/data/ar.png);
         background-repeat: no-repeat;
         background-size: 20px 20px;
         background-position: 12px 50%;
@@ -302,6 +302,19 @@
 				  ></section>
 				
 				  <section 
+				    data-background="assets/generation/voronoi/raise/animation.gif"
+				    data-background-size= "contain"
+				    data-background-transition="none"
+				    data-transition="none"
+				  ></section>
+				  
+				  <section data-background="assets/generation/2.svg" data-background-opacity= 0.3>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+              CONTOUR VARIATION
+            </p>
+				  </section>
+				  
+				  	<section 
 				    data-background="assets/generation/voronoi/raise/animation.gif"
 				    data-background-size= "contain"
 				    data-background-transition="none"
@@ -604,13 +617,6 @@
 				  </section>
 				  
 				  <section>
-				    <model-viewer bounds="tight" 
-				    enable-pan 
-				    src="model.glb" 
-				    ar ar-modes="scene-viewer webxr quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1">
-    
-</model-viewer>
-
 				    <model-viewer
 				      bounds="tight" 
 				      enable-pan 
@@ -645,8 +651,6 @@
                   AR is not tracking!
                 </button>
             </model-viewer>
-           
-
 				  </section>
 				</section>
 				<!-- Vertical Deck End -->
@@ -697,6 +701,72 @@
 				    data-transition="none"
 				  ></section>
 				  
+				  <section>
+					  <table style="font-size:20px">
+						  <thead>
+							  <tr>
+								  <th>GRAPH_ID</th>
+								  <th>LABEL</th>
+								  <th>NUM_NODES</th>
+							  </tr>
+						  </thead>
+						  <tbody>
+							  <tr>
+								  <td align="center">0</td>
+		    						<td align="center">0</td>
+				    				<td align="center">7</td>
+				    			</tr>
+				    			<tr>
+				    				<td align="center">1</td>
+				    				<td align="center">0</td>
+				    				<td align="center">7</td>
+				    			</tr>
+				    			<tr>
+				    				<td align="center">1</td>
+				    				<td align="center">0</td>
+				    				<td align="center">7</td>
+				    			</tr>
+				    		</tbody>
+			    		</table>
+			    	</section>
+				  
+				  <section data-auto-animate>
+					  <pre data-id="code-animation">
+					    <code 
+					      style="font-size:20px"
+					      class="python"
+					      data-trim
+					      data-noescape
+					      data-line-numbers="1|2"
+					      >
+                  1
+                  7 0
+					      </code>
+					    </pre>
+				  </section>
+				  
+				  	<section data-auto-animate>
+					  <pre data-id="code-animation">
+					    <code 
+					      style="font-size:20px"
+					      class="python"
+					      data-trim
+					      data-noescape
+					      data-line-numbers="3-9"
+					      >
+                  1
+                  7 0
+                  0 3 1 2 3 
+                  0 2 0 4 
+                  0 2 5 0 
+                  0 2 6 0 
+                  0 1 1 
+                  0 1 2 
+                  0 1 3
+					      </code>
+					    </pre>
+				  </section>
+				
 				  <section
 				    data-background="assets/learning/bim.png"
 				    data-background-size= "contain"

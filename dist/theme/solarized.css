@@ -246,6 +246,7 @@ html * {
   margin: auto;
   border-collapse: collapse;
   border-spacing: 0;
+  background-color: #202020;
 }
 
 .reveal table th {
@@ -257,6 +258,7 @@ html * {
   text-align: left;
   padding: 0.2em 0.5em 0.2em 0.5em;
   border-bottom: 1px solid;
+  background-color: #202020;
 }
 
 .reveal table th[align=center],

@@ -245,6 +245,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   margin: auto;
   border-collapse: collapse;
   border-spacing: 0;
+  background-color: #202020;
 }
 
 .reveal table th {
@@ -256,6 +257,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   text-align: left;
   padding: 0.2em 0.5em 0.2em 0.5em;
   border-bottom: 1px solid;
+  background-color: #202020;
 }
 
 .reveal table th[align=center],
