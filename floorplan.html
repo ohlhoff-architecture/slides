@@ -37,6 +37,67 @@
         right: auto;
         transform: translate( -50%, -25% ) scale( 50% );
       }
+      
+      #ar-button {
+        background-image: url(../../assets/ic_view_in_ar_new_googblue_48dp.png);
+        background-repeat: no-repeat;
+        background-size: 20px 20px;
+        background-position: 12px 50%;
+        background-color: #fff;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        white-space: nowrap;
+        bottom: 132px;
+        padding: 0px 16px 0px 40px;
+        font-family: Roboto Regular, Helvetica Neue, sans-serif;
+        font-size: 14px;
+        color:#4285f4;
+        height: 36px;
+        line-height: 36px;
+        border-radius: 18px;
+        border: 1px solid #DADCE0;
+      }
+
+      #ar-button:active {
+        background-color: #E8EAED;
+      }
+
+      #ar-button:focus {
+        outline: none;
+      }
+
+      #ar-button:focus-visible {
+        outline: 1px solid #4285f4;
+      }
+
+      model-viewer > #ar-prompt {
+        position: absolute;
+        left: 50%;
+        bottom: 175px;
+        animation: elongate 2s infinite ease-in-out alternate;
+        display: none;
+      }
+
+      model-viewer[ar-status="session-started"] > #ar-prompt {
+        display: block;
+      }
+
+      model-viewer > #ar-prompt > img {
+        animation: circle 4s linear infinite;
+      }
+
+      model-viewer > #ar-failure {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 175px;
+        display: none;
+      }
+
+      model-viewer[ar-tracking="not-tracking"] > #ar-failure {
+        display: block;
+      }
     </style>
 	</head>
 	
@@ -543,33 +604,46 @@
 				  </section>
 				  
 				  <section>
+				    <model-viewer bounds="tight" 
+				    enable-pan 
+				    src="model.glb" 
+				    ar ar-modes="scene-viewer webxr quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1">
+    
+</model-viewer>
+
 				    <model-viewer
 				      bounds="tight" 
 				      enable-pan 
-				      src="assets/data/model.glb" 
-				      camera-controls
+				      src="assets/data/model.glb"
 				      ar
-				      ar-modes="webxr scene-viewer quick-look"
+				      ar-modes="scene-viewer webxr quick-look"
+				      camera-controls
 				      shadow-intensity="1"
 				      exposure="0.63"
 				      camera-orbit="-63.07deg 22.5deg auto">
-				        <button 
-				          class="Hotspot"
-				          slot="hotspot-2"
-				          data-position="2.2825536731904448m 1.279816767820142m 0.5982660888803135m"
-				          data-normal="0.30107940402654426m 0.9182314126179186m 0.2572980088394051m"
-				          data-visibility-attribute="visible">
-                    <div class="HotspotAnnotation">GRAPH</div>
-                </button>
-                <button slot="ar-button" id="ar-button">
-                  View in your space
-                </button>
+				       <button 
+				        class="Hotspot"
+				        slot="hotspot-2"
+				        data-position="2.2825536731904448m 1.279816767820142m 0.5982660888803135m"
+				        data-normal="0.30107940402654426m 0.9182314126179186m 0.2572980088394051m"
+				        data-visibility-attribute="visible">
+                 <div class="HotspotAnnotation">GRAPH</div>
+               </button>
                 <div 
-                  class="progress-bar hide" 
+                  class="progress-bar hide"
                   slot="progress-bar">
-                <div class="update-bar">
+                   <div class="update-bar">
+                   </div>
+                 </div>
+               <button slot="ar-button" id="ar-button">
+                  View in your space
+               </button>
+                <div id="ar-prompt">
+                  <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
                 </div>
-              </div>
+                <button id="ar-failure">
+                  AR is not tracking!
+                </button>
             </model-viewer>
            
 
