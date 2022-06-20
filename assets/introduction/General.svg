@@ -6,7 +6,7 @@
    version="1.1"
    id="svg1708"
    sodipodi:docname="General.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,14 +22,16 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.1875571"
-     inkscape:cx="1241.6245"
-     inkscape:cy="433.24233"
+     inkscape:cx="583.97192"
+     inkscape:cy="433.66336"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1044"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1708" />
+     inkscape:current-layer="svg1708"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs86">
     <g
@@ -413,7 +415,7 @@
      fill-opacity="1"
      d="M 397.730469 403.953125 L 556.730469 403.953125 C 559.492188 403.953125 561.730469 406.191406 561.730469 408.953125 L 561.730469 432.953125 C 561.730469 435.714844 559.492188 437.953125 556.730469 437.953125 L 397.730469 437.953125 C 394.96875 437.953125 392.730469 435.714844 392.730469 432.953125 L 392.730469 408.953125 C 392.730469 406.191406 394.96875 403.953125 397.730469 403.953125 Z M 397.730469 403.953125 "
      id="path158"
-     style="fill:#ffd92a;fill-opacity:0.82976454" />
+     style="fill:#ffd92a;fill-opacity:0.83137256" />
   <g
      fill="#000000"
      fill-opacity="1"
@@ -2129,7 +2131,7 @@
      fill-opacity="1"
      d="M 385.175781 498.28125 L 483.175781 498.28125 C 485.9375 498.28125 488.175781 500.519531 488.175781 503.28125 L 488.175781 549.28125 C 488.175781 552.042969 485.9375 554.28125 483.175781 554.28125 L 385.175781 554.28125 C 382.414062 554.28125 380.175781 552.042969 380.175781 549.28125 L 380.175781 503.28125 C 380.175781 500.519531 382.414062 498.28125 385.175781 498.28125 Z M 385.175781 498.28125 "
      id="path806"
-     style="fill:#ffe388;fill-opacity:0.61656797" />
+     style="fill:#ffe388;fill-opacity:0.6156863" />
   <g
      fill="rgb(0%, 0%, 0%)"
      fill-opacity="1"
