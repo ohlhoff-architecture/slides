@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1920 1080.0001"
+   width="1920"
+   height="1080"
+   version="1.1"
+   id="svg257"
+   sodipodi:docname="wheel.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview259"
+     pagecolor="#262626"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.84096523"
+     inkscape:cx="936.42397"
+     inkscape:cy="535.69397"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g621" />
+  <desc
+     id="desc2">wheel.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = file</desc>
+  <defs
+     id="defs17">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path4" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path11" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g253">
+    <g
+       id="g621"
+       transform="matrix(0.16013581,0,0,0.16013581,249.89609,1086.5692)">
+      <path
+         d="m 7314.5362,-3413.1604 a 2880.1507,2880.1507 0 0 0 -5760.3014,0 2880.1507,2880.1507 0 0 0 5760.3014,0 z"
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         id="path19" />
+      <path
+         d="m 5958.8732,-3413.1604 a 1524.4877,1524.4877 0 0 0 -3048.9753,0 1524.4877,1524.4877 0 0 0 3048.9753,0 z"
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         id="path21" />
+      <path
+         d="m 4886.6699,-3413.1604 a 452.28442,452.28442 0 0 0 -904.5688,0 452.28442,452.28442 0 0 0 904.5688,0 z"
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         id="path23" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 3522.3,-4634.7 2711.23,-5720.97"
+         id="path25" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 3762.42,-4781.56 3164.87,-5998.43"
+         id="path27" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 4313.06,-3848.87 3661.79,-6187.75"
+         id="path29" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 4297.51,-4931.49 4175.79,-6281.68"
+         id="path31" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 4578.98,-4930.78 128.58,-1349.55"
+         id="path33" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 4855.51,-4878.33 374.5,-1302.91"
+         id="path35" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 5117.7,-4775.93 607.64,-1211.86"
+         id="path37" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 4707.98,-3773.31 6176.66,-5706.57"
+         id="path39" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 5564.04,-4436.85 1004.55,-910.33"
+         id="path41" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 5732.98,-4211.73 1154.79,-710.13"
+         id="path43" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 5857.66,-3959.38 7123.32,-4445.1"
+         id="path45" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 5933.82,-3688.41 7267.2,-3933.17"
+         id="path47" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 4886.67,-3411.65 2427.85,8.13"
+         id="path49" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 5931.94,-3127.88 1331.72,253.69"
+         id="path51" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 5853.97,-2857.43 1262.38,494.19"
+         id="path53" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 5727.61,-2605.92 1150,717.85"
+         id="path55" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 5557.16,-2381.93 998.44,917.04"
+         id="path57" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 5348.44,-2193.09 812.83,1084.96"
+         id="path59" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 4634.4,-3007.51 5708.07,-829.946"
+         id="path61" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 4845.69,-1945.21 365.76,1305.393"
+         id="path63" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 4568.81,-1894.61 119.54,1350.381"
+         id="path65" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 4287.35,-1895.78 4156.59,-546.438"
+         id="path67" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 4010.89,-1948.68 3634.3,-646.37"
+         id="path69" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 4231.01,-3009.18 3139.28,-840.618"
+         id="path71" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 3510.23,-2200.73 -821.82,1078.17"
+         id="path73" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 3303.08,-2391.29 -1006.02,908.7"
+         id="path75" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 3134.5,-2616.69 -1155.93,708.26"
+         id="path77" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 3010.23,-2869.24 -1266.44,483.68"
+         id="path79" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 2934.51,-3140.33 -1333.78,242.61"
+         id="path81" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 2909.92,-3420.72 -1355.65,-6.73"
+         id="path83" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="M 2937.29,-3700.86 1605.99,-3956.7"
+         id="path85" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 4013.49,-3578.71 -2259.37,-888.7"
+         id="path87" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 3142.47,-4222.49 -1148.85,-719.7"
+         id="path89" />
+      <path
+         style="fill:none;stroke:#fefefe;stroke-linecap:round;stroke-opacity:1;stroke-width:6.24469942;stroke-dasharray:none"
+         d="m 3313.28,-4446.2 -996.96,-918.65"
+         id="path91" />
+      <text
+         x="4439.9819"
+         y="-5615.4727"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-89.8544,4439.9818,-5615.4724)"
+         id="text95"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan93"
+           x="4439.9819"
+           y="-5615.4727">TERRIFIED</tspan></text>
+      <text
+         x="4035.0071"
+         y="-5578.9644"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-100.448,4035.0072,-5578.9643)"
+         id="text99"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan97"
+           x="4035.0071"
+           y="-5578.9644">SCARED</tspan></text>
+      <text
+         x="3643.6467"
+         y="-5468.627"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(68.958,3643.6468,-5468.6268)"
+         id="text103"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan101"
+           x="3643.6467"
+           y="-5468.627">GRATEFUL</tspan></text>
+      <text
+         x="3279.2417"
+         y="-5288.2212"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(58.365,3279.2417,-5288.2211)"
+         id="text107"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan105"
+           x="3279.2417"
+           y="-5288.2212">SENTIMENTAL</tspan></text>
+      <text
+         x="2954.2139"
+         y="-5043.897"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(47.7709,2954.214,-5043.897)"
+         id="text111"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan109"
+           x="2954.2139"
+           y="-5043.897">AFFECTIONATE</tspan></text>
+      <text
+         x="2679.6433"
+         y="-4743.9834"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(37.177,2679.6433,-4743.9832)"
+         id="text115"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan113"
+           x="2679.6433"
+           y="-4743.9834">ROMANTIC</tspan></text>
+      <text
+         x="2464.8894"
+         y="-4398.7036"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(26.584,2464.8895,-4398.7035)"
+         id="text119"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan117"
+           x="2464.8894"
+           y="-4398.7036">ENCHANTED</tspan></text>
+      <text
+         x="2317.2732"
+         y="-4019.8279"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(15.99,2317.2732,-4019.8278)"
+         id="text123"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan121"
+           x="2317.2732"
+           y="-4019.8279">EUPHORIC</tspan></text>
+      <text
+         x="2241.8267"
+         y="-3620.2717"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(5.396,2241.8266,-3620.2717)"
+         id="text127"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan125"
+           x="2241.8267"
+           y="-3620.2717">EXCITED</tspan></text>
+      <text
+         x="2241.1213"
+         y="-3213.6555"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-5.19747,2241.1214,-3213.6554)"
+         id="text131"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan129"
+           x="2241.1213"
+           y="-3213.6555">OPTIMISTIC</tspan></text>
+      <text
+         x="2315.1816"
+         y="-2813.8401"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-15.7911,2315.1817,-2813.84)"
+         id="text135"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan133"
+           x="2315.1816"
+           y="-2813.8401">PROUD</tspan></text>
+      <text
+         x="2461.4829"
+         y="-2434.4546"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-26.3848,2461.4829,-2434.4546)"
+         id="text139"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan137"
+           x="2461.4829"
+           y="-2434.4546">CHEERFUL</tspan></text>
+      <text
+         x="2675.0378"
+         y="-2088.4321"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-36.9785,2675.0377,-2088.432)"
+         id="text143"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan141"
+           x="2675.0378"
+           y="-2088.4321">HAPPY</tspan></text>
+      <text
+         x="2948.5664"
+         y="-1787.5677"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-47.5722,2948.5664,-1787.5677)"
+         id="text147"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan145"
+           x="2948.5664"
+           y="-1787.5677">CONTENT</tspan></text>
+      <text
+         x="3272.7449"
+         y="-1542.1177"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-58.1658,3272.7448,-1542.1177)"
+         id="text151"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan149"
+           x="3272.7449"
+           y="-1542.1177">PEACEFUL</tspan></text>
+      <text
+         x="3636.522"
+         y="-1360.4491"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-68.7595,3636.5219,-1360.4491)"
+         id="text155"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan153"
+           x="3636.522"
+           y="-1360.4491">MOVED</tspan></text>
+      <text
+         x="4027.4973"
+         y="-1248.7548"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-79.3532,4027.4972,-1248.7547)"
+         id="text159"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan157"
+           x="4027.4973"
+           y="-1248.7548">OVERCOME</tspan></text>
+      <text
+         x="4432.3428"
+         y="-1210.8422"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-89.9469,4432.3428,-1210.8421)"
+         id="text163"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan161"
+           x="4432.3428"
+           y="-1210.8422">AMAZED</tspan></text>
+      <text
+         x="4837.2578"
+         y="-1248.0037"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(79.459,4837.258,-1248.0037)"
+         id="text167"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan165"
+           x="4837.2578"
+           y="-1248.0037">CONFUSED</tspan></text>
+      <text
+         x="5228.4399"
+         y="-1358.9725"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(68.866,5228.4398,-1358.9726)"
+         id="text171"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan169"
+           x="5228.4399"
+           y="-1358.9725">STUNNED</tspan></text>
+      <text
+         x="5592.5532"
+         y="-1539.9661"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(58.272,5592.5534,-1539.966)"
+         id="text175"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan173"
+           x="5592.5532"
+           y="-1539.9661">GLOOMY</tspan></text>
+      <text
+         x="5917.1865"
+         y="-1784.8142"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(47.678,5917.1865,-1784.8142)"
+         id="text179"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan177"
+           x="5917.1865"
+           y="-1784.8142">LONELY</tspan></text>
+      <text
+         x="6191.2729"
+         y="-2085.1707"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(37.085,6191.2728,-2085.1706)"
+         id="text183"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan181"
+           x="6191.2729"
+           y="-2085.1707">SHAMEFUL</tspan></text>
+      <text
+         x="6405.4692"
+         y="-2430.7964"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(26.491,6405.4692,-2430.7965)"
+         id="text187"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan185"
+           x="6405.4692"
+           y="-2430.7964">DISAPPOINTED</tspan></text>
+      <text
+         x="6552.4741"
+         y="-2809.9099"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(15.897,6552.4739,-2809.9098)"
+         id="text191"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan189"
+           x="6552.4741"
+           y="-2809.9099">UNHAPPY</tspan></text>
+      <text
+         x="6627.2759"
+         y="-3209.5872"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(5.304,6627.2758,-3209.5872)"
+         id="text195"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan193"
+           x="6627.2759"
+           y="-3209.5872">HURT</tspan></text>
+      <text
+         x="6627.3247"
+         y="-3616.2041"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-5.28992,6627.3249,-3616.2041)"
+         id="text199"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan197"
+           x="6627.3247"
+           y="-3616.2041">DISGUSTED</tspan></text>
+      <text
+         x="6552.6196"
+         y="-4015.8994"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-15.8836,6552.6195,-4015.8995)"
+         id="text203"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan201"
+           x="6552.6196"
+           y="-4015.8994">JEALOUS</tspan></text>
+      <text
+         x="6405.7065"
+         y="-4395.0483"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-26.4773,6405.7064,-4395.0483)"
+         id="text207"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan205"
+           x="6405.7065"
+           y="-4395.0483">IRRITABLE</tspan></text>
+      <text
+         x="6191.5933"
+         y="-4740.7256"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-37.0709,6191.5934,-4740.7258)"
+         id="text211"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan209"
+           x="6191.5933"
+           y="-4740.7256">EXASPERATED</tspan></text>
+      <text
+         x="5917.5796"
+         y="-5041.1484"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-47.6646,5917.5796,-5041.1484)"
+         id="text215"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan213"
+           x="5917.5796"
+           y="-5041.1484">ENRAGED</tspan></text>
+      <text
+         x="5593.0059"
+         y="-5286.0752"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-58.2583,5593.0056,-5286.075)"
+         id="text219"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan217"
+           x="5593.0059"
+           y="-5286.0752">HORRIFIED</tspan></text>
+      <text
+         x="5228.936"
+         y="-5467.1562"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-68.852,5228.9358,-5467.1564)"
+         id="text223"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan221"
+           x="5228.936"
+           y="-5467.1562">NERVOUS</tspan></text>
+      <text
+         x="4837.7808"
+         y="-5578.2197"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-79.4456,4837.7808,-5578.2197)"
+         id="text227"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan225"
+           x="4837.7808"
+           y="-5578.2197">INSECURE</tspan></text>
+      <text
+         x="4631.9814"
+         y="-4381.5938"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-79.4456,4631.9814,-4381.5935)"
+         id="text231"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan229"
+           x="4631.9814"
+           y="-4381.5938">FEAR</tspan></text>
+      <text
+         x="3781.4819"
+         y="-4155.2007"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(47.678,3781.482,-4155.2008)"
+         id="text235"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan233"
+           x="3781.4819"
+           y="-4155.2007">LOVE</tspan></text>
+      <text
+         x="4430.2793"
+         y="-2424.783"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-90.7397,4430.2791,-2424.7828)"
+         id="text239"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan237"
+           x="4430.2793"
+           y="-2424.783">SURPRISE</tspan></text>
+      <text
+         x="5272.8325"
+         y="-2889.793"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(30.995,5272.8326,-2889.7929)"
+         id="text243"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan241"
+           x="5272.8325"
+           y="-2889.793">SADNESS</tspan></text>
+      <text
+         x="5320.5186"
+         y="-3850.9675"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-27.2701,5320.5185,-3850.9676)"
+         id="text247"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan245"
+           x="5320.5186"
+           y="-3850.9675">ANGER</tspan></text>
+      <text
+         x="3506.8079"
+         y="-3071.8296"
+         style="font-size:3.78px;font-family:Roboto;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         transform="rotate(-21.1804,3506.8079,-3071.8296)"
+         id="text251"><tspan
+           sodipodi:role="line"
+           dx="0"
+           dy="1.889764"
+           style="font-size:105.827px;fill:#ffffff;fill-opacity:1"
+           id="tspan249"
+           x="3506.8079"
+           y="-3071.8296">JOY</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="layer 1"
+     id="g255" />
+</svg>
