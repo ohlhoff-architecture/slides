@@ -29,36 +29,46 @@
 			
 			  <!-- Slide Start -->
 				<section>
-          <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif">
-            URBAN<br>
-            EMOTION
-          </p>
+				  <section>
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif">
+              URBAN<br>
+              EMOTION
+            </p>
+            </section>
+            <section 
+				      data-background="assets/kotti/method.svg"
+				      data-background-size= "contain"
+				      data-background-transition="none"
+				      data-transition="none"
+				    ></section>
+          </section>
 				</section>
 				<!-- Slide End -->
 				
 				<!-- Vertical Deck Start -->
 				<section>				  
-				  <section 
-				    data-background="assets/kotti/method.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
 				  <section data-background="assets/kotti/thumb.png" data-background-opacity= 0.7>
             <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              FIELD<br>
-              STUDY
+              INTRODUCTION
             </p>
 				  </section>
 				    
-				  <section data-background="assets/kotti/field_study/kotti_psy_2.jpg">
+				  <section>
+				    <a href="http://www.larissafassler.com/kotti_revisited_14.html">
+				      <img src="assets/kotti/field_study/kotti_psy_2.jpg" width="1000">
+				    </a>
 				  </section>
 				    
-				  <section data-background="assets/kotti/field_study/kotti_psy_3.jpg">
+				  <section>
+				    <a href="http://www.larissafassler.com/kotti_revisited_14.html">
+				      <img src="assets/kotti/field_study/kotti_psy_3.jpg" width="1000">
+				    </a>
 				  </section>
 				  
-				  <section data-background="assets/kotti/field_study/kotti_psy_1.jpg">
+				  <section>
+				    <a href="http://www.larissafassler.com/kotti_revisited_14.html">
+				      <img src="assets/kotti/field_study/kotti_psy_1.jpg" width="1000">
+				    </a>
 				  </section>
 				    
 				  <section 
@@ -82,23 +92,32 @@
 				    data-transition="none"
 				  ></section>
 				    
-				  <section data-background="assets/kotti/field_study/kotze.png">
+				  <section>
+				    <a href="https://www.chrissekunst.de/" ><img src="assets/kotti/field_study/kotze.png" width="1000" ></a>
 				  </section>
 				    
-				  <section 
-				    data-background="assets/kotti/field_study/kotti_foto_2.jpg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
+				  <section>
+				    <img src="assets/kotti/field_study/kotti_foto_2.jpg" width="600" >
+				  </section>
 				  
-				  <section data-background="assets/kotti/field_study/book.png"
-				    data-background-size= "contain"
-				  ></section>
+				  <section>
+				    <a href="https://claudethoma.com/design-in-urban-conflicts" ><img src="assets/kotti/field_study/book.png" width="800" ></a>
+				  </section>
 				    
 				  <section>
-				    <img src="assets/kotti/field_study/art_1.jpg" width="450" >
-				    <img src="assets/kotti/field_study/art_2.jpg" width="450" >
+				    <a href="https://muthesius.com/en/alle_werke/" ><img src="assets/kotti/field_study/art_1.jpg" width="450" ></a>
+				    <a href="https://muthesius.com/en/alle_werke/" ><img src="assets/kotti/field_study/art_2.jpg" width="450" ></a>
+				  </section>
+				</section>
+				<!-- Slide End -->
+				
+				<!-- Vertical Deck Start -->
+				<section>	
+				  <section data-background="assets/kotti/thumb.png" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+              FIELD<br>
+              STUDY
+            </p>
 				  </section>
 				  
 				  <section data-background="assets/kotti/field_study/words.svg"
@@ -369,7 +388,7 @@
 
                     bpy.context.scene.render.image_settings.file_format = "PNG"
                     bpy.context.scene.render.filepath = (
-                        "/home/sinasta/Documents/MA2/AIM/project/emotions/out/" + str(y) + ".png"
+                        "./out/" + str(y) + ".png"
                     )
                     bpy.ops.render.render(write_still=True)
 					    </code>
@@ -391,19 +410,13 @@
 				    <img class="fragment" src="assets/kotti/mapping/eval.svg" width="600" >
 				  </section>
 				  
-				  <section>
-            <p>
-              OVERVIEW<br>
-              [emotions, syn, words, flow, modules]
-              blocs
-            </p>
-				  </section>
+				  <section data-background="assets/kotti/mapping/overview.svg"
+				    data-background-size= "contain"
+				  ></section>
 				  
-				  <section>
-            <p>
-              WORDS > EMOTIONS (image network emotions words)
-            </p>
-				  </section>
+				  <section data-background="assets/kotti/mapping/chart.svg"
+				    data-background-size= "contain"
+				  ></section>
 				    
 				</section>
 				<!-- Vertical Deck End -->
@@ -416,11 +429,12 @@
             </p>
 				  </section>
 				
-					<section>
-            <p>
-              ABSTRACT >emotion> CONCRETE
-            </p>
-				  </section>
+					<section 
+				    data-background="assets/kotti/translation/abstract_concrete.svg"
+				    data-background-size= "contain"
+				    data-background-transition="none"
+				    data-transition="none"
+				  ></section>
 				
 				  <section>
             <p>
@@ -552,7 +566,6 @@
                         bpy.ops.object.select_pattern(pattern="arc*")
                         bpy.ops.object.join()
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "corner_house" in bpy.data.objects:
                         amount = 5 + amount_level
                         corner_house = bpy.data.objects["corner_house"]
@@ -560,7 +573,6 @@
                         mod.relative_offset_displace = (0, 0, -1)
                         mod.count = amount
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "dish" in bpy.data.objects:
                         amount = 5
                         for i in range(amount):
@@ -575,7 +587,6 @@
                                 obj.name = "dish_" + str(i)
                                 obj.data.name = "dish_" + str(i)
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "fence" in bpy.data.objects:
                         amount = 3 + amount_level
                         fence = bpy.data.objects["fence"]
@@ -583,7 +594,6 @@
                         mod.relative_offset_displace = (1, 0, 0)
                         mod.count = amount
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "apple" in bpy.data.objects:
                         amount = amount_level
                         for i in range(amount):
@@ -595,7 +605,6 @@
                                 up_axis="Z",
                             )
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "horn_house" in bpy.data.objects:
                         amount = 5 + amount_level
                         horn_house = bpy.data.objects["horn_house"]
@@ -607,7 +616,6 @@
                         bpy.ops.object.select_pattern(pattern="horn_house*")
                         bpy.ops.object.join()
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "skeleton_house" in bpy.data.objects:
                         amount = 6 + amount_level
                         skeleton_house = bpy.data.objects["skeleton_house"]
@@ -619,7 +627,6 @@
                         bpy.ops.object.select_pattern(pattern="skeleton_house*")
                         bpy.ops.object.join()
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "subway_bridge" in bpy.data.objects:
                         amount = 2 + amount_level
                         subway_bridge = bpy.data.objects["subway_bridge"]
@@ -627,7 +634,6 @@
                         mod.relative_offset_displace = (1, 0, 0)
                         mod.count = amount
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "metro_entrance" in bpy.data.objects:
                         amount = amount_level
                         for i in range(amount):
@@ -639,7 +645,6 @@
                                 up_axis="Z",
                             )
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "subway_wall" in bpy.data.objects:
                         amount = 2
                         subway_wall = bpy.data.objects["subway_wall"]
@@ -656,7 +661,6 @@
                         mod.relative_offset_displace = (0, 0, -1)
                         mod.count = amount
                         bpy.ops.object.select_all(action="DESELECT")
-
                     if "window" in bpy.data.objects:
                         amount = 6 + amount_level * amount_level
                         window = bpy.data.objects["window"]
@@ -713,7 +717,7 @@
                     bpy.data.linestyles["LineStyle"].thickness = 0.3
                     bpy.data.linestyles["LineStyle"].color = (0, 0, 0)
                     bpy.data.linestyles["LineStyle"].chaining = "SKETCHY"
-                    bpy.data.linestyles["LineStyle"].rounds = 10
+                    bpy.data.linestyles["LineStyle"].rounds = 8
                     bpy.context.scene.view_layers["ViewLayer"].freestyle_settings.crease_angle = 2.44346
                     bpy.context.scene.view_layers["ViewLayer"].freestyle_settings.linesets[
                         "LineSet"
@@ -754,8 +758,11 @@
                     return True
 
 
-                def set_seed():
-                    seed = int(time.time() * 10000000)
+                def set_seed(defined_seed):
+                    if not defined_seed:
+                        seed = int(time.time() * 10000000)
+                    else:
+                        seed = defined_seed
                     random.seed(seed)
                     print("seed:", seed)
                     return seed
@@ -770,7 +777,10 @@
                             "Distance from Camera"
                         ].invert = True
                     elif value == "sharp":
-                        pass
+                        bpy.data.cameras["Camera"].dof.use_dof = False
+                        mod_list = bpy.data.linestyles["LineStyle"].thickness_modifiers
+                        for mod in mod_list:
+                            bpy.data.linestyles["LineStyle"].thickness_modifiers.remove(mod)
                     else:
                         raise Exception("something went wrong")
                     bpy.ops.object.select_all(action="DESELECT")
@@ -1036,8 +1046,8 @@
 
 
                 clean_scene()
-                seed = set_seed()
-                path = "/home/sinasta/Documents/MA2/AIM/project/final/"
+                seed = set_seed(defined_seed=False)
+                path = "./"
                 input_dict = parse_input_data(path)
                 import_word(input_dict["word"])
                 setup_scene(input_dict["color_rgb"])
@@ -1048,24 +1058,22 @@
 					    </code>
 					  </pre>
 				  </section>
-				    
+
 				  <section>
-            <p>
-              Final result I
-            </p>
+				    <img src="assets/kotti/translation/scared.png" height="550" >
+				    <img src="assets/kotti/translation/excited.png" height="550" >
+				  </section>
+				      
+				  <section>
+				    <img src="assets/kotti/translation/cheerful.png" height="550" >
+				    <img src="assets/kotti/translation/nervous.png" height="550" >
+				  </section>
+				      
+				  <section>
+				    <img src="assets/kotti/translation/insecure.png" height="550" >
+				    <img src="assets/kotti/translation/proud.png" height="550" >
 				  </section>
 				    
-				  <section>
-            <p>
-              Final result II
-            </p>
-				  </section>
-				    
-				  <section>
-            <p>
-              Final result III
-            </p>
-				  </section>
 				</section>
 				<!-- Vertical Deck End -->
 				  
@@ -1075,7 +1083,9 @@
             <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
               DISCUSSION
             </p>
-				    <img src="assets/kotti/discussion/github.svg" width="50" >
+				    <a href="https://github.com/Sinasta/kotti">
+				      <img src="assets/kotti/discussion/github.svg" width="50" >
+				      </a>
 				    <img src="assets/kotti/discussion/qrcode.svg" width="50" >
 				  </section>
 				</section>
