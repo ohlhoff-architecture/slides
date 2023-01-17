@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="500"
+   width="587.90887"
    height="700"
-   viewBox="0 0 500.00001 700.00002"
+   viewBox="0 0 587.90889 699.9999"
    version="1.1"
    id="svg325"
-   sodipodi:docname="overview.svg"
+   sodipodi:docname="eval_happiness.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -13,16 +13,16 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview327"
-     pagecolor="#0b0b0b"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="2.4051948"
-     inkscape:cx="226.80076"
-     inkscape:cy="342.38391"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="257.74041"
+     inkscape:cy="551.18972"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -175,142 +175,65 @@
        height="142.46138"
        id="rect4035" />
   </defs>
-  <g
-     id="g3635-5-6-5-2"
-     transform="rotate(90,44.733414,256.99315)">
-    <path
-       style="fill:none;stroke:#bbbbbb;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 140,51.726562 h 80.78469"
-       id="path1418-4-9-5-7"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:type="star"
-       style="fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.835;stroke-dasharray:6.68, 6.68"
-       id="path1701-7-37-4-0"
-       inkscape:flatsided="false"
-       sodipodi:sides="3"
-       sodipodi:cx="218.76961"
-       sodipodi:cy="51.726562"
-       sodipodi:r1="8.0603151"
-       sodipodi:r2="4.0301576"
-       sodipodi:arg1="-2.0943951"
-       sodipodi:arg2="-1.0471976"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       inkscape:transform-center-x="-2.0150687"
-       d="m 214.73945,44.746125 6.04524,3.490219 6.04523,3.490219 -6.04523,3.490218 -6.04524,3.490219 0,-6.980437 z" />
-  </g>
-  <g
-     id="g3635-5-6-5"
-     transform="rotate(90,105.27824,196.44832)">
-    <path
-       style="fill:none;stroke:#bbbbbb;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 150,51.726562 h 80.78469"
-       id="path1418-4-9-5"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:type="star"
-       style="fill:#bbbbbb;fill-opacity:1;stroke:none;stroke-width:0.835;stroke-dasharray:6.68, 6.68"
-       id="path1701-7-37-4"
-       inkscape:flatsided="false"
-       sodipodi:sides="3"
-       sodipodi:cx="218.76961"
-       sodipodi:cy="51.726562"
-       sodipodi:r1="8.0603151"
-       sodipodi:r2="4.0301576"
-       sodipodi:arg1="-2.0943951"
-       sodipodi:arg2="-1.0471976"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       inkscape:transform-center-x="-2.0150687"
-       d="m 214.73945,44.746125 6.04524,3.490219 6.04523,3.490219 -6.04523,3.490218 -6.04524,3.490219 0,-6.980437 z"
-       transform="translate(-22.752699)" />
-  </g>
-  <g
-     id="g658"
-     transform="translate(-442.25634,-98.049085)">
-    <path
-       fill-rule="nonzero"
-       fill="rgb(24.705882%, 74.901961%, 68.235294%)"
-       fill-opacity="1"
-       d="m 626.24118,416.04909 h 132.03029 c 2.76172,0 5,2.23828 5,4.99999 v 54 c 0,2.76172 -2.23828,5 -5,5 H 626.24118 c -2.76172,0 -5,-2.22769 -5,-5 v -54 c 0,-2.73367 2.23828,-4.99999 5,-4.99999 z"
-       id="path217"
-       style="fill:#3aad9d;fill-opacity:1"
-       sodipodi:nodetypes="sssssssss" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#ebebeb;fill-opacity:1;stroke:none"
-       x="691.83154"
-       y="455.32935"
-       id="text681"><tspan
-         sodipodi:role="line"
-         x="691.83154"
-         y="455.32935"
-         style="font-size:20px;text-align:center;text-anchor:middle;fill:#ebebeb;fill-opacity:1"
-         id="tspan1847">EMOTIONS</tspan></text>
-  </g>
-  <g
-     id="g677"
-     transform="translate(-859.90167,20.077145)">
-    <g
-       id="g1211-3"
-       transform="translate(922.05272,403.92285)">
-      <path
-         fill-rule="nonzero"
-         fill="rgb(24.705882%, 74.901961%, 68.235294%)"
-         fill-opacity="1"
-         d="M 93.301794,18 H 282.39611 c 2.76172,0 5,2.238281 5,5 v 73.079588 c 0,2.761719 -2.23828,5.000002 -5,5.000002 H 93.301794 c -2.76172,0 -5,-2.238283 -5,-5.000002 V 23 c 0,-2.761719 2.23828,-5 5,-5 z"
-         id="path67-6"
-         style="fill:#3aad9d;fill-opacity:1"
-         sodipodi:nodetypes="sssssssss" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#ebebeb;fill-opacity:1;stroke:none"
-       x="1109.3938"
-       y="458.24292"
-       id="text681-6-9"><tspan
-         sodipodi:role="line"
-         x="1109.3938"
-         y="458.24292"
-         id="tspan683-9-6"
-         style="font-size:20px;text-align:center;text-anchor:middle;fill:#ebebeb;fill-opacity:1">COMPOSITIONAL</tspan><tspan
-         sodipodi:role="line"
-         x="1109.3938"
-         y="483.24292"
-         style="font-size:20px;text-align:center;text-anchor:middle;fill:#ebebeb;fill-opacity:1"
-         id="tspan491">RULES</tspan></text>
-  </g>
-  <g
-     id="g774"
-     transform="translate(-609.6311,-31.668595)">
-    <g
-       id="g1211-3-5"
-       transform="translate(671.78214,188.58901)">
-      <path
-         fill-rule="nonzero"
-         fill="rgb(24.705882%, 74.901961%, 68.235294%)"
-         fill-opacity="1"
-         d="m 121.8338,18 h 132.03029 c 2.76172,0 5,2.238281 5,5 v 73.079588 c 0,2.761719 -2.23828,5.000002 -5,5.000002 H 121.8338 c -2.76172,0 -5,-2.238283 -5,-5.000002 V 23 c 0,-2.761719 2.23828,-5 5,-5 z"
-         id="path67-6-6"
-         style="fill:#3aad9d;fill-opacity:1"
-         sodipodi:nodetypes="sssssssss" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#ebebeb;fill-opacity:1;stroke:none"
-       x="859.12323"
-       y="242.90907"
-       id="text681-6-9-2"><tspan
-         sodipodi:role="line"
-         x="859.12323"
-         y="242.90907"
-         style="font-size:20px;text-align:center;text-anchor:middle;fill:#ebebeb;fill-opacity:1"
-         id="tspan491-1">SYNTHETIC</tspan><tspan
-         sodipodi:role="line"
-         x="859.12323"
-         y="267.90906"
-         style="font-size:20px;text-align:center;text-anchor:middle;fill:#ebebeb;fill-opacity:1"
-         id="tspan762">IMAGES</tspan></text>
-  </g>
+  <path
+     fill-rule="nonzero"
+     fill="rgb(24.705882%, 74.901961%, 68.235294%)"
+     fill-opacity="1"
+     d="M 19.985326,612.24842 H 134.87442 c 2.76172,0 5,2.23828 5,5 V 695 c 0,2.76172 -2.23828,5 -5,5 H 19.985326 c -2.76172,0 -5,-2.22755 -5,-5 v -77.75158 c 0,-2.76795 2.23828,-5 5,-5 z"
+     id="path217"
+     style="fill:#3aad9d;fill-opacity:1"
+     sodipodi:nodetypes="sssssssss" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;fill:#ebebeb;fill-opacity:1;stroke:none"
+     x="76.990425"
+     y="638.5592"
+     id="text681"><tspan
+       sodipodi:role="line"
+       x="76.990425"
+       y="638.5592"
+       id="tspan683"
+       style="font-size:20px;text-align:center;text-anchor:middle;fill:#ebebeb;fill-opacity:1">EUPHORIC</tspan><tspan
+       sodipodi:role="line"
+       x="76.990425"
+       y="663.5592"
+       style="font-size:20px;text-align:center;text-anchor:middle;fill:#ebebeb;fill-opacity:1"
+       id="tspan1847">AMAZED</tspan><tspan
+       sodipodi:role="line"
+       x="76.990425"
+       y="688.5592"
+       style="font-size:20px;text-align:center;text-anchor:middle;fill:#ebebeb;fill-opacity:1"
+       id="tspan487">EXCITED</tspan></text>
+  <path
+     fill-rule="nonzero"
+     fill="rgb(24.705882%, 74.901961%, 68.235294%)"
+     fill-opacity="1"
+     d="m 150.01465,612.24842 h 417.9089 c 2.76172,0 5,2.23828 5,5 V 695 c 0,2.76172 -2.23828,5 -5,5 h -417.9089 c -2.76172,0 -5,-2.22755 -5,-5 v -77.75158 c 0,-2.76795 2.23828,-5 5,-5 z"
+     id="path599"
+     style="fill:#3aad9d;fill-opacity:1"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(24.705882%, 74.901961%, 68.235294%)"
+     fill-opacity="1"
+     d="m 161.06251,652.60317 374.93754,0 c 0.20291,0 0.36736,0.16444 0.36736,0.36735 v 6.61684 c 0,0.20291 -0.16445,0.36736 -0.36736,0.36736 l -374.93754,0 c -0.20291,0 -0.36736,-0.1557 -0.36736,-0.36736 v -6.61684 c 0,-0.31235 0.16445,-0.36735 0.36736,-0.36735 z"
+     id="path615"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.0734707"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(24.705882%, 74.901961%, 68.235294%)"
+     fill-opacity="1"
+     d="m 161.06251,627.87427 140.93752,0 c 0.20291,0 0.36736,0.16444 0.36736,0.36735 v 6.61684 c 0,0.20291 -0.16445,0.36736 -0.36736,0.36736 l -140.93752,0 c -0.20291,0 -0.36736,-0.1557 -0.36736,-0.36736 v -6.61684 c 0,-0.31235 0.16445,-0.36735 0.36736,-0.36735 z"
+     id="path1453"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.0734707"
+     sodipodi:nodetypes="sssssssss" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(24.705882%, 74.901961%, 68.235294%)"
+     fill-opacity="1"
+     d="m 161.06251,677.80599 245.93752,0 c 0.20291,0 0.36736,0.16444 0.36736,0.36735 v 6.61684 c 0,0.20291 -0.16445,0.36736 -0.36736,0.36736 l -245.93752,0 c -0.20291,0 -0.36736,-0.1557 -0.36736,-0.36736 v -6.61684 c 0,-0.31235 0.16445,-0.36735 0.36736,-0.36735 z"
+     id="path1455"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.0734707"
+     sodipodi:nodetypes="sssssssss" />
 </svg>
