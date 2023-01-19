@@ -21,15 +21,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.59465222"
-     inkscape:cx="954.33933"
-     inkscape:cy="547.37877"
+     inkscape:zoom="2.3786089"
+     inkscape:cx="1004.9992"
+     inkscape:cy="543.38484"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g621"
+     inkscape:current-layer="g874"
      showguides="true" />
   <desc
      id="desc2">wheel.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = file</desc>
@@ -172,6 +172,16 @@
            style="fill:none;stroke:#fefefe;stroke-width:6.2447;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            d="m 4013.49,-3578.71 -2259.37,-888.7"
            id="path87" />
+        <path
+           style="fill:none;stroke:#fefefe;stroke-width:6.2447;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="m 4634.4,-3007.51 -321.34,-841.36"
+           id="path87-3"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#fefefe;stroke-width:6.2447;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 4884.1899,-3007.5064 4562.8481,-3848.87"
+           id="path87-3-6"
+           sodipodi:nodetypes="cc" />
         <path
            style="fill:none;stroke:#fefefe;stroke-width:6.2447;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            d="m 3142.47,-4222.49 -1148.85,-719.7"
@@ -453,6 +463,30 @@
              id="tspan249"
              x="3506.8079"
              y="-3071.8296">JOY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:116.568px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.2447"
+           x="-1891.1395"
+           y="-5166.0879"
+           id="text929"
+           transform="rotate(69.13582)"><tspan
+             sodipodi:role="line"
+             id="tspan927"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:116.568px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:6.2447"
+             x="-1891.1395"
+             y="-5166.0879">POSITIVE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:116.568px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6.2447"
+           x="-1597.5331"
+           y="-5795.6753"
+           id="text929-3"
+           transform="rotate(67.002914)"><tspan
+             sodipodi:role="line"
+             id="tspan927-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:116.568px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1;stroke-width:6.2447"
+             x="-1597.5331"
+             y="-5795.6753">NEGATIVE</tspan></text>
       </g>
       <g
          id="g712"
