@@ -13,6 +13,5 @@ node_modules/
 node_modules/
 dist/
 .parcel-cache
-package-lock.json
 examples/
 test/
