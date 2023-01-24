@@ -14,9 +14,7 @@
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/black.css">
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">		
-		<link rel="stylesheet" href="plugin/fullscreen/plugin.js">
-    <script src="plugin/fullscreen/plugin.js"></script>
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
 		<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 		<style>
       model-viewer {
@@ -1014,6 +1012,7 @@
 		<script src="dist/reveal.js"></script>
 		<script src="plugin/zoom/zoom.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
 		<script>
 			Reveal.initialize({
 			  autoSlide: 8000,
@@ -1035,7 +1034,7 @@
 				mobileViewDistance: 3,
 				margin: -0.3,
 				
-				plugins: [ RevealZoom, RevealMarkdown, RevealFullscreen ]
+				plugins: [ RevealZoom, RevealMarkdown, RevealHighlight ]
 		  });
 		</script>
 

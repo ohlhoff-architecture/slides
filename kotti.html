@@ -15,10 +15,6 @@
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/black.css">
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
-		<link rel="stylesheet" href="plugin/drawer/drawer.css">
-    <script src="plugin/fullscreen/plugin.js"></script>
-		
-		<script src="plugin/drawer/drawer.js"></script>
 	</head>
 	
 	<body>
@@ -1577,6 +1573,7 @@
 		<script src="dist/reveal.js"></script>
 		<script src="plugin/zoom/zoom.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
 		<script>
 			Reveal.initialize({
 		    keyboardCondition: null,
@@ -1599,7 +1596,7 @@
 				mobileViewDistance: 3,
 				margin: -0.3,
 				
-				plugins: [ RevealZoom, RevealMarkdown]
+				plugins: [ RevealZoom, RevealMarkdown, RevealHighlight ]
 		  });
 		</script>
 
