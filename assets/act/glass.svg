@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1122.5197 793.7008"
+   width="297mm"
+   height="210mm"
+   version="1.1"
+   id="svg51"
+   sodipodi:docname="glass.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview53"
+     pagecolor="#242424"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.8371782"
+     inkscape:cx="523.78335"
+     inkscape:cy="401.94549"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g49"
+     inkscape:document-units="mm" />
+  <desc
+     id="desc2">test.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = file</desc>
+  <defs
+     id="defs17">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path4" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path7" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path9" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path11" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g49">
+    <g
+       id="g1131"
+       transform="matrix(0.37600959,0,0,0.37600959,141.50906,185.00482)"
+       style="stroke:none">
+      <path
+         id="rect957"
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+         d="M 179.08003,183.87642 94.513633,525.27485 c -29.3027,120.04174 -1.7064,293.80915 152.595697,417.65821 h 124.6934 124.6914 C 650.79623,819.084 678.39253,645.31659 649.08983,525.27485 l -84.5664,-341.39843 h -192.7207 z m 8.8731,11.33789 h 183.8496 183.8476 l 82.4336,332.78711 c 43.7081,191.37139 -87.1858,357.52715 -266.2812,361.63867 C 192.70733,885.52857 61.813333,719.37281 105.52143,528.00142 Z" />
+      <path
+         id="rect1111"
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 175.51731,276.85933 v 0 l -62.65988,252.95849 c -35.368097,116.89116 28.3589,341.64858 258.9433,352.1543 7e-4,3e-5 0,-3e-5 0,0 230.5844,-10.50572 294.3094,-235.26314 258.9414,-352.1543 L 564.97661,264.31564 v 0 0 z"
+         sodipodi:nodetypes="cccscccccc" />
+    </g>
+    <g
+       id="g1131-3"
+       transform="matrix(0.37600959,0,0,0.37600959,421.45883,185.00482)"
+       style="stroke:none">
+      <path
+         id="rect957-6"
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+         d="M 179.08003,183.87642 94.513633,525.27485 c -29.3027,120.04174 -1.7064,293.80915 152.595697,417.65821 h 124.6934 124.6914 C 650.79623,819.084 678.39253,645.31659 649.08983,525.27485 l -84.5664,-341.39843 h -192.7207 z m 8.8731,11.33789 h 183.8496 183.8476 l 82.4336,332.78711 c 43.7081,191.37139 -87.1858,357.52715 -266.2812,361.63867 C 192.70733,885.52857 61.813333,719.37281 105.52143,528.00142 Z" />
+      <path
+         id="rect1111-7"
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 616.82627,473.63805 -484.31067,-23.18043 -19.65817,79.3602 c -35.368097,116.89116 28.3589,341.64858 258.9433,352.1543 7e-4,3e-5 0,-3e-5 0,0 230.5844,-10.50572 294.3094,-235.26314 258.9414,-352.1543 z"
+         sodipodi:nodetypes="cccscccc" />
+    </g>
+    <g
+       id="g1131-5"
+       transform="matrix(0.37600959,0,0,0.37600959,701.40861,185.00482)"
+       style="fill:#efefef;fill-opacity:1">
+      <path
+         id="rect957-3"
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+         d="M 179.08003,183.87642 94.513633,525.27485 c -29.3027,120.04174 -1.7064,293.80915 152.595697,417.65821 h 124.6934 124.6914 C 650.79623,819.084 678.39253,645.31659 649.08983,525.27485 l -84.5664,-341.39843 h -192.7207 z m 8.8731,11.33789 h 183.8496 183.8476 l 82.4336,332.78711 c 43.7081,191.37139 -87.1858,357.52715 -266.2812,361.63867 C 192.70733,885.52857 61.813333,719.37281 105.52143,528.00142 Z" />
+      <path
+         id="rect1111-5"
+         style="fill:#efefef;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+         d="m 141.10846,743.09469 c 39.99979,73.33857 113.9672,133.55929 230.69227,138.87743 7e-4,3e-5 0,-3e-5 0,0 127.71309,-5.81877 204.23895,-77.36325 241.0917,-159.90269 z"
+         sodipodi:nodetypes="csccc" />
+    </g>
+  </g>
+</svg>
