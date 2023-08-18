@@ -15,85 +15,6 @@
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/black.css">
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
-		<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-		<style>
-      model-viewer {
-        --poster-color: transparent;
-        height: 1300px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 2000px;
-        position: absolute;
-        top: 50%;
-        bottom: auto;
-        left: 50%;
-        right: auto;
-        transform: translate( -50%, -25% ) scale( 50% );
-        --ar-button-scale: 30;
-      }
-      
-      #ar-button {
-        background-image: url(assets/floorplan/data/ar.png);
-        background-repeat: no-repeat;
-        background-size: 20px 20px;
-        background-position: 12px 50%;
-        background-color: #fff;
-        position: absolute;
-        left: 50%;
-        transform: translateX(-50%);
-        white-space: nowrap;
-        bottom: 132px;
-        padding: 0px 16px 0px 40px;
-        font-family: Roboto Regular, Helvetica Neue, sans-serif;
-        font-size: 14px;
-        color:#4285f4;
-        height: 36px;
-        line-height: 36px;
-        border-radius: 18px;
-        border: 1px solid #DADCE0;
-      }
-
-      #ar-button:active {
-        background-color: #E8EAED;
-      }
-
-      #ar-button:focus {
-        outline: none;
-      }
-
-      #ar-button:focus-visible {
-        outline: 1px solid #4285f4;
-      }
-
-      model-viewer > #ar-prompt {
-        position: absolute;
-        left: 50%;
-        bottom: 175px;
-        animation: elongate 2s infinite ease-in-out alternate;
-        display: none;
-      }
-
-      model-viewer[ar-status="session-started"] > #ar-prompt {
-        display: block;
-      }
-
-      model-viewer > #ar-prompt > img {
-        animation: circle 4s linear infinite;
-      }
-
-      model-viewer > #ar-failure {
-        position: absolute;
-        left: 50%;
-        transform: translateX(-50%);
-        bottom: 175px;
-        display: none;
-      }
-
-      model-viewer[ar-tracking="not-tracking"] > #ar-failure {
-        display: block;
-      }
-    </style>
 	</head>
 	
 	<body>
@@ -102,24 +23,26 @@
 			
 			  <!-- Slide Start -->
 				<section>
-          <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif">
+				  <section data-background="assets/thesis/cover/cover_0.svg">
+          <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
             TOPOLOGICAL <br>
             GRAPHS IN <br>
             ARCHITECTURE
           </p>
+          </section>
 				</section>
 				<!-- Slide End -->
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/floorplan/introduction/2.svg" data-background-opacity= 0.7>
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+				  <section data-background="assets/thesis/cover/1.svg, assets/thesis/cover/cover_1.svg">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
               INTRODUCTION
             </p>
 				  </section>
 				
 				  <section 
-				    data-background="assets/floorplan/introduction/General.svg"
+				    data-background="assets/thesis/general/mindmap.svg"
 				    data-background-size= "contain"
 				    data-background-transition="none"
 				    data-transition="none"
@@ -129,29 +52,22 @@
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.7>
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+				  <section data-background="assets/thesis/cover/2.svg, assets/thesis/cover/cover_2.svg">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
               PRELIMINARIES
             </p>
 				  </section>
-				
+				  
 				  <section 
-				    data-background="assets/floorplan/generation/General.svg"
+				    data-background="assets/thesis/general/mindmap.svg"
 				    data-background-size= "contain"
 				    data-background-transition="none"
 				    data-transition="none"
 				  ></section>
 				  
-				  <section 
-				    data-background="assets/floorplan/generation/methods.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  	<section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              RECURSIVE SUBDIVISION
+				  <section data-background="assets/thesis/cover/2.svg, assets/thesis/cover/cover_2.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              GRAPH THEORY
             </p>
             <img src="assets/floorplan/generation/recursive/method.svg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
 				  </section>
@@ -163,32 +79,10 @@
 				    data-transition="none"
 				    data-autoslide="1000"
 				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/recursive/rnd/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
 				  
-				  	<section 
-				    data-background="assets/floorplan/generation/recursive/sub/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/recursive/sub/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              K-D TREE
+				  <section data-background="assets/thesis/cover/2.svg, assets/thesis/cover/cover_2.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              TOPOLOGY
             </p>
             <img src="assets/floorplan/generation/kd/method.svg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
 				  </section>
@@ -200,17 +94,10 @@
 				    data-transition="none"
 				    data-autoslide="1000"
 				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/kd/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
 				  
-				  <section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              TILING ALGORITHM
+				  <section data-background="assets/thesis/cover/2.svg, assets/thesis/cover/cover_2.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              SIMULATION
             </p>
             <img src="assets/floorplan/generation/treemap/method.svg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
 				  </section>
@@ -222,220 +109,31 @@
 				    data-transition="none"
 				    data-autoslide="1000"
 				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/treemap/iteration/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section 
-				    data-background="assets/floorplan/generation/treemap/basic/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/treemap/basic/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              ORTHOGONAL HULL
-            </p>
-            <img src="assets/floorplan/generation/hull/method.svg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
-				  </section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/hull/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/hull/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
 
-				  <section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              VORONOI DIAGRAM
-            </p>
-            <img src="assets/floorplan/generation/voronoi/method.svg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
-				  </section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/generation/voronoi/radius/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/radius/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-					<section 
-				    data-background="assets/floorplan/generation/voronoi/points/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/points/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/axo/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/axo/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/generation/voronoi/weighted/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/weighted/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/generation/voronoi/raise/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/raise/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              PHYSICS SOLVER
-            </p>
-            <img src="assets/floorplan/generation/physics/method.svg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
-				  </section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/physics/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/physics/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              GENETIC ALGORITHM
-            </p>
-            <img src="assets/floorplan/generation/ga/method.svg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
-				  </section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/ga/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/ga/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section data-background="assets/floorplan/generation/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              OUTLINE VARIATION
-            </p>
-				  </section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/generation/contour/0.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				    data-autoslide="1000"
-				  ></section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/generation/contour/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
 				</section>
 				<!-- Vertical Deck End -->
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.7>
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+				  <section data-background="assets/thesis/cover/3.svg, assets/thesis/cover/cover_3.svg">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
               SYNTHETIC<br>
               DATASET<br>
               GENERATION
             </p>
 				  </section>
 				
-					<section 
-				    data-background="assets/floorplan/data/General.svg"
+				  <section 
+				    data-background="assets/thesis/general/mindmap.svg"
 				    data-background-size= "contain"
 				    data-background-transition="none"
 				    data-transition="none"
 				  ></section>
 				  
-				  	<section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              TOPOLOGIC
+				  <section data-background="assets/thesis/cover/3.svg, assets/thesis/cover/cover_3.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              SPACE<br>
+              PARTITIONING
             </p>
             <img src="assets/floorplan/data/topolo/method.svg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;">
 				  </section>
@@ -447,17 +145,11 @@
 				    data-transition="none"
 				    data-autoslide="1000"
 				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/data/topolo/animation.gif"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
 				  
-				  <section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              VOLUME CREATION
+				  <section data-background="assets/thesis/cover/3.svg, assets/thesis/cover/cover_3.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              PARAMETRIC<br>
+              FRAMEWORK
             </p>
 				  </section>
 				  
@@ -468,9 +160,10 @@
 				    data-transition="none"
 				  ></section>
 				  
-				  	<section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              FILTERING
+				  <section data-background="assets/thesis/cover/3.svg, assets/thesis/cover/cover_3.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              ARCHITECTURAL<br>
+              RULES
             </p>
 				  </section>
 				  
@@ -481,314 +174,118 @@
 				    data-transition="none"
 				  ></section>
 				  
-				  <section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              DICTIONARIES / APERTURES
+				  <section data-background="assets/thesis/cover/3.svg, assets/thesis/cover/cover_3.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              POST-<br>
+              PROCESSING
             </p>
 				  </section>
 				  
-				  	<section 
+				  <section 
+				    data-background="assets/floorplan/data/aperture-min.png"
+				    data-background-size= "contain"
+				    data-background-transition="none"
+				    data-transition="none"
+				  ></section>
+				</section>
+				<!-- Vertical Deck End -->
+				
+				<!-- Vertical Deck Start -->
+				<section>
+				  <section data-background="assets/thesis/cover/4.svg, assets/thesis/cover/cover_4.svg">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              GRAPH<br>
+              MACHINE<br>
+              LEARNING
+            </p>
+				  </section>
+				  
+				  <section 
+				    data-background="assets/thesis/general/mindmap.svg"
+				    data-background-size= "contain"
+				    data-background-transition="none"
+				    data-transition="none"
+				  ></section>
+				  
+					<section data-background="assets/thesis/cover/4.svg, assets/thesis/cover/cover_4.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              GRAPH<br>
+              NEURAL<br>
+              NETWORKS
+            </p>
+				  </section>
+				  
+				  <section 
 				    data-background="assets/floorplan/data/aperture-min.png"
 				    data-background-size= "contain"
 				    data-background-transition="none"
 				    data-transition="none"
 				  ></section>
 				  
-				  	<section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              BREP
+				  <section data-background="assets/thesis/cover/4.svg, assets/thesis/cover/cover_4.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              CLASSIFICATION
             </p>
 				  </section>
 				  
-				  <section data-auto-animate data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-					  <pre data-id="code-animation">
-					    <code 
-					      style="font-size:20px;"
-					      class="hljs"
-					      data-trim data-line-numbers
-					    >
-						    CASCADE Topology V3, (c) Matra-Datavision
-						    
-						    Locations 0
-						    Curve2ds 0
-						    Curves 0
-						    Polygon3D 0
-						    PolygonOnTriangulations 0
-						    Surfaces 0
-						    Triangulations 0
-						    TShapes 0
-					    </code>
-					  </pre>
+				  <section 
+				    data-background="assets/floorplan/data/aperture-min.png"
+				    data-background-size= "contain"
+				    data-background-transition="none"
+				    data-transition="none"
+				  ></section>
+				  
+				  <section data-background="assets/thesis/cover/4.svg, assets/thesis/cover/cover_4.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              REGRESSION
+            </p>
+				  </section>
+				  
+				  <section 
+				    data-background="assets/floorplan/data/aperture-min.png"
+				    data-background-size= "contain"
+				    data-background-transition="none"
+				    data-transition="none"
+				  ></section>
 				</section>
-
-				<section data-auto-animate data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-					  <pre data-id="code-animation">
-					    <code
-					      style="line-height:1.2; font-size:10px;"
-					      class="hljs"
-					      data-trim
-					      data-line-numbers="5-9|11-15|21-22|26-30"
-					    >
-						    CASCADE Topology V3, (c) Matra-Datavision
-						    
-						    Locations 0
-						    
-						    Curve2ds 4
-						    1 0.4 0.88 -1 0 
-						    1 0.4 -0.88 0 1 
-						    1 -0.4 0.88 0 -1 
-						    1 -0.4 -0.88 1 0 
-						    
-						    Curves 4
-						    1 4.7 1 1.6 1.1 0 -1 
-						    1 4.7 2.8 1.6 0 -1 0 
-						    1 4.7 1 0.8 0 1 0 
-						    1 4.7 2.8 0.8 -1.1 0 1 
-						    
-						    Polygon3D 0
-						    
-						    PolygonOnTriangulations 0
-						    
-						    Surfaces 1
-						    1 4.7 1.9 1.25 1 0 0 -0 0 1 0 -1 0
-						    
-						    Triangulations 0
-						    
-						    TShapes 10
-						    Ve
-						    1e-07
-						    4.7 1 1.6
-						    0 0
-						    
-						    ###
-					    </code>
-					  </pre>
-				  </section>
-				  
-				  	<section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              JSON
+				<!-- Vertical Deck End -->
+				
+				<!-- Vertical Deck Start -->
+				<section>
+				  <section data-background="assets/thesis/cover/5.svg, assets/thesis/cover/cover_5.svg">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              OUTCOME
             </p>
 				  </section>
-
-				  	<section data-auto-animate data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-					    <pre data-id="code-animation">
-					      <code 
-					        style="font-size:20px"
-					        class="python"
-					        data-trim
-					        data-line-numbers
-					      >
-						      [
-						          {
-						              "brep": [],
-						              "cellApertures": [],
-						              "cellDictionaries": [],
-						              "dictionary": {},
-						              "edgeApertures": [],
-						              "edgeDictionaries": [],
-						              "faceApertures": [],
-						              "faceDictionaries": [],
-						              "vertexApertures": [],
-						              "vertexDictionaries": []
-						          }
-						      ]
-					      </code>
-					    </pre>
-				  </section>
-
-				  <section data-auto-animate data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-					    <pre data-id="code-animation">
-					      <code 
-					        style="line-height:1.2; font-size:10px"
-					        class="python"
-					        data-trim
-					        data-line-numbers="3|4-9|11-26|29-48"
-					      >
-						    [
-						        {
-						            "brep": "apartment.brep",
-						            	"dictionary": {
-						                "id": 1,
-						                "room amount": 1,
-						                "surface": 33.44,
-						                "type": "flat"
-						            },
-						            "cellApertures": [],
-						            "cellDictionaries": [
-						                {
-						                    "dictionary": {
-						                        "id": 0,
-						                        "type": "room"
-						                        "function": "living room"
-						                        "dimension": [280, 850, 400]
-						                        "area": 34,
-						                    },
-						                    "selector": [
-						                        1.5,
-						                        0.18,
-						                        1.4
-						                    ]
-						                }
-						            ],
-						            "edgeApertures": [],
-						            "edgeDictionaries": [],
-						            "faceApertures": [
-						                {
-						                    "brep": "door.brep",
-						                    "dictionary": {
-						                        "id": 0,
-						                        "type": "door",
-						                        "material": "wood",
-						                        "dimension": [210, 90]
-						                    }
-						                },
-						                {
-						                    "brep": "window.brep",
-						                    "dictionary": {
-						                        "id": 0,
-						                        "type": "window",
-						                        "material": "glass",
-						                        "dimension": [120, 80]
-						                    }
-						                }
-						            ],
-						            "faceDictionaries": [],
-						            "vertexApertures": [],
-						            "vertexDictionaries": []
-						        }
-						    ]
-					  </code></pre>
+				  
+				  <section 
+				    data-background="assets/thesis/general/mindmap.svg"
+				    data-background-size= "contain"
+				    data-background-transition="none"
+				    data-transition="none"
+				  ></section>
+				  
+				  <section data-background="assets/thesis/cover/5.svg, assets/thesis/cover/cover_5.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+              DATASET
+            </p>
 				  </section>
 				  
-				  <section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+				  <section 
+				    data-background="assets/floorplan/data/aperture-min.png"
+				    data-background-size= "contain"
+				    data-background-transition="none"
+				    data-transition="none"
+				  ></section>
+				  
+				  <section data-background="assets/thesis/cover/5.svg, assets/thesis/cover/cover_5.svg" data-background-opacity= 0.7>
+            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
               RESULTS
             </p>
 				  </section>
 				  
-				  <section data-background-video="assets/floorplan/data/results.mp4" data-background-color="#121212"
-				  ></section>
-				  
-				  <section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              IFC
-            </p>
-				  </section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/data/ifc.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-					<section 
-				    data-background="assets/floorplan/data/1.png"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/data/2.png"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/data/4.png"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/data/3.png"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section data-background="assets/floorplan/data/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:50px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              MODEL
-            </p>
-				  </section>
-				  
-				  <section>
-				    <model-viewer
-				      bounds="tight" 
-				      enable-pan 
-				      src="assets/floorplan/data/model.glb"
-				      ar
-				      ar-modes="scene-viewer webxr quick-look"
-				      camera-controls
-				      shadow-intensity="1"
-				      exposure="0.63"
-				      camera-orbit="-63.07deg 22.5deg auto">
-				       <button 
-				        class="Hotspot"
-				        slot="hotspot-2"
-				        data-position="2.2825536731904448m 1.279816767820142m 0.5982660888803135m"
-				        data-normal="0.30107940402654426m 0.9182314126179186m 0.2572980088394051m"
-				        data-visibility-attribute="visible">
-                 <div class="HotspotAnnotation">GRAPH</div>
-               </button>
-                <div 
-                  class="progress-bar hide"
-                  slot="progress-bar">
-                   <div class="update-bar">
-                   </div>
-                 </div>
-               <button slot="ar-button" id="ar-button">
-                  View in your space
-               </button>
-                <div id="ar-prompt">
-                  <img src="https://modelviewer.dev/shared-assets/floorplan/icons/hand.png">
-                </div>
-                <button id="ar-failure">
-                  AR is not tracking!
-                </button>
-            </model-viewer>
-				  </section>
-				</section>
-				<!-- Vertical Deck End -->
-				
-				<!-- Vertical Deck Start -->
-				<section>
-				  <section data-background="assets/floorplan/analysis/2.svg" data-background-opacity= 0.7>
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              GRAPH<br>
-              MACHINE<br>
-              LEARNING
-            </p>
-				  </section>
-				
 				  <section 
-				    data-background="assets/floorplan/analysis/General.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section 
-				    data-background="assets/floorplan/analysis/mindmap.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/analysis/lux.png"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  	<section 
-				    data-background="assets/floorplan/analysis/layout4.svg"
+				    data-background="assets/floorplan/data/aperture-min.png"
 				    data-background-size= "contain"
 				    data-background-transition="none"
 				    data-transition="none"
@@ -798,201 +295,14 @@
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/floorplan/learning/2.svg" data-background-opacity= 0.7>
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+				  <section data-background="assets/thesis/cover/6.svg, assets/thesis/cover/cover_6.svg">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
               CONCLUSION
             </p>
 				  </section>
 				  
 				  <section 
-				    data-background="assets/floorplan/learning/General.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section 
-				    data-background="assets/floorplan/learning/method.svg"
-				    data-background-size= "contain"
-				    data-background-transition="none"
-				    data-transition="none"
-				  ></section>
-				  
-				  <section data-background="assets/floorplan/learning/2.svg" data-background-opacity= 0.3>
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
-              DGCNN GRAPH
-            </p>
-				  </section>
-				  
-				  <section data-background="assets/floorplan/learning/2.svg" data-background-opacity= 0.3>
-				  <div class="r-hstack justify-center">
-			    		<table style="font-size:20px">
-						  <thead>
-							  <tr>
-								  <th>GRAPH_ID</th>
-								  <th>LABEL</th>
-								  <th>NUM_NODES</th>
-							  </tr>
-						  </thead>
-						  <tbody>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">0.82</td>
-				    				<td align="center">7</td>
-				    			</tr>
-				    		</tbody>
-			    		</table>
-			    		<img width="450" height="300" src="assets/floorplan/learning/1.png">
-			    		</div>
-			    	</section>
-			    	
-			    <section data-background="assets/floorplan/learning/2.svg" data-background-opacity= 0.3>
-				  <div class="r-hstack justify-center">
-			    		<table style="font-size:20px">
-						  <thead>
-							  <tr>
-								  <th>GRAPH_ID</th>
-								  <th>SOURCE</th>
-								  <th>DESTINATION</th>
-							  </tr>
-						  </thead>
-						  <tbody>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">0</td>
-				    				<td align="center">1</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">0</td>
-				    				<td align="center">2</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">0</td>
-				    				<td align="center">3</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">1</td>
-				    				<td align="center">0</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">1</td>
-				    				<td align="center">4</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">2</td>
-				    				<td align="center">5</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">2</td>
-				    				<td align="center">0</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">3</td>
-				    				<td align="center">6</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">3</td>
-				    				<td align="center">0</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">4</td>
-				    				<td align="center">1</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">5</td>
-				    				<td align="center">2</td>
-				    			</tr>
-							  <tr>
-								  <td align="center">35</td>
-		    						<td align="center">6</td>
-				    				<td align="center">3</td>
-				    			</tr>
-				    		</tbody>
-			    		</table>
-			    		<img width="450" height="300" src="assets/floorplan/learning/1.png">
-			    		</div>
-			    	</section>
-			    
-				  <section data-background="assets/floorplan/learning/2.svg" data-background-opacity= 0.3>
-				  <div class="r-hstack justify-center">
-			    		<table style="font-size:20px">
-						  <thead>
-							  <tr>
-								  <th>X_POS</th>
-								  <th>Y_POS</th>
-								  <th>AREA</th>
-								  <th>ID</th>
-								  <th>TYPE</th>
-							  </tr>
-						  </thead>
-						  <tbody>
-							  <tr>
-				    				<td align="center">-1.68</td>
-				    				<td align="center">2.01</td>
-				    				<td align="center">27.8</td>
-				    				<td align="center">0</td>
-		    						<td align="center">room_0</td>
-				    			</tr>
-				    			<tr>
-				    				<td align="center">-0.28</td>
-				    				<td align="center">-0.56</td>
-				    				<td align="center">1.8</td>
-				    				<td align="center">0</td>
-		    						<td align="center">door_0</td>
-				    			</tr>
-				    			<tr>
-				    				<td align="center">-3.23</td>
-				    				<td align="center">-0.56</td>
-				    				<td align="center">1.8</td>
-				    				<td align="center">1</td>
-		    						<td align="center">door_1</td>
-				    			</tr>
-							  <tr>
-				    				<td align="center">1.01</td>
-				    				<td align="center">3.73</td>
-				    				<td align="center">1.8</td>
-				    				<td align="center">2</td>
-		    						<td align="center">door_2</td>
-				    			</tr>
-				    			<tr>
-				    				<td align="center">1.48</td>
-				    				<td align="center">-2.58</td>
-				    				<td align="center">23.23</td>
-				    				<td align="center">1</td>
-		    						<td align="center">room_1</td>
-				    			</tr>
-				    			<tr>
-				    				<td align="center">-2.88</td>
-				    				<td align="center">-2.58</td>
-				    				<td align="center">11.99</td>
-				    				<td align="center">2</td>
-		    						<td align="center">room_2</td>
-				    			</tr>
-				    			<tr>
-				    				<td align="center">2.68</td>
-				    				<td align="center">2.01</td>
-				    				<td align="center">17.44</td>
-				    				<td align="center">3</td>
-		    						<td align="center">room_3</td>
-				    			</tr>
-				    		</tbody>
-			    		</table>
-			    		<img width="450" height="300" src="assets/floorplan/learning/1.png">
-			    		</div>
-			    	</section>
-				
-				  <section
-				    data-background="assets/floorplan/learning/bim.png"
+				    data-background="assets/thesis/general/mindmap.svg"
 				    data-background-size= "contain"
 				    data-background-transition="none"
 				    data-transition="none"
@@ -1002,8 +312,8 @@
 				
 				<!-- Vertical Deck Start -->
 				<section>
-				  <section data-background="assets/floorplan/conclusion/2.svg" data-background-opacity= 0.7>
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif;">
+				  <section data-background="assets/thesis/cover/cover_7.svg">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
               DISCUSSION
             </p>
 				  </section>
@@ -1020,7 +330,7 @@
 		<script>
 			Reveal.initialize({
 			  autoSlide: false,
-        loop: true,
+        loop: false,
 			  controls: false,
 			  slideNumber: false,
 				progress: false,
