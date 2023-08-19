@@ -5,7 +5,7 @@
    version="1.1"
    id="svg18"
    sodipodi:docname="relation_lateral.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    inkscape:export-filename="relation_lateral.pdf"
    inkscape:export-xdpi="400"
    inkscape:export-ydpi="400"
@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview20"
-     pagecolor="#ffffff"
+     pagecolor="#121212"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:showpageshadow="2"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.16372989"
-     inkscape:cx="235.14338"
-     inkscape:cy="406.15675"
+     inkscape:zoom="0.4310701"
+     inkscape:cx="615.9091"
+     inkscape:cy="211.10256"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -37,27 +37,27 @@
      id="defs2" />
   <path
      id="rect1809"
-     style="fill:#f698b8;fill-opacity:1;stroke:#000000;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10"
+     style="fill:#f698b8;fill-opacity:1;stroke:#e5e5e5;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
      d="M 171.36111,266.6671 881.42781,126.26448 1213.7722,426.44295 502.70411,566.96469 Z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect1809-3"
-     style="fill:#f698b8;fill-opacity:1;stroke:#000000;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10"
+     style="fill:#f698b8;fill-opacity:1;stroke:#e5e5e5;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
      d="M 171.36111,977.23459 V 266.6671 l 331.343,300.29874 -0.5008,711.05876 z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect1809-6"
-     style="fill:#73e6c8;stroke:#000000;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10"
+     style="fill:#73e6c8;stroke:#e5e5e5;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
      d="M 502.70411,566.96469 1212.7707,426.56207 1545.1151,726.74054 834.04701,867.26228 Z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect1809-3-7"
-     style="fill:#73e6c8;stroke:#000000;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10"
+     style="fill:#73e6c8;stroke:#e5e5e5;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
      d="M 502.70411,1277.5322 V 566.96469 l 331.3429,300.29874 -0.5008,711.05877 z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="rect1809-3-7-5"
-     style="fill:#73e6c8;stroke:#000000;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10"
+     style="fill:#73e6c8;stroke:#e5e5e5;stroke-width:4.0252;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
      d="m 833.54621,1578.3222 0.5008,-711.05992 711.06809,-140.52174 v 711.42986 z"
      sodipodi:nodetypes="ccccc" />
 </svg>
