@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.761764"
-     inkscape:cx="244.35736"
-     inkscape:cy="51.085163"
+     inkscape:zoom="2.2621527"
+     inkscape:cx="217.49195"
+     inkscape:cy="75.591713"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -362,7 +362,7 @@
      fill-opacity="1"
      d="m 12.895642,34.286734 h 89.795378 c 2.76172,0 5,2.238282 5,5 v 54 c 0,2.761719 -2.23828,5 -5,5 H 12.895642 c -2.76172,0 -5.0000001,-2.238281 -5.0000001,-5 v -54 c 0,-2.761718 2.2382801,-5 5.0000001,-5 z"
      id="path320"
-     style="fill:#00876d;fill-opacity:1"
+     style="fill:#00876d;fill-opacity:1;stroke:none;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -386,11 +386,11 @@
      fill-opacity="1"
      d="m 14.837716,120.42907 h 88.145574 c 2.76172,0 5,2.23828 5,5 v 17.06911 c 0,2.76171 -2.23828,5 -5,5 H 14.837716 c -2.76172,0 -4.9999999,-2.23829 -4.9999999,-5 v -17.06911 c 0,-2.76172 2.2382799,-5 4.9999999,-5 z"
      id="path528"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#3aad9d;fill-opacity:1;stroke:none;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <path
      style="fill:none;stroke:#bbbbbb;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 238.40637,72.091075 0,120.565225"
+     d="M 238.40637,72.091075 V 192.6563"
      id="path5900"
      sodipodi:nodetypes="cc" />
   <g
@@ -455,7 +455,7 @@
      fill-opacity="1"
      d="m 5,169.64052 h 108.10186 c 2.76172,0 5,2.23828 5,5 v 17.06911 c 0,2.76171 -2.23828,5 -5,5 H 5 c -2.76172,0 -5,-2.23829 -5,-5 v -17.06911 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path3"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#3aad9d;fill-opacity:1;stroke:none;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -474,7 +474,7 @@
      fill-opacity="1"
      d="m 24.291598,218.85197 h 68.870359 c 2.76172,0 5.000002,2.23828 5.000002,5 v 17.06911 c 0,2.76171 -2.238282,5 -5.000002,5 H 24.291598 c -2.76172,0 -5,-2.23829 -5,-5 v -17.06911 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path4"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#3aad9d;fill-opacity:1;stroke:none;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
