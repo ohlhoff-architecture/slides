@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview96"
-     pagecolor="#ffffff"
+     pagecolor="#121212"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
@@ -28,7 +28,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.89571168"
-     inkscape:cx="394.10003"
+     inkscape:cx="394.65825"
      inkscape:cy="331.57991"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -43,22 +43,22 @@
      id="defs2" />
   <path
      id="path10"
-     style="fill:#73e6c8;stroke:#000000;stroke-width:2.00315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+     style="fill:#35b996;stroke:#e5e5e5;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
      d="m 7.108109,30.70657 262.639511,-9.5775 v 135.2923 H 29.563496 Z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="path11"
-     style="fill:#73e6c8;stroke:#000000;stroke-width:2.00315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+     style="fill:#35b996;stroke:#e5e5e5;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
      d="M 29.563495,156.42137 H 269.74762 V 494.1577 L 77.178279,422.9893 Z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="path12"
-     style="fill:#73e6c8;stroke:#000000;stroke-width:2.00315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+     style="fill:#35b996;stroke:#e5e5e5;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
      d="M 269.74762,21.12907 620.23964,8.34787 584.33576,302.7499 H 269.74762 Z"
      sodipodi:nodetypes="ccccc" />
   <path
      id="path13"
-     style="fill:#73e6c8;stroke:#000000;stroke-width:2.00315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+     style="fill:#35b996;stroke:#e5e5e5;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
      d="M 269.74762,302.7499 H 584.33575 L 548.43187,597.1519 269.74762,494.1577 Z"
      sodipodi:nodetypes="ccccc" />
   <text

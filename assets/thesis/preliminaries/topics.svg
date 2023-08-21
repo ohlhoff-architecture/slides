@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="2.2621527"
-     inkscape:cx="217.49195"
-     inkscape:cy="75.591713"
+     inkscape:zoom="1.6801496"
+     inkscape:cx="302.05644"
+     inkscape:cy="88.087394"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -334,25 +334,25 @@
     </g>
   </defs>
   <path
-     style="fill:none;stroke:#bbbbbb;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:none;stroke:#e5e5e5;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
      d="M 418.77753,71.921337 V 196.24771"
      id="path5900-0-6"
      sodipodi:nodetypes="cc" />
   <g
      id="g2600"
      transform="translate(-24.183314,13.582906)"
-     style="fill:#00876d;fill-opacity:1">
+     style="fill:#35b996;fill-opacity:1">
     <path
        fill-rule="nonzero"
        fill="rgb(25%, 75%, 68.434343%)"
        fill-opacity="1"
        d="m 378.5711,20.698736 h 128.49866 c 2.76172,0 5,2.238281 5,5 v 28.466136 c 0,2.761719 -2.23828,5 -5,5 H 378.5711 c -2.76172,0 -5,-2.238281 -5,-5 V 25.698736 c 0,-2.761719 2.23828,-5 5,-5 z"
        id="path202"
-       style="fill:#00876d;fill-opacity:1"
+       style="fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
        sodipodi:nodetypes="sssssssss" />
   </g>
   <path
-     style="fill:none;stroke:#bbbbbb;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:none;stroke:#e5e5e5;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
      d="M 58.587122,98.189215 V 231.89225"
      id="path5900-5"
      sodipodi:nodetypes="cc" />
@@ -362,11 +362,11 @@
      fill-opacity="1"
      d="m 12.895642,34.286734 h 89.795378 c 2.76172,0 5,2.238282 5,5 v 54 c 0,2.761719 -2.23828,5 -5,5 H 12.895642 c -2.76172,0 -5.0000001,-2.238281 -5.0000001,-5 v -54 c 0,-2.761718 2.2382801,-5 5.0000001,-5 z"
      id="path320"
-     style="fill:#00876d;fill-opacity:1;stroke:none;stroke-opacity:1"
+     style="fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#fefefe;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
      x="18.288244"
      y="60.166027"
      id="text1"><tspan
@@ -374,51 +374,51 @@
        id="tspan1"
        x="18.288244"
        y="60.166027"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#fefefe;fill-opacity:1">GRAPH</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">GRAPH</tspan><tspan
        sodipodi:role="line"
        x="18.288244"
        y="87.574089"
        id="tspan2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#fefefe;fill-opacity:1">THEORY</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">THEORY</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(16.862745%, 45.098039%, 47.058824%)"
      fill-opacity="1"
      d="m 14.837716,120.42907 h 88.145574 c 2.76172,0 5,2.23828 5,5 v 17.06911 c 0,2.76171 -2.23828,5 -5,5 H 14.837716 c -2.76172,0 -4.9999999,-2.23829 -4.9999999,-5 v -17.06911 c 0,-2.76172 2.2382799,-5 4.9999999,-5 z"
      id="path528"
-     style="fill:#3aad9d;fill-opacity:1;stroke:none;stroke-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <path
-     style="fill:none;stroke:#bbbbbb;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:none;stroke:#e5e5e5;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
      d="M 238.40637,72.091075 V 192.6563"
      id="path5900"
      sodipodi:nodetypes="cc" />
   <g
      id="g2585"
      transform="translate(-11.458288,15.114156)"
-     style="fill:#00876d;fill-opacity:1">
+     style="fill:#35b996;fill-opacity:1">
     <path
        fill-rule="nonzero"
        fill="rgb(25%, 75%, 68.434343%)"
        fill-opacity="1"
        d="m 191.69791,19.188534 h 116.00932 c 2.76172,0 5,2.238281 5,5 v 27.788385 c 0,2.761719 -2.23828,5 -5,5 H 191.69791 c -2.76172,0 -5,-2.243426 -5,-5 V 24.188534 c 0,-2.755794 2.23828,-5 5,-5 z"
        id="path202-0"
-       style="fill:#00876d;fill-opacity:1"
+       style="fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
        sodipodi:nodetypes="sssssssss" />
   </g>
   <path
-     style="fill:none;stroke:#bbbbbb;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:none;stroke:#e5e5e5;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
      d="M 418.63712,33.648451 V 0.75 H 58.587122 v 33.439211"
      id="path5900-5-6"
      sodipodi:nodetypes="cccc" />
   <path
-     style="fill:none;stroke:#bbbbbb;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
+     style="fill:none;stroke:#e5e5e5;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 3;stroke-dashoffset:0;stroke-opacity:1"
      d="M 238.24428,3.838991 V 34.30269"
      id="path5900-5-6-5"
      sodipodi:nodetypes="cc" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#fefefe;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
      x="184.06729"
      y="60.780205"
      id="text1-3"><tspan
@@ -426,10 +426,10 @@
        x="184.06729"
        y="60.780205"
        id="tspan2-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#fefefe;fill-opacity:1">TOPOLOGY</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">TOPOLOGY</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#fefefe;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
      x="357.32993"
      y="61.09803"
      id="text1-3-5"><tspan
@@ -437,7 +437,7 @@
        x="357.32993"
        y="61.09803"
        id="tspan2-7-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#fefefe;fill-opacity:1">SIMULATION</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">SIMULATION</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:14.6667px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -448,14 +448,14 @@
        id="tspan3"
        x="16.485928"
        y="139.17719"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto">PROPERTIES</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">PROPERTIES</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(16.862745%, 45.098039%, 47.058824%)"
      fill-opacity="1"
      d="m 5,169.64052 h 108.10186 c 2.76172,0 5,2.23828 5,5 v 17.06911 c 0,2.76171 -2.23828,5 -5,5 H 5 c -2.76172,0 -5,-2.23829 -5,-5 v -17.06911 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path3"
-     style="fill:#3aad9d;fill-opacity:1;stroke:none;stroke-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -467,14 +467,14 @@
        id="tspan3-6"
        x="6.7391615"
        y="188.38863"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto">ARCHITECTURE</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">ARCHITECTURE</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(16.862745%, 45.098039%, 47.058824%)"
      fill-opacity="1"
      d="m 24.291598,218.85197 h 68.870359 c 2.76172,0 5.000002,2.23828 5.000002,5 v 17.06911 c 0,2.76171 -2.238282,5 -5.000002,5 H 24.291598 c -2.76172,0 -5,-2.23829 -5,-5 v -17.06911 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path4"
-     style="fill:#3aad9d;fill-opacity:1;stroke:none;stroke-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -486,14 +486,14 @@
        id="tspan3-6-9"
        x="26.157497"
        y="237.60008"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto">ANALYSIS</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">ANALYSIS</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(16.862745%, 45.098039%, 47.058824%)"
      fill-opacity="1"
      d="m 203.3184,94.233405 h 70.17594 c 2.76172,0 5,2.23828 5,5 v 17.069105 c 0,2.76171 -2.23828,5 -5,5 H 203.3184 c -2.76172,0 -5,-2.23829 -5,-5 V 99.233405 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path528-2"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -505,14 +505,14 @@
        id="tspan3-0"
        x="205.16281"
        y="112.98151"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start">CONCEPT</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1">CONCEPT</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(16.862745%, 45.098039%, 47.058824%)"
      fill-opacity="1"
      d="m 184.35545,143.44486 h 108.10186 c 2.76172,0 5,2.23827 5,5 v 17.0691 c 0,2.76171 -2.23828,5 -5,5 H 184.35545 c -2.76172,0 -5,-2.23829 -5,-5 v -17.0691 c 0,-2.76173 2.23828,-5 5,-5 z"
      id="path3-3"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -524,14 +524,14 @@
        id="tspan3-6-0"
        x="186.83301"
        y="162.19296"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto">SPACE SYNTAX</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">SPACE SYNTAX</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(16.862745%, 45.098039%, 47.058824%)"
      fill-opacity="1"
      d="m 189.16024,192.6563 h 98.49226 c 2.76172,0 5.00001,2.23828 5.00001,5 v 37.3068 c 0,2.76171 -2.23829,5 -5.00001,5 h -98.49226 c -2.76172,0 -5,-2.23829 -5,-5 v -37.3068 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path4-6"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -543,11 +543,11 @@
        id="tspan3-6-9-6"
        x="238.34193"
        y="212.1017"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle">SPACE</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">SPACE</tspan><tspan
        sodipodi:role="line"
        x="238.34193"
        y="230.94481"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
        id="tspan4">PARTITIONING</tspan></text>
   <path
      fill-rule="nonzero"
@@ -555,7 +555,7 @@
      fill-opacity="1"
      d="m 383.21546,94.982539 h 71.12413 c 2.76172,0 5,2.23828 5,5 v 17.069111 c 0,2.76171 -2.23828,5 -5,5 h -71.12413 c -2.76172,0 -5,-2.23829 -5,-5 V 99.982539 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path528-1"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -567,14 +567,14 @@
        id="tspan3-7"
        x="384.40247"
        y="113.73065"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto">PHYSICAL</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">PHYSICAL</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(16.862745%, 45.098039%, 47.058824%)"
      fill-opacity="1"
      d="m 370.44853,144.19399 h 96.658 c 2.76172,0 5,2.23828 5,5 v 17.06911 c 0,2.76171 -2.23828,5 -5,5 h -96.658 c -2.76172,0 -5,-2.23829 -5,-5 v -17.06911 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path3-9"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -586,14 +586,14 @@
        id="tspan3-6-2"
        x="371.21103"
        y="162.94209"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto">AGENT BASED</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">AGENT BASED</tspan></text>
   <path
      fill-rule="nonzero"
      fill="rgb(16.862745%, 45.098039%, 47.058824%)"
      fill-opacity="1"
      d="m 389.9382,193.40544 h 57.67867 c 2.76171,0 5,2.23828 5,5 v 17.06911 c 0,2.76171 -2.23829,5 -5,5 H 389.9382 c -2.76172,0 -5,-2.23829 -5,-5 v -17.06911 c 0,-2.76172 2.23828,-5 5,-5 z"
      id="path4-3"
-     style="fill:#3aad9d;fill-opacity:1"
+     style="fill:#2c8276;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
   <text
      xml:space="preserve"
@@ -605,5 +605,5 @@
        id="tspan3-6-9-5"
        x="390.76184"
        y="212.15355"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto">ENERGY</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffffff;fill-opacity:1">ENERGY</tspan></text>
 </svg>

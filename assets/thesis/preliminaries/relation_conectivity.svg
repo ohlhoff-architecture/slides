@@ -40,7 +40,7 @@
      d="M 183.17075,290.51651 514.51373,590.81525"
      id="path1227" />
   <path
-     style="fill:none;stroke:#f698b8;stroke-width:9.31653232;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#f47ea6;stroke-width:9.31653232;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 183.17075,1001.084 330.84219,300.79"
      id="path1229" />
   <path
@@ -80,7 +80,7 @@
      d="M 893.73822,861.05243 1225.5819,1161.7222"
      id="path1249" />
   <circle
-     style="fill:#f698b8;fill-opacity:1;stroke:#e5e5e5;stroke-width:3.58677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f47ea6;fill-opacity:1;stroke:#e5e5e5;stroke-width:3.58677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
      id="path395-5-3-3-35"
      cx="183.17075"
      cy="1001.084"
@@ -90,7 +90,7 @@
      d="M 514.51373,590.8141 845.85676,891.11284"
      id="path1227-1" />
   <path
-     style="fill:none;stroke:#f698b8;stroke-width:9.31653543;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#f47ea6;stroke-width:9.31653543;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 514.51373,1301.3816 330.84224,300.79"
      id="path1229-2" />
   <path
@@ -102,11 +102,11 @@
      d="M 1556.925,1462.0198 V 750.58995"
      id="path1233-0" />
   <path
-     style="fill:none;stroke:#f698b8;stroke-width:9.31653543;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#f47ea6;stroke-width:9.31653543;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 845.85676,891.11284 -0.50079,711.05876"
      id="path1237-3" />
   <path
-     style="fill:none;stroke:#f698b8;stroke-width:9.31653543;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#f47ea6;stroke-width:9.31653543;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="M 845.85676,891.11284 1556.925,750.58995"
      id="path1241-0" />
   <path
@@ -122,7 +122,7 @@
      d="m 1225.0813,1161.3501 331.8437,300.6697"
      id="path1249-1" />
   <circle
-     style="fill:#f698b8;fill-opacity:1;stroke:#e5e5e5;stroke-width:3.58677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f47ea6;fill-opacity:1;stroke:#e5e5e5;stroke-width:3.58677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
      id="path395-5-3-3-6-9"
      cx="1556.9249"
      cy="750.5899"

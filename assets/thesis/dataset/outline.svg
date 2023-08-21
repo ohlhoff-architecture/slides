@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview96"
-     pagecolor="#ffffff"
+     pagecolor="#121212"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
@@ -28,7 +28,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.89571168"
-     inkscape:cx="299.20342"
+     inkscape:cx="299.76164"
      inkscape:cy="229.98472"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -43,7 +43,7 @@
      id="defs2" />
   <path
      id="rect1"
-     style="fill:#73e6c8;stroke:#000000;stroke-width:2.00315;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+     style="fill:#35b996;stroke:#e5e5e5;stroke-width:3.77952756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
      d="M 8.43455,31.125447 621.5661,8.766739 549.7583,597.5707 78.50475,423.40817 Z"
      sodipodi:nodetypes="ccccc" />
   <text
