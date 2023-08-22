@@ -29,7 +29,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.88953897"
-     inkscape:cx="330.50829"
+     inkscape:cx="331.07037"
      inkscape:cy="415.9458"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -844,7 +844,7 @@
        id="LineCollection_1"
        style="stroke-linecap:butt;stroke-linejoin:round"
        transform="matrix(0.35277777,0,0,0.35277777,1.6223911,2.2110149)" /><rect
-       style="fill:url(#linearGradient2);stroke:#e5e5e5;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+       style="fill:url(#linearGradient2);stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
        id="rect1"
        width="7.8316669"
        height="156.46399"
