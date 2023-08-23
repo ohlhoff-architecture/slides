@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="186.728pt"
+   height="247.48203pt"
+   viewBox="0 0 186.728 247.48203"
+   version="1.1"
+   id="svg12135"
+   sodipodi:docname="legend.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:export-filename="comparison_10foldCV_rmse_regressors.pdf"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview12137"
+     pagecolor="#121212"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.773375"
+     inkscape:cx="-44.829775"
+     inkscape:cy="212.0251"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12135"
+     showguides="true" />
+  <metadata
+     id="metadata11072">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2023-05-02T11:15:02.769979</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11076">
+    <style
+       type="text/css"
+       id="style11074">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-3" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-7" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-35" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-9" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-2" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-0" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-0-3" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect12540" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect12542" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect12544" />
+    <defs
+       id="defs11788">
+      <path
+         id="m5581c67dd0"
+         d="M 0,3 C 0.795609,3 1.55874,2.683901 2.12132,2.12132 2.683901,1.55874 3,0.795609 3,0 3,-0.795609 2.683901,-1.55874 2.12132,-2.12132 1.55874,-2.683901 0.795609,-3 0,-3 -0.795609,-3 -1.55874,-2.683901 -2.12132,-2.12132 -2.683901,-1.55874 -3,-0.795609 -3,0 -3,0.795609 -2.683901,1.55874 -2.12132,2.12132 -1.55874,2.683901 -0.795609,3 0,3 Z"
+         style="stroke:#000000" />
+    </defs>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1">
+      <g
+         id="g2"
+         transform="translate(141,39)">
+        <rect
+           x="-51"
+           y="12.84"
+           width="558"
+           height="332.64001"
+           id="rect2" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <g
+         id="g4"
+         transform="translate(105,39)">
+        <rect
+           x="-15"
+           y="12.84"
+           width="558"
+           height="332.64001"
+           id="rect4" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <g
+         id="g6"
+         transform="translate(93,39)">
+        <rect
+           x="-3"
+           y="12.84"
+           width="558"
+           height="332.64001"
+           id="rect6" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <g
+         id="g8"
+         transform="translate(153,39)">
+        <rect
+           x="-63"
+           y="12.84"
+           width="558"
+           height="332.64001"
+           id="rect8" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <g
+         id="g9"
+         transform="translate(153,39)">
+        <rect
+           x="-63"
+           y="12.84"
+           width="558"
+           height="332.64001"
+           id="rect9" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <g
+         id="g11"
+         transform="translate(69,39)">
+        <rect
+           x="21"
+           y="12.84"
+           width="558"
+           height="332.64001"
+           id="rect11" />
+      </g>
+    </clipPath>
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-36" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-3-7" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-7-5" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-35-3" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-9-5" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-2-6" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-0-2" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect2431-0-3-9" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect12540-1" />
+    <rect
+       x="903.46893"
+       y="97.072662"
+       width="238.4837"
+       height="45.431919"
+       id="rect12544-2" />
+  </defs>
+  <defs
+     id="defs12133">
+    <clipPath
+       id="p671270d349">
+      <rect
+         x="90"
+         y="51.84"
+         width="558"
+         height="332.64001"
+         id="rect12130" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,-585.1998,-66.423263)"
+     id="text2429"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       x="903.46875"
+       y="111.78459"
+       id="tspan18"><tspan
+         style="font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan17">RandomForest</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,-584.6959,-35.733781)"
+     id="text2429-6"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-3);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       x="903.46875"
+       y="111.78459"
+       id="tspan20"><tspan
+         style="font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan19">GradientBoosting</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,-585.1998,-3.5181275)"
+     id="text2429-5"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-7);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       x="903.46875"
+       y="111.78459"
+       id="tspan22"><tspan
+         style="font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan21">DecisionTree</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,-585.1998,27.97136)"
+     id="text2429-62"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-35);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       x="903.46875"
+       y="111.78459"
+       id="tspan24"><tspan
+         style="font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan23">KNeighbors</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,-584.81308,59.823931)"
+     id="text2429-1"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-9);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       x="903.46875"
+       y="111.78459"
+       id="tspan26"><tspan
+         style="font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan25">SupportVector</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,-585.1998,91.676501)"
+     id="text2429-7"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-2);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       x="903.46875"
+       y="111.78459"
+       id="tspan28"><tspan
+         style="font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan27">LinearRegression</tspan></tspan></text>
+  <rect
+     style="opacity:1;fill:#99c1f1;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2725"
+     width="26.969816"
+     height="23.548985"
+     x="54.594566"
+     y="0.34999999" />
+  <rect
+     style="opacity:1;fill:#8ff0a4;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2725-0"
+     width="26.969816"
+     height="23.548985"
+     x="54.497704"
+     y="32.111645" />
+  <rect
+     style="opacity:1;fill:#f9f06b;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2725-6"
+     width="26.969816"
+     height="23.548985"
+     x="54.497704"
+     y="64.260017" />
+  <rect
+     style="opacity:1;fill:#ffbe6f;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2725-2"
+     width="26.969816"
+     height="23.548985"
+     x="54.497704"
+     y="95.965424" />
+  <rect
+     style="opacity:1;fill:#f99085;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2725-61"
+     width="26.969816"
+     height="23.548985"
+     x="54.349998"
+     y="127.52318" />
+  <rect
+     style="opacity:1;fill:#ebbbeb;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect2725-8"
+     width="26.969816"
+     height="23.548985"
+     x="54.497704"
+     y="159.96683" />
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,-585.1998,123.23431)"
+     id="text12524"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12540);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       x="903.46875"
+       y="111.78459"
+       id="tspan30"><tspan
+         style="font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan29">MLP</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     transform="matrix(0.75,0,0,0.75,-585.1998,156.60253)"
+     id="text12532"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12544);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
+       x="903.46875"
+       y="111.78459"
+       id="tspan32"><tspan
+         style="font-family:Roboto;-inkscape-font-specification:Roboto"
+         id="tspan31">DGCNN</tspan></tspan></text>
+  <rect
+     style="opacity:1;fill:#b9f5e2;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect12534"
+     width="26.969816"
+     height="23.548985"
+     x="54.497704"
+     y="191.5246" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect12538"
+     width="26.969816"
+     height="23.548985"
+     x="54.645351"
+     y="223.58304" />
+</svg>
