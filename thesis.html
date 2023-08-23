@@ -23,7 +23,7 @@
 			  <!-- Slide Start -->
 				<section>
 				  <section data-background="assets/thesis/cover/cover_0.svg">
-          <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+          <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; -webkit-text-stroke: 1.5px black;">
             TOPOLOGICAL <br>
             GRAPHS IN <br>
             ARCHITECTURE
@@ -35,7 +35,7 @@
 				<!-- Vertical Deck Start -->
 				<section>
 				  <section data-background="assets/thesis/cover/1.svg, assets/thesis/cover/cover_1.svg">
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; -webkit-text-stroke: 1.5px black;">
               INTRODUCTION
             </p>
 				  </section>
@@ -44,12 +44,12 @@
 				    <img src="assets/thesis/introduction/principle.svg" width="700">
 				  </section>
 				  
-				  <section data-background="assets/thesis/cover/6.svg">
-					  <ul style="list-style:none; line-height:1.5; font-size:40px; letter-spacing: -1px; font-family: 'Roboto', sans-serif;">
-						  <li>Graphs and Topology in Architecture</li>
-						  <li>Feedback in Early Design Stages</li>
-						  <li>Machine Learning in Architectural Design</li>
-						  <li>Synthetic Architecture Datasets</li>
+				  <section data-background="assets/thesis/cover/1.svg">
+					  <ul style="list-style:none; line-height:2.0; font-size:40px; letter-spacing: -1px; font-family: 'Roboto', sans-serif;">
+						  <li><span style="color:#000; -webkit-text-stroke: 0.8px white;">Graphs</span> and <span style="color:#000; -webkit-text-stroke: 0.8px white;">Topology</span> in Architecture</li>
+						  <li class="fragment fade-in"><span style="color:#000; -webkit-text-stroke: 0.8px white;">Feedback</span> in Early Design Stages</li>
+						  <li class="fragment fade-in"><span style="color:#000; -webkit-text-stroke: 0.8px white;">Machine Learning</span> in Architectural Design</li>
+						  <li class="fragment fade-in">Synthetic Architecture <span style="color:#000; -webkit-text-stroke: 0.8px white;">Datasets</span></li>
 					  </ul>
 				  </section>
 				  
@@ -62,7 +62,7 @@
 				<!-- Vertical Deck Start -->
 				<section>
 				  <section data-background="assets/thesis/cover/2.svg, assets/thesis/cover/cover_2.svg">
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; -webkit-text-stroke: 1.5px black;">
               PRELIMINARIES
             </p>
 				  </section>
@@ -84,16 +84,19 @@
 				    <img src="assets/thesis/preliminaries/tree_graph.svg" height="200">
 				  </section>
 				  
-				  <section data-background="assets/thesis/cover/2.svg">
-				    <img src="assets/thesis/preliminaries/mahal_base.svg" height="200">
-				    <img src="assets/thesis/preliminaries/rotonda_base.svg" height="200">
-				    <img src="assets/thesis/preliminaries/savoye_base.svg" height="200">
-				  </section>
-				  
-				  <section data-background="assets/thesis/cover/2.svg">
-				    <img src="assets/thesis/preliminaries/mahal.svg" height="200">
-				    <img src="assets/thesis/preliminaries/rotonda.svg" height="200">
-				    <img src="assets/thesis/preliminaries/savoye.svg" height="200">
+				  <section data-background="assets/thesis/cover/6.svg">
+				    <div class="r-stack">
+				      <div class="fragment fade-out" data-fragment-index="0">
+				        <img src="assets/thesis/preliminaries/mahal_base.svg" height="200">
+				        <img src="assets/thesis/preliminaries/rotonda_base.svg" height="200">
+				        <img src="assets/thesis/preliminaries/savoye_base.svg" height="200">
+				      </div>
+				      <div class="fragment current-visible" data-fragment-index="0">
+				        <img src="assets/thesis/preliminaries/mahal.svg" height="200">
+				        <img src="assets/thesis/preliminaries/rotonda.svg" height="200">
+				        <img src="assets/thesis/preliminaries/savoye.svg" height="200">
+				      </div>
+            </div>
 				  </section>
 				  
 				  <section data-background="assets/thesis/cover/2.svg">
@@ -103,15 +106,14 @@
 				  </section>
 				  
 				  <section data-background="assets/thesis/cover/2.svg">
-				    <img src="assets/thesis/preliminaries/shortest_path_1.svg" height="230">
-				    <img src="assets/thesis/preliminaries/mst.svg" height="230">
-				    <img src="assets/thesis/preliminaries/vga.svg" height="230">
+				    <img src="assets/thesis/preliminaries/shortest_path_1.svg" height="200">
+				    <img src="assets/thesis/preliminaries/mst.svg" height="200">
+				    <img src="assets/thesis/preliminaries/vga.svg" height="200">
 				  </section>
 				  
-				  <section 
-				    data-background="assets/floorplan/data/topolo/animation.gif"
-				    data-background-size= "contain"
-				  ></section>
+				  <section data-background="assets/thesis/cover/2.svg">
+				    <img src="assets/floorplan/data/topolo/animation.gif" width="820">
+				  </section>
 				  
 				  <section data-background="assets/thesis/cover/2.svg">
             <img src="assets/thesis/preliminaries/topology.svg" height="180">
@@ -170,7 +172,7 @@
 				<!-- Vertical Deck Start -->
 				<section>
 				  <section data-background="assets/thesis/cover/3.svg, assets/thesis/cover/cover_3.svg">
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; -webkit-text-stroke: 1.5px black;">
               SYNTHETIC<br>
               DATASET<br>
               GENERATION
@@ -187,39 +189,30 @@
             </p>
             <img src="assets/thesis/dataset/methods.svg" width="800">
 				  </section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/recursive/rnd/0.svg"
-				    data-background-size= "contain"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/recursive/rnd/animation.gif"
-				    data-background-size= "contain"
-				  ></section>
 				  
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/radius/0.svg"
-				    data-background-size= "contain"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/radius/animation.gif"
-				    data-background-size= "contain"
-				  ></section>
+				  <section data-background="assets/thesis/cover/6.svg">
+				    <div class="r-stack">
+              <img class="fragment fade-out" data-fragment-index="0" src="assets/floorplan/generation/recursive/rnd/0.svg" width="820">
+              <img class="fragment current-visible" data-fragment-index="0" src="assets/floorplan/generation/recursive/rnd/animation.gif" width="820">
+            </div>
+				  </section>
 				  
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/raise/0.svg"
-				    data-background-size= "contain"
-				  ></section>
-				
-				  <section 
-				    data-background="assets/floorplan/generation/voronoi/raise/animation.gif"
-				    data-background-size= "contain"
-				  ></section>
+				  <section data-background="assets/thesis/cover/6.svg">
+				    <div class="r-stack">
+              <img class="fragment fade-out" data-fragment-index="0" src="assets/floorplan/generation/voronoi/radius/0.svg" width="820">
+              <img class="fragment current-visible" data-fragment-index="0" src="assets/floorplan/generation/voronoi/radius/animation.gif" width="820">
+            </div>
+				  </section>
+				  
+				  <section data-background="assets/thesis/cover/6.svg">
+				    <div class="r-stack">
+              <img class="fragment fade-out" data-fragment-index="0" src="assets/floorplan/generation/voronoi/raise/0.svg" width="820">
+              <img class="fragment current-visible" data-fragment-index="0" src="assets/floorplan/generation/voronoi/raise/animation.gif" width="820">
+            </div>
+				  </section>
 				  
 				  <section data-background="assets/thesis/cover/3.svg">
-            <img src="assets/thesis/dataset/framework.svg" width="850">
+            <img src="assets/thesis/dataset/framework.svg" width="830">
             <p style="line-height:0.1; font-size:20px; letter-spacing: -1px; font-family: 'Roboto', sans-serif;">
               PARAMETRIC FRAMEWORK
             </p>
@@ -261,7 +254,7 @@
 				<!-- Vertical Deck Start -->
 				<section>
 				  <section data-background="assets/thesis/cover/4.svg, assets/thesis/cover/cover_4.svg">
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; -webkit-text-stroke: 1.5px black;">
               GRAPH<br>
               MACHINE<br>
               LEARNING
@@ -294,7 +287,7 @@
 				<!-- Vertical Deck Start -->
 				<section>
 				  <section data-background="assets/thesis/cover/5.svg, assets/thesis/cover/cover_5.svg">
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; -webkit-text-stroke: 1.5px black;">
               OUTCOME
             </p>
 				  </section>
@@ -359,25 +352,38 @@
 				<!-- Vertical Deck Start -->
 				<section>
 				  <section data-background="assets/thesis/cover/6.svg, assets/thesis/cover/cover_6.svg">
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; -webkit-text-stroke: 1.5px black;">
               CONCLUSION
             </p>
 				  </section>
 				  
 				  <section data-background="assets/thesis/cover/6.svg">
-					  <ul style="list-style:none; line-height:1.5; font-size:40px; letter-spacing: -1px; font-family: 'Roboto', sans-serif;">
-						  <li>Graphs and Topology in Architecture</li>
-						  <li>Feedback in Early Design Stages</li>
-						  <li>Machine Learning in Architectural Design</li>
-						  <li>Synthetic Architecture Datasets</li>
-					  </ul>
+				    <p style="line-height:0.1; font-size:30px; letter-spacing: -1px; font-family: 'Roboto', sans-serif;">
+              Graphs and Topology in Architecture
+            </p>
 				  </section>
 				  
 				  <section data-background="assets/thesis/cover/6.svg">
-				    <div class="r-stack">
+				    <p style="line-height:0.1; font-size:30px; letter-spacing: -1px; font-family: 'Roboto', sans-serif;">
+              Feedback in Early Design Stages
+            </p>
+            <div class="r-stack">
               <img class="fragment fade-out" data-fragment-index="0" src="assets/thesis/introduction/principle.svg" width="750">
-              <img class="fragment current-visible" data-fragment-index="0" src="assets/thesis/conclusion/principle_end.svg" width="750">
+              <img class="fragment fade-in" data-fragment-index="0" src="assets/thesis/conclusion/principle_end.svg" width="750">
+              <img class="fragment current-visible" data-fragment-index="1" src="assets/thesis/conclusion/principle_end_arrow.svg" width="750">
             </div>
+				  </section>
+				  
+  				<section data-background="assets/thesis/cover/6.svg">
+				    <p style="line-height:0.1; font-size:30px; letter-spacing: -1px; font-family: 'Roboto', sans-serif;">
+              Machine Learning in Architectural Design
+            </p>
+				  </section>
+				  
+				  <section data-background="assets/thesis/cover/6.svg">
+				    <p style="line-height:0.1; font-size:30px; letter-spacing: -1px; font-family: 'Roboto', sans-serif;">
+              Synthetic Architecture Datasets
+            </p>
 				  </section>
 				</section>
 				<!-- Vertical Deck End -->
@@ -385,7 +391,7 @@
 				<!-- Vertical Deck Start -->
 				<section>
 				  <section data-background="assets/thesis/cover/cover_7.svg">
-            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; text-shadow: -1.5px -1.5px 0 #000, 1.5px -1.5px 0 #000, -1.5px 1.5px 0 #000, 1.5px 1.5px 0 #000;">
+            <p style="line-height:0.9; font-size:100px; letter-spacing: -3px; font-family: 'Roboto', sans-serif; -webkit-text-stroke: 1.5px black;">
               DISCUSSION
             </p>
 				  </section>
