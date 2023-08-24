@@ -29,9 +29,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.94246412"
-     inkscape:cx="601.08389"
-     inkscape:cy="634.50692"
+     inkscape:zoom="0.66642277"
+     inkscape:cx="189.06917"
+     inkscape:cy="514.6883"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -53,13 +53,13 @@
          style="fill:#e5e5e5;fill-opacity:1"><text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:25px;line-height:1.25;font-family:sans-serif;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.75"
-           x="885.74359"
+           x="897.74359"
            y="666.87329"
            id="text1"><tspan
              sodipodi:role="line"
              id="tspan1"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#e5e5e5;fill-opacity:1;stroke-width:0.75"
-             x="885.74359"
+             x="897.74359"
              y="666.87329">Iteration</tspan></text><text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:25px;line-height:1.25;font-family:sans-serif;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -71,7 +71,7 @@
              id="tspan2"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#e5e5e5;fill-opacity:1;stroke-width:0.75"
              x="-572.52075"
-             y="290.22943">Total Site Energy Consumption</tspan></text></g><image
+             y="290.22943">Energy Consumption</tspan></text></g><image
          width="1273.5"
          height="529.5"
          preserveAspectRatio="none"
