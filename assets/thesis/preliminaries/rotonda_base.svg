@@ -24,583 +24,724 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.54426176"
-     inkscape:cx="660.52776"
-     inkscape:cy="687.16935"
+     inkscape:zoom="6.1576189"
+     inkscape:cx="623.69888"
+     inkscape:cy="811.83979"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg394" />
+     inkscape:current-layer="g286" />
   <defs
      id="defs2" />
   <g
      id="g286"
      style="fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-dasharray:none">
-    <polygon
-       points=" 548.1720692961227 1176.4673575391341 860.079836121762 1176.4673575391341 860.079836121762 1349.7492900227844 548.1720692961227 1349.7492900227844 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon4" />
-    <polygon
-       points=" 860.079836121762 102.11829480899428 860.079836121762 275.40029938141174 548.1720692961227 275.40029938141174 548.1720692961227 102.11829480899428 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon6" />
-    <polygon
-       points=" 101.10341472600173 569.9799450474533 274.38660876307864 569.9799450474533 274.38660876307864 881.8877118730926 101.10341472600173 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon8" />
-    <polygon
-       points=" 1133.8653326991896 569.9799450474533 1307.1484186031157 569.9799450474533 1307.1484186031157 881.8877118730926 1133.8653326991896 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon10" />
-    <polygon
-       points=" 548.1720692961227 102.11829480899428 537.2419704068252 58.39789925180435 871.0099350110595 58.39789925180435 860.079836121762 102.11829480899428 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon12" />
-    <polygon
-       points=" 860.079836121762 1349.7492900227844 871.0105117211974 1393.4722086868278 537.2413576523037 1393.4722086868278 548.1720692961227 1349.7492900227844 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon14" />
-    <polygon
-       points=" 101.10341472600173 881.8877118730926 58.841374930126186 892.8178107623901 58.841374930126186 559.0498461581558 101.10341472600173 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon16" />
-    <polygon
-       points=" 1307.1484186031157 569.9799450474533 1349.4106025765257 559.0498461581558 1349.4106025765257 892.8178107623901 1307.1484186031157 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon18" />
-    <polygon
-       points=" 860.079836121762 1055.1689955578377 860.079836121762 1176.4673575391341 548.1720692961227 1176.4673575391341 548.1720692961227 1055.1689955578377 634.8128913604133 1055.1702571112644 773.4390140574714 1055.1702571112644 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon20" />
-    <polygon
-       points=" 860.079836121762 396.6986613627082 773.4387257024024 396.6986613627082 634.8131797154823 396.6986613627082 548.1720692961227 396.6986613627082 548.1720692961227 275.40029938141174 860.079836121762 275.40029938141174 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon22" />
-    <polygon
-       points=" 274.38660876307864 569.9799450474533 392.21822192768667 569.9799450474533 392.2194834811134 680.8805836855377 392.2194834811134 770.9870732350082 392.21822192768667 881.8877118730926 274.38660876307864 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon24" />
-    <polygon
-       points=" 1016.0324219367712 770.9870732350082 1016.0324219367712 680.8805836855377 1016.0336474458144 569.9799450474533 1133.8653326991896 569.9799450474533 1133.8653326991896 881.8877118730926 1016.0336474458144 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon26" />
-    <polygon
-       points=" 548.1727180950279 569.9805938463585 392.21822192768667 569.9799450474533 392.21822192768667 396.6986613627082 548.1720692961227 396.6986613627082 634.8131797154823 396.6986613627082 634.8130355379478 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon28" />
-    <polygon
-       points=" 634.8130355379478 881.8877118730926 634.8128913604133 1055.1702571112644 548.1720692961227 1055.1689955578377 392.21822192768667 1055.1689955578377 392.21822192768667 881.8877118730926 548.1720692961227 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon30" />
-    <polygon
-       points=" 860.079836121762 881.8877118730926 1016.0336474458144 881.8877118730926 1016.0336474458144 1055.1689955578377 860.079836121762 1055.1689955578377 773.4390140574714 1055.1702571112644 773.4388698799369 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon32" />
-    <polygon
-       points=" 1016.0336474458144 396.6986613627082 1016.0336474458144 569.9799450474533 860.0791873228568 569.9805938463585 773.4388698799369 569.9799450474533 773.4387257024024 396.6986613627082 860.079836121762 396.6986613627082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon34" />
-    <polygon
-       points=" 548.1720692961227 881.8877118730926 392.21822192768667 881.8877118730926 392.2194834811134 770.9870732350082 548.1720692961227 770.9872174125427 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon36" />
-    <polygon
-       points=" 548.1727180950279 569.9805938463585 548.1720692961227 680.8804395080032 392.2194834811134 680.8805836855377 392.21822192768667 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon38" />
-    <polygon
-       points=" 1016.0324219367712 770.9870732350082 1016.0336474458144 881.8877118730926 860.079836121762 881.8877118730926 860.079836121762 770.9872174125427 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon40" />
-    <polygon
-       points=" 1016.0324219367712 680.8805836855377 860.079836121762 680.8804395080032 860.0791873228568 569.9805938463585 1016.0336474458144 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon42" />
-    <polygon
-       points=" 548.1720692961227 680.8804395080032 578.8123905697769 680.8805836855377 578.8123905697769 770.9870732350082 548.1720692961227 770.9872174125427 392.2194834811134 770.9870732350082 392.2194834811134 680.8805836855377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon44" />
-    <polygon
-       points=" 860.079836121762 770.9872174125427 829.4395148481078 770.9870732350082 829.4395148481078 680.8805836855377 860.079836121762 680.8804395080032 1016.0324219367712 680.8805836855377 1016.0324219367712 770.9870732350082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon46" />
-    <polygon
-       points=" 548.1727180950279 569.9805938463585 634.8130355379478 569.9799450474533 669.4695662122123 569.9799450474533 669.4695662122123 597.4588134336906 662.8945660183318 599.0373411699982 643.5514917255408 607.0494309388565 625.6992852280906 617.9886851015938 612.5236212391914 629.2426788221114 609.7787693376686 631.5866450889991 596.1808093502632 647.5071609794212 585.2409424330043 665.3590791218024 578.8123905697769 680.8805836855377 548.1720692961227 680.8804395080032 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon48" />
-    <polygon
-       points=" 669.4695662122123 881.8877118730926 634.8130355379478 881.8877118730926 548.1720692961227 881.8877118730926 548.1720692961227 770.9872174125427 578.8123905697769 770.9870732350082 585.2409424330043 786.5085777987434 596.1808093502632 804.3604959411247 609.7787693376686 820.2810118315467 612.5236212391914 822.6249780984344 625.6992852280906 833.8789718189521 643.5512033704719 844.818838736211 662.8944218407973 852.8309645494529 669.4695662122123 854.4088434868553 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon50" />
-    <polygon
-       points=" 669.4695662122123 854.4088434868553 738.7823392056724 854.4088434868553 738.7823392056724 881.8877118730926 773.4388698799369 881.8877118730926 773.4390140574714 1055.1702571112644 634.8128913604133 1055.1702571112644 634.8130355379478 881.8877118730926 669.4695662122123 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon52" />
-    <polygon
-       points=" 738.7823392056724 569.9799450474533 738.7823392056724 597.4588134336906 669.4695662122123 597.4588134336906 669.4695662122123 569.9799450474533 634.8130355379478 569.9799450474533 634.8131797154823 396.6986613627082 773.4387257024024 396.6986613627082 773.4388698799369 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon54" />
-    <polygon
-       points=" 773.4388698799369 569.9799450474533 860.0791873228568 569.9805938463585 860.079836121762 680.8804395080032 829.4395148481078 680.8805836855377 823.0109269404968 665.3590791218024 812.0710960676215 647.5071609794212 798.4731360802161 631.5866450889991 795.7282841786933 629.2426788221114 782.5526201897941 617.9886851015938 764.7004136923439 607.0494309388565 745.3573393995529 599.0373411699982 738.7823392056724 597.4588134336906 738.7823392056724 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon56" />
-    <polygon
-       points=" 829.4395148481078 680.8805836855377 829.4395148481078 770.9870732350082 823.0109269404968 786.5085777987434 812.0710960676215 804.3604959411247 798.4731360802161 820.2810118315467 795.7282841786933 822.6249780984344 782.5526201897941 833.8789718189521 764.7007020474128 844.818838736211 745.3574835770874 852.8309645494529 738.7823392056724 854.4088434868553 669.4695662122123 854.4088434868553 662.8944218407973 852.8309645494529 643.5512033704719 844.818838736211 625.6992852280906 833.8789718189521 612.5236212391914 822.6249780984344 609.7787693376686 820.2810118315467 596.1808093502632 804.3604959411247 585.2409424330043 786.5085777987434 578.8123905697769 770.9870732350082 578.8123905697769 680.8805836855377 585.2409424330043 665.3590791218024 596.1808093502632 647.5071609794212 609.7787693376686 631.5866450889991 612.5236212391914 629.2426788221114 625.6992852280906 617.9886851015938 643.5514917255408 607.0494309388565 662.8945660183318 599.0373411699982 669.4695662122123 597.4588134336906 738.7823392056724 597.4588134336906 745.3573393995529 599.0373411699982 764.7004136923439 607.0494309388565 782.5526201897941 617.9886851015938 795.7282841786933 629.2426788221114 798.4731360802161 631.5866450889991 812.0710960676215 647.5071609794212 823.0109269404968 665.3590791218024 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon58" />
-    <polygon
-       points=" 860.079836121762 881.8877118730926 773.4388698799369 881.8877118730926 738.7823392056724 881.8877118730926 738.7823392056724 854.4088434868553 745.3574835770874 852.8309645494529 764.7007020474128 844.818838736211 782.5526201897941 833.8789718189521 795.7282841786933 822.6249780984344 798.4731360802161 820.2810118315467 812.0710960676215 804.3604959411247 823.0109269404968 786.5085777987434 829.4395148481078 770.9870732350082 860.079836121762 770.9872174125427 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon60" />
-    <polygon
-       points=" 548.1720692961227 1176.4673575391341 548.1720692961227 1349.7492900227844 537.2413576523037 1393.4722086868278 537.2413576523037 1208.0440398105002 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon62" />
-    <polygon
-       points=" 548.1720692961227 275.40029938141174 537.2419704068252 243.8249147078559 537.2419704068252 58.39789925180435 548.1720692961227 102.11829480899428 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon64" />
-    <polygon
-       points=" 548.1720692961227 275.40029938141174 537.2419704068252 243.8249147078559 871.0099350110595 243.8249147078559 860.079836121762 275.40029938141174 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon66" />
-    <polygon
-       points=" 860.079836121762 1176.4673575391341 871.0105117211974 1208.0440398105002 537.2413576523037 1208.0440398105002 548.1720692961227 1176.4673575391341 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon68" />
-    <polygon
-       points=" 860.079836121762 1176.4673575391341 871.0105117211974 1208.0440398105002 871.0105117211974 1393.4722086868278 860.079836121762 1349.7492900227844 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon70" />
-    <polygon
-       points=" 860.079836121762 102.11829480899428 871.0099350110595 58.39789925180435 871.0099350110595 243.8249147078559 860.079836121762 275.40029938141174 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon72" />
-    <polygon
-       points=" 101.10341472600173 569.9799450474533 58.841374930126186 559.0498461581558 244.26575914617345 559.0491973592506 274.38660876307864 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon74" />
-    <polygon
-       points=" 274.38660876307864 881.8877118730926 244.26575914617345 892.8184235169116 58.841374930126186 892.8178107623901 101.10341472600173 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon76" />
-    <polygon
-       points=" 274.38660876307864 881.8877118730926 244.26575914617345 892.8184235169116 244.26575914617345 559.0491973592506 274.38660876307864 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon78" />
-    <polygon
-       points=" 1133.8653326991896 569.9799450474533 1163.9861823160948 559.0491973592506 1163.9861823160948 892.8184235169116 1133.8653326991896 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon80" />
-    <polygon
-       points=" 1133.8653326991896 569.9799450474533 1163.9861823160948 559.0491973592506 1349.4106025765257 559.0498461581558 1307.1484186031157 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon82" />
-    <polygon
-       points=" 1307.1484186031157 881.8877118730926 1349.4106025765257 892.8178107623901 1163.9861823160948 892.8184235169116 1133.8653326991896 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon84" />
-    <polygon
-       points=" 537.2413576523037 1208.0440398105002 871.0105117211974 1208.0440398105002 883.5876226756827 1244.3793016075392 524.664282742202 1244.3793016075392 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon86" />
-    <polygon
-       points=" 871.0099350110595 243.8249147078559 537.2419704068252 243.8249147078559 524.6649315411071 207.48958082204967 883.5869738767776 207.48958082204967 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon88" />
-    <polygon
-       points=" 244.26575914617345 559.0491973592506 244.26575914617345 892.8184235169116 209.608363406702 905.3954984270133 209.608363406702 546.4721584935326 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon90" />
-    <polygon
-       points=" 1163.9861823160948 892.8184235169116 1163.9861823160948 559.0491973592506 1198.6435780555662 546.4721584935326 1198.6435780555662 905.3954984270133 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon92" />
-    <polygon
-       points=" 392.21822192768667 396.6986613627082 345.2026488198452 347.0691495546562 524.664282742202 347.0704471524666 548.1720692961227 396.6986613627082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon94" />
-    <polygon
-       points=" 548.1720692961227 1176.4673575391341 537.2413576523037 1208.0440398105002 524.664282742202 1244.3793016075392 524.6636699876804 1104.7985073658897 548.1720692961227 1055.1689955578377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon96" />
-    <polygon
-       points=" 548.1720692961227 1055.1689955578377 524.6636699876804 1104.7985073658897 345.2013872664184 1104.7997689193164 392.21822192768667 1055.1689955578377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon98" />
-    <polygon
-       points=" 548.1720692961227 396.6986613627082 524.664282742202 347.0704471524666 524.6649315411071 207.48958082204967 537.2419704068252 243.8249147078559 548.1720692961227 275.40029938141174 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon100" />
-    <polygon
-       points=" 860.079836121762 1055.1689955578377 883.5882714745879 1104.7985073658897 883.5876226756827 1244.3793016075392 871.0105117211974 1208.0440398105002 860.079836121762 1176.4673575391341 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon102" />
-    <polygon
-       points=" 860.079836121762 396.6986613627082 860.079836121762 275.40029938141174 871.0099350110595 243.8249147078559 883.5869738767776 207.48958082204967 883.5876226756827 347.0704471524666 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon104" />
-    <polygon
-       points=" 860.079836121762 396.6986613627082 883.5876226756827 347.0704471524666 1063.049220553656 347.0691495546562 1016.0336474458144 396.6986613627082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon106" />
-    <polygon
-       points=" 1016.0336474458144 1055.1689955578377 1063.0505181514663 1104.7997689193164 883.5882714745879 1104.7985073658897 860.079836121762 1055.1689955578377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon108" />
-    <polygon
-       points=" 274.38660876307864 569.9799450474533 244.26575914617345 559.0491973592506 209.608363406702 546.4721584935326 345.2013872664184 546.4715817833946 392.21822192768667 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon110" />
-    <polygon
-       points=" 392.21822192768667 569.9799450474533 345.2013872664184 546.4715817833946 345.2026488198452 347.0691495546562 392.21822192768667 396.6986613627082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon112" />
-    <polygon
-       points=" 1016.0336474458144 569.9799450474533 1063.0505181514663 546.4715817833946 1198.6435780555662 546.4721584935326 1163.9861823160948 559.0491973592506 1133.8653326991896 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon114" />
-    <polygon
-       points=" 1016.0336474458144 396.6986613627082 1063.049220553656 347.0691495546562 1063.0505181514663 546.4715817833946 1016.0336474458144 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon116" />
-    <polygon
-       points=" 274.38660876307864 881.8877118730926 392.21822192768667 881.8877118730926 345.2013872664184 905.3961111815349 209.608363406702 905.3954984270133 244.26575914617345 892.8184235169116 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon118" />
-    <polygon
-       points=" 392.21822192768667 1055.1689955578377 345.2013872664184 1104.7997689193164 345.2013872664184 905.3961111815349 392.21822192768667 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon120" />
-    <polygon
-       points=" 1016.0336474458144 881.8877118730926 1063.0505181514663 905.3961111815349 1063.0505181514663 1104.7997689193164 1016.0336474458144 1055.1689955578377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon122" />
-    <polygon
-       points=" 1133.8653326991896 881.8877118730926 1163.9861823160948 892.8184235169116 1198.6435780555662 905.3954984270133 1063.0505181514663 905.3961111815349 1016.0336474458144 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon124" />
-    <polygon
-       points=" 634.8128913604133 1055.1702571112644 624.364850057666 1104.7985073658897 524.6636699876804 1104.7985073658897 548.1720692961227 1055.1689955578377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon126" />
-    <polygon
-       points=" 634.8131797154823 396.6986613627082 548.1720692961227 396.6986613627082 524.664282742202 347.0704471524666 624.3652105015021 347.0704471524666 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon128" />
-    <polygon
-       points=" 773.4387257024024 396.6986613627082 634.8131797154823 396.6986613627082 624.3652105015021 347.0704471524666 783.8866949163826 347.0704471524666 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon130" />
-    <polygon
-       points=" 773.4387257024024 396.6986613627082 783.8866949163826 347.0704471524666 883.5876226756827 347.0704471524666 860.079836121762 396.6986613627082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon132" />
-    <polygon
-       points=" 773.4390140574714 1055.1702571112644 783.8870553602187 1104.7985073658897 624.364850057666 1104.7985073658897 634.8128913604133 1055.1702571112644 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon134" />
-    <polygon
-       points=" 860.079836121762 1055.1689955578377 883.5882714745879 1104.7985073658897 783.8870553602187 1104.7985073658897 773.4390140574714 1055.1702571112644 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon136" />
-    <polygon
-       points=" 392.2194834811134 680.8805836855377 345.2026488198452 674.08931718993 345.2013872664184 546.4715817833946 392.21822192768667 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon138" />
-    <polygon
-       points=" 1016.0324219367712 680.8805836855377 1016.0336474458144 569.9799450474533 1063.0505181514663 546.4715817833946 1063.049220553656 674.08931718993 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon140" />
-    <polygon
-       points=" 392.21822192768667 881.8877118730926 345.2013872664184 905.3961111815349 345.2026488198452 777.7784839081504 392.2194834811134 770.9870732350082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon142" />
-    <polygon
-       points=" 392.2194834811134 770.9870732350082 345.2026488198452 777.7784839081504 345.2026488198452 674.08931718993 392.2194834811134 680.8805836855377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon144" />
-    <polygon
-       points=" 1016.0324219367712 770.9870732350082 1063.049220553656 777.7784839081504 1063.0505181514663 905.3961111815349 1016.0336474458144 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon146" />
-    <polygon
-       points=" 1016.0324219367712 680.8805836855377 1063.049220553656 674.08931718993 1063.049220553656 777.7784839081504 1016.0324219367712 770.9870732350082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon148" />
-    <polygon
-       points=" 548.1727180950279 569.9805938463585 524.6636699876804 546.4715817833946 345.2013872664184 546.4715817833946 392.21822192768667 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon150" />
-    <polygon
-       points=" 1016.0336474458144 569.9799450474533 1063.0505181514663 546.4715817833946 883.5882714745879 546.4715817833946 860.0791873228568 569.9805938463585 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon152" />
-    <polygon
-       points=" 548.1720692961227 881.8877118730926 392.21822192768667 881.8877118730926 345.2013872664184 905.3961111815349 524.6636699876804 905.3961111815349 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon154" />
-    <polygon
-       points=" 860.079836121762 881.8877118730926 883.5882714745879 905.3961111815349 1063.0505181514663 905.3961111815349 1016.0336474458144 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon156" />
-    <polygon
-       points=" 548.1727180950279 569.9805938463585 634.8130355379478 569.9799450474533 624.3649942352005 546.4715817833946 524.6636699876804 546.4715817833946 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon158" />
-    <polygon
-       points=" 624.3649942352005 546.4715817833946 634.8130355379478 569.9799450474533 634.8131797154823 396.6986613627082 624.3652105015021 347.0704471524666 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon160" />
-    <polygon
-       points=" 773.4388698799369 569.9799450474533 783.8869111826842 546.4715817833946 783.8866949163826 347.0704471524666 773.4387257024024 396.6986613627082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon162" />
-    <polygon
-       points=" 773.4388698799369 569.9799450474533 860.0791873228568 569.9805938463585 883.5882714745879 546.4715817833946 783.8869111826842 546.4715817833946 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon164" />
-    <polygon
-       points=" 634.8128913604133 1055.1702571112644 634.8130355379478 881.8877118730926 624.3649942352005 905.3961111815349 624.364850057666 1104.7985073658897 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon166" />
-    <polygon
-       points=" 634.8130355379478 881.8877118730926 548.1720692961227 881.8877118730926 524.6636699876804 905.3961111815349 624.3649942352005 905.3961111815349 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon168" />
-    <polygon
-       points=" 783.8870553602187 1104.7985073658897 783.8869111826842 905.3961111815349 773.4388698799369 881.8877118730926 773.4390140574714 1055.1702571112644 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon170" />
-    <polygon
-       points=" 860.079836121762 881.8877118730926 773.4388698799369 881.8877118730926 783.8869111826842 905.3961111815349 883.5882714745879 905.3961111815349 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon172" />
-    <polygon
-       points=" 548.1720692961227 680.8804395080032 392.2194834811134 680.8805836855377 345.2026488198452 674.08931718993 524.6636699876804 674.08931718993 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon174" />
-    <polygon
-       points=" 548.1720692961227 680.8804395080032 524.6636699876804 674.08931718993 524.6636699876804 546.4715817833946 548.1727180950279 569.9805938463585 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon176" />
-    <polygon
-       points=" 860.0791873228568 569.9805938463585 883.5882714745879 546.4715817833946 883.5882714745879 674.08931718993 860.079836121762 680.8804395080032 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon178" />
-    <polygon
-       points=" 860.079836121762 680.8804395080032 883.5882714745879 674.08931718993 1063.049220553656 674.08931718993 1016.0324219367712 680.8805836855377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon180" />
-    <polygon
-       points=" 548.1720692961227 881.8877118730926 524.6636699876804 905.3961111815349 524.6636699876804 777.7783397306159 548.1720692961227 770.9872174125427 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon182" />
-    <polygon
-       points=" 548.1720692961227 770.9872174125427 524.6636699876804 777.7783397306159 345.2026488198452 777.7784839081504 392.2194834811134 770.9870732350082 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon184" />
-    <polygon
-       points=" 860.079836121762 770.9872174125427 883.5882714745879 777.7783397306159 883.5882714745879 905.3961111815349 860.079836121762 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon186" />
-    <polygon
-       points=" 1016.0324219367712 770.9870732350082 1063.049220553656 777.7784839081504 883.5882714745879 777.7783397306159 860.079836121762 770.9872174125427 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon188" />
-    <polygon
-       points=" 669.4695662122123 569.9799450474533 634.8130355379478 569.9799450474533 624.3649942352005 546.4715817833946 664.2454374276878 546.4715817833946 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon190" />
-    <polygon
-       points=" 738.7823392056724 569.9799450474533 744.0064679901969 546.4715817833946 783.8869111826842 546.4715817833946 773.4388698799369 569.9799450474533 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon192" />
-    <polygon
-       points=" 669.4695662122123 881.8877118730926 664.2454374276878 905.3961111815349 624.3649942352005 905.3961111815349 634.8130355379478 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon194" />
-    <polygon
-       points=" 773.4388698799369 881.8877118730926 783.8869111826842 905.3961111815349 744.0064679901969 905.3961111815349 738.7823392056724 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon196" />
-    <polygon
-       points=" 643.5514917255408 607.0494309388565 662.8945660183318 599.0373411699982 656.6794329505256 579.9087309597534 634.4203680227782 589.1287401125259 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon198" />
-    <polygon
-       points=" 764.7004136923439 607.0494309388565 773.8315373951065 589.1287401125259 751.5724724673591 579.9087309597534 745.3573393995529 599.0373411699982 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon200" />
-    <polygon
-       points=" 662.8944218407973 852.8309645494529 643.5512033704719 844.818838736211 634.4203680227782 862.7388807636363 656.6794329505256 871.9589620051761 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon202" />
-    <polygon
-       points=" 764.7007020474128 844.818838736211 745.3574835770874 852.8309645494529 751.5724724673591 871.9589620051761 773.8315373951065 862.7388807636363 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon204" />
-    <polygon
-       points=" 625.6992852280906 617.9886851015938 643.5514917255408 607.0494309388565 634.4203680227782 589.1287401125259 613.8775924655388 601.7171690034683 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon206" />
-    <polygon
-       points=" 782.5526201897941 617.9886851015938 794.3743129523459 601.7171690034683 773.8315373951065 589.1287401125259 764.7004136923439 607.0494309388565 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon208" />
-    <polygon
-       points=" 585.2409424330043 665.3590791218024 596.1808093502632 647.5071609794212 579.9092932521377 635.6854682168694 567.320900405579 656.2282437741088 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon210" />
-    <polygon
-       points=" 823.0109269404968 665.3590791218024 840.9310410566894 656.2282437741088 828.342612165747 635.6854682168694 812.0710960676215 647.5071609794212 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon212" />
-    <polygon
-       points=" 596.1808093502632 804.3604959411247 585.2409424330043 786.5085777987434 567.320900405579 795.639413146437 579.9092932521377 816.1821887036765 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon214" />
-    <polygon
-       points=" 823.0109269404968 786.5085777987434 812.0710960676215 804.3604959411247 828.342612165747 816.1821887036765 840.9310410566894 795.639413146437 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon216" />
-    <polygon
-       points=" 643.5512033704719 844.818838736211 625.6992852280906 833.8789718189521 613.8775924655388 850.1504879170776 634.4203680227782 862.7388807636363 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon218" />
-    <polygon
-       points=" 782.5526201897941 833.8789718189521 764.7007020474128 844.818838736211 773.8315373951065 862.7388807636363 794.3743129523459 850.1504879170776 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon220" />
-    <polygon
-       points=" 596.1808093502632 647.5071609794212 609.7787693376686 631.5866450889991 595.5569892029308 617.3648289098777 579.9092932521377 635.6854682168694 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon222" />
-    <polygon
-       points=" 812.0710960676215 647.5071609794212 828.342612165747 635.6854682168694 812.6949522593376 617.3648289098777 798.4731360802161 631.5866450889991 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon224" />
-    <polygon
-       points=" 609.7787693376686 820.2810118315467 596.1808093502632 804.3604959411247 579.9092932521377 816.1821887036765 595.5569892029308 834.5028280106682 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon226" />
-    <polygon
-       points=" 812.0710960676215 804.3604959411247 798.4731360802161 820.2810118315467 812.6949522593376 834.5028280106682 828.342612165747 816.1821887036765 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon228" />
-    <polygon
-       points=" 609.7787693376686 631.5866450889991 612.5236212391914 629.2426788221114 598.7155945840416 614.6676276835021 595.5569892029308 617.3648289098777 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon230" />
-    <polygon
-       points=" 612.5236212391914 629.2426788221114 625.6992852280906 617.9886851015938 613.8775924655388 601.7171690034683 598.7155945840416 614.6676276835021 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon232" />
-    <polygon
-       points=" 795.7282841786933 629.2426788221114 809.5363108338431 614.6676276835021 794.3743129523459 601.7171690034683 782.5526201897941 617.9886851015938 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon234" />
-    <polygon
-       points=" 798.4731360802161 631.5866450889991 812.6949522593376 617.3648289098777 809.5363108338431 614.6676276835021 795.7282841786933 629.2426788221114 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon236" />
-    <polygon
-       points=" 612.5236212391914 822.6249780984344 609.7787693376686 820.2810118315467 595.5569892029308 834.5028280106682 598.7155945840416 837.1999931926601 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon238" />
-    <polygon
-       points=" 625.6992852280906 833.8789718189521 612.5236212391914 822.6249780984344 598.7155945840416 837.1999931926601 613.8775924655388 850.1504879170776 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon240" />
-    <polygon
-       points=" 795.7282841786933 822.6249780984344 782.5526201897941 833.8789718189521 794.3743129523459 850.1504879170776 809.5363108338431 837.1999931926601 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon242" />
-    <polygon
-       points=" 798.4731360802161 820.2810118315467 795.7282841786933 822.6249780984344 809.5363108338431 837.1999931926601 812.6949522593376 834.5028280106682 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon244" />
-    <polygon
-       points=" 548.1720692961227 680.8804395080032 578.8123905697769 680.8805836855377 559.922826711708 674.0891730123955 524.6636699876804 674.08931718993 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon246" />
-    <polygon
-       points=" 578.8123905697769 680.8805836855377 585.2409424330043 665.3590791218024 567.320900405579 656.2282437741088 559.922826711708 674.0891730123955 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon248" />
-    <polygon
-       points=" 829.4395148481078 680.8805836855377 848.3290787061767 674.0891730123955 840.9310410566894 656.2282437741088 823.0109269404968 665.3590791218024 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon250" />
-    <polygon
-       points=" 860.079836121762 680.8804395080032 883.5882714745879 674.08931718993 848.3290787061767 674.0891730123955 829.4395148481078 680.8805836855377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon252" />
-    <polygon
-       points=" 559.922826711708 674.0891730123955 559.922826711708 777.7784839081504 578.8123905697769 770.9870732350082 578.8123905697769 680.8805836855377 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon254" />
-    <polygon
-       points=" 578.8123905697769 770.9870732350082 548.1720692961227 770.9872174125427 524.6636699876804 777.7783397306159 559.922826711708 777.7784839081504 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon256" />
-    <polygon
-       points=" 585.2409424330043 786.5085777987434 578.8123905697769 770.9870732350082 559.922826711708 777.7784839081504 567.320900405579 795.639413146437 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon258" />
-    <polygon
-       points=" 829.4395148481078 770.9870732350082 823.0109269404968 786.5085777987434 840.9310410566894 795.639413146437 848.3290787061767 777.7784839081504 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon260" />
-    <polygon
-       points=" 848.3290787061767 674.0891730123955 829.4395148481078 680.8805836855377 829.4395148481078 770.9870732350082 848.3290787061767 777.7784839081504 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon262" />
-    <polygon
-       points=" 860.079836121762 770.9872174125427 829.4395148481078 770.9870732350082 848.3290787061767 777.7784839081504 883.5882714745879 777.7783397306159 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon264" />
-    <polygon
-       points=" 662.8945660183318 599.0373411699982 669.4695662122123 597.4588134336906 664.2455095164551 578.0926707353821 656.6794329505256 579.9087309597534 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon266" />
-    <polygon
-       points=" 669.4695662122123 597.4588134336906 669.4695662122123 569.9799450474533 664.2454374276878 546.4715817833946 664.2455095164551 578.0926707353821 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon268" />
-    <polygon
-       points=" 738.7823392056724 569.9799450474533 738.7823392056724 597.4588134336906 744.0063959014296 578.0926707353821 744.0064679901969 546.4715817833946 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon270" />
-    <polygon
-       points=" 744.0063959014296 578.0926707353821 664.2455095164551 578.0926707353821 669.4695662122123 597.4588134336906 738.7823392056724 597.4588134336906 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon272" />
-    <polygon
-       points=" 745.3573393995529 599.0373411699982 751.5724724673591 579.9087309597534 744.0063959014296 578.0926707353821 738.7823392056724 597.4588134336906 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon274" />
-    <polygon
-       points=" 664.2454374276878 873.7755989396854 744.0064679901969 873.7755989396854 738.7823392056724 854.4088434868553 669.4695662122123 854.4088434868553 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon276" />
-    <polygon
-       points=" 669.4695662122123 854.4088434868553 662.8944218407973 852.8309645494529 656.6794329505256 871.9589620051761 664.2454374276878 873.7755989396854 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon278" />
-    <polygon
-       points=" 669.4695662122123 854.4088434868553 664.2454374276878 873.7755989396854 664.2454374276878 905.3961111815349 669.4695662122123 881.8877118730926 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon280" />
-    <polygon
-       points=" 738.7823392056724 881.8877118730926 744.0064679901969 905.3961111815349 744.0064679901969 873.7755989396854 738.7823392056724 854.4088434868553 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon282" />
-    <polygon
-       points=" 745.3574835770874 852.8309645494529 738.7823392056724 854.4088434868553 744.0064679901969 873.7755989396854 751.5724724673591 871.9589620051761 "
-       style="mix-blend-mode:normal;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-opacity:1;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:markers fill stroke;stroke-dasharray:none"
-       id="polygon284" />
+    <path
+       id="polygon4"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,1176.4674 h 311.90777 v 173.2819 H 548.17207 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon6"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 860.07984,102.11829 V 275.4003 H 548.17207 V 102.11829 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon8"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 101.10341,569.97995 h 173.2832 v 311.90776 h -173.2832 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon10"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1133.8653,569.97995 h 173.2831 v 311.90776 h -173.2831 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon12"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,102.11829 -10.9301,-43.720391 h 333.76797 l -10.9301,43.720391 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon14"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,1349.7493 10.93067,43.7229 H 537.24136 l 10.93071,-43.7229 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon16"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 101.10341,881.88771 -42.262035,10.9301 V 559.04985 l 42.262035,10.9301 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon18"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1307.1484,569.97995 42.2622,-10.9301 v 333.76796 l -42.2622,-10.9301 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon20"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,1055.169 v 121.2984 H 548.17207 V 1055.169 h 86.64082 138.62612 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon22"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 860.07984,396.69866 H 773.43873 634.81318 548.17207 V 275.4003 h 311.90777 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon24"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 274.38661,569.97995 h 117.83161 l 0.001,110.90063 v 90.10649 l -0.001,110.90064 H 274.38661 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon26"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 1016.0324,770.98707 V 680.88058 569.97995 h 117.8317 v 311.90776 h -117.8317 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon28"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17272,569.98059 -155.9545,-6.4e-4 V 396.69866 h 155.95385 86.64111 l -1.4e-4,173.28129 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon30"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 634.81304,881.88771 -1.5e-4,173.28259 H 548.17207 392.21822 V 881.88771 h 155.95385 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon32"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 860.07984,881.88771 H 1016.0336 V 1055.169 H 860.07984 773.43901 l -1.4e-4,-173.28259 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon34"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0336,396.69866 v 173.28129 l -155.95441,6.4e-4 -86.64032,-6.4e-4 -1.4e-4,-173.28129 h 86.64111 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon36"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 548.17207,881.88771 H 392.21822 l 0.001,-110.90064 155.95259,1.5e-4 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon38"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17272,569.98059 -6.5e-4,110.89985 -155.95259,1.4e-4 -10e-4,-110.90063 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon40"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 1016.0324,770.98707 V 881.88771 H 860.07984 V 770.98722 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon42"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0324,680.88058 -155.95256,-1.4e-4 -6.5e-4,-110.89985 155.95441,-6.4e-4 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon44"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,680.88044 30.64032,1.4e-4 v 90.10649 l -30.64032,1.5e-4 -155.95259,-1.5e-4 v -90.10649 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon46"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,770.98722 -30.64033,-1.5e-4 v -90.10649 l 30.64033,-1.4e-4 155.95256,1.4e-4 v 90.10649 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="polygon48"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17272,569.98059 86.64032,-6.4e-4 h 34.65653 v 27.47886 l -6.575,1.57853 -19.34308,8.01209 -17.8522,10.93926 -13.17567,11.25399 -2.74485,2.34397 -13.59796,15.92051 -10.93987,17.85192 -6.42855,15.5215 -30.64032,-1.4e-4 z"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       id="polygon50"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 669.46957,881.88771 H 634.81304 548.17207 V 770.98722 l 30.64032,-1.5e-4 6.42855,15.52151 10.93987,17.85192 13.59796,15.92051 2.74485,2.34397 13.17567,11.25399 17.85191,10.93987 19.34322,8.01212 6.57515,1.57788 z"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       id="polygon52"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 669.46957,854.40884 h 69.31277 v 27.47887 h 34.65653 l 1.4e-4,173.28259 H 634.81289 l 1.5e-4,-173.28259 h 34.65653 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="polygon54"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 738.78234,569.97995 v 27.47886 h -69.31277 v -27.47886 h -34.65653 l 1.4e-4,-173.28129 h 138.62555 l 1.4e-4,173.28129 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       id="polygon56"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 773.43887,569.97995 86.64032,6.4e-4 6.5e-4,110.89985 -30.64033,1.4e-4 -6.42858,-15.5215 -10.93983,-17.85192 -13.59796,-15.92051 -2.74486,-2.34397 -13.17566,-11.25399 -17.85221,-10.93926 -19.34307,-8.01209 -6.575,-1.57853 v -27.47886 z"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       id="polygon58"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 829.43951,680.88058 v 90.10649 l -6.42858,15.52151 -10.93983,17.85192 -13.59796,15.92051 -2.74486,2.34397 -13.17566,11.25399 -17.85192,10.93987 -19.34322,8.01212 -6.57514,1.57788 h -69.31277 l -6.57515,-1.57788 -19.34322,-8.01212 -17.85191,-10.93987 -13.17567,-11.25399 -2.74485,-2.34397 -13.59796,-15.92051 -10.93987,-17.85192 -6.42855,-15.52151 v -90.10649 l 6.42855,-15.5215 10.93987,-17.85192 13.59796,-15.92051 2.74485,-2.34397 13.17567,-11.25399 17.8522,-10.93926 19.34308,-8.01209 6.575,-1.57853 h 69.31277 l 6.575,1.57853 19.34307,8.01209 17.85221,10.93926 13.17566,11.25399 2.74486,2.34397 13.59796,15.92051 10.93983,17.85192 z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
+    <path
+       id="polygon60"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,881.88771 h -86.64097 -34.65653 v -27.47887 l 6.57514,-1.57788 19.34322,-8.01212 17.85192,-10.93987 13.17566,-11.25399 2.74486,-2.34397 13.59796,-15.92051 10.93983,-17.85192 6.42858,-15.52151 30.64033,1.5e-4 z"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       id="polygon62"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,1176.4674 v 173.2819 l -10.93071,43.7229 V 1208.044 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon64"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,275.4003 -10.9301,-31.57539 V 58.397899 l 10.9301,43.720391 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon66"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,275.4003 -10.9301,-31.57539 h 333.76797 l -10.9301,31.57539 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon68"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,1176.4674 10.93067,31.5766 H 537.24136 l 10.93071,-31.5766 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon70"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,1176.4674 10.93067,31.5766 v 185.4282 l -10.93067,-43.7229 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon72"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,102.11829 10.9301,-43.720391 V 243.82491 l -10.9301,31.57539 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon74"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 101.10341,569.97995 -42.262035,-10.9301 185.424385,-6.5e-4 30.12085,10.93075 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon76"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 274.38661,881.88771 -30.12085,10.93071 -185.424385,-6.1e-4 42.262035,-10.9301 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon78"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 274.38661,881.88771 -30.12085,10.93071 V 559.0492 l 30.12085,10.93075 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon80"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1133.8653,569.97995 30.1209,-10.93075 v 333.76922 l -30.1209,-10.93071 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon82"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1133.8653,569.97995 30.1209,-10.93075 185.4244,6.5e-4 -42.2622,10.9301 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon84"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1307.1484,881.88771 42.2622,10.9301 -185.4244,6.1e-4 -30.1209,-10.93071 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon86"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 537.24136,1208.044 h 333.76915 l 12.57711,36.3353 H 524.66428 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon88"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 871.00994,243.82491 H 537.24197 l -12.57704,-36.33533 h 358.92204 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon90"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 244.26576,559.0492 v 333.76922 l -34.6574,12.57708 V 546.47216 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon92"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 1163.9862,892.81842 V 559.0492 l 34.6574,-12.57704 V 905.3955 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon94"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 392.21822,396.69866 -47.01557,-49.62951 179.46163,0.001 23.50779,49.62821 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon96"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,1176.4674 -10.93071,31.5766 -12.57708,36.3353 -6.1e-4,-139.5808 23.5084,-49.6295 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon98"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,1055.169 -23.5084,49.6295 H 345.20139 l 47.01683,-49.6308 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon100"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,396.69866 -23.50779,-49.62821 6.5e-4,-139.58087 12.57704,36.33533 10.9301,31.57539 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon102"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,1055.169 23.50843,49.6295 -6.5e-4,139.5808 -12.57711,-36.3353 -10.93067,-31.5766 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon104"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 860.07984,396.69866 V 275.4003 l 10.9301,-31.57539 12.57703,-36.33533 6.5e-4,139.58087 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon106"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,396.69866 23.50778,-49.62821 179.46158,-10e-4 -47.0156,49.62951 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon108"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0336,1055.169 47.0169,49.6308 H 883.58827 l -23.50843,-49.6295 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon110"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 274.38661,569.97995 -30.12085,-10.93075 -34.6574,-12.57704 135.59303,-5.8e-4 47.01683,23.50837 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon112"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 392.21822,569.97995 -47.01683,-23.50837 10e-4,-199.40243 47.01557,49.62951 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon114"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0336,569.97995 47.0169,-23.50837 135.5931,5.8e-4 -34.6574,12.57704 -30.1209,10.93075 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon116"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0336,396.69866 47.0156,-49.62951 v 199.40243 l -47.0169,23.50837 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon118"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 274.38661,881.88771 h 117.83161 l -47.01683,23.5084 -135.59303,-6.1e-4 34.6574,-12.57708 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon120"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 392.21822,1055.169 -47.01683,49.6308 V 905.39611 l 47.01683,-23.5084 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon122"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0336,881.88771 47.0169,23.5084 v 199.40369 l -47.0169,-49.6308 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon124"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1133.8653,881.88771 30.1209,10.93071 34.6574,12.57708 -135.5931,6.1e-4 -47.0169,-23.5084 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="polygon126"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 634.81289,1055.1703 -10.44804,49.6282 h -99.70118 l 23.5084,-49.6295 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon128"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 634.81318,396.69866 h -86.64111 l -23.50779,-49.62821 h 99.70093 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon130"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 773.43873,396.69866 H 634.81318 l -10.44797,-49.62821 h 159.52148 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon132"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 773.43873,396.69866 10.44796,-49.62821 h 99.70093 l -23.50778,49.62821 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon134"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 773.43901,1055.1703 10.44805,49.6282 H 624.36485 l 10.44804,-49.6282 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon136"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,1055.169 23.50843,49.6295 h -99.70121 l -10.44805,-49.6282 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon138"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 392.21948,680.88058 -47.01683,-6.79126 -0.001,-127.61774 47.01683,23.50837 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon140"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 1016.0324,680.88058 V 569.97995 l 47.0169,-23.50837 v 127.61774 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon142"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 392.21822,881.88771 -47.01683,23.5084 10e-4,-127.61763 47.01683,-6.79141 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon144"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 392.21948,770.98707 -47.01683,6.79141 V 674.08932 l 47.01683,6.79126 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon146"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0324,770.98707 47.0168,6.79141 v 127.61763 l -47.0169,-23.5084 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon148"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0324,680.88058 47.0168,-6.79126 v 103.68916 l -47.0168,-6.79141 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon150"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 548.17272,569.98059 524.66367,546.47158 H 345.20139 l 47.01683,23.50837 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon152"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0336,569.97995 47.0169,-23.50837 H 883.58827 l -23.50908,23.50901 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon154"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 548.17207,881.88771 H 392.21822 l -47.01683,23.5084 h 179.46228 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon156"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,881.88771 23.50843,23.5084 h 179.46223 l -47.0169,-23.5084 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon158"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17272,569.98059 86.64032,-6.4e-4 -10.44805,-23.50837 h -99.70132 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon160"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 624.36499,546.47158 10.44805,23.50837 1.4e-4,-173.28129 -10.44797,-49.62821 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon162"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 773.43887,569.97995 10.44804,-23.50837 -2.2e-4,-199.40113 -10.44796,49.62821 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon164"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 773.43887,569.97995 86.64032,6.4e-4 23.50908,-23.50901 h -99.70136 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon166"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 634.81289,1055.1703 1.5e-4,-173.28259 -10.44805,23.5084 -1.4e-4,199.40239 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon168"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 634.81304,881.88771 h -86.64097 l -23.5084,23.5084 h 99.70132 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon170"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 783.88706,1104.7985 -1.5e-4,-199.40239 -10.44804,-23.5084 1.4e-4,173.28259 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon172"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,881.88771 h -86.64097 l 10.44804,23.5084 h 99.70136 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon174"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,680.88044 -155.95259,1.4e-4 -47.01683,-6.79126 h 179.46102 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon176"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,680.88044 -23.5084,-6.79112 V 546.47158 l 23.50905,23.50901 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon178"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07919,569.98059 23.50908,-23.50901 v 127.61774 l -23.50843,6.79112 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon180"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,680.88044 23.50843,-6.79112 h 179.46093 l -47.0168,6.79126 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon182"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,881.88771 -23.5084,23.5084 V 777.77834 l 23.5084,-6.79112 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon184"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,770.98722 -23.5084,6.79112 -179.46102,1.4e-4 47.01683,-6.79141 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon186"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,770.98722 23.50843,6.79112 v 127.61777 l -23.50843,-23.5084 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon188"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 1016.0324,770.98707 47.0168,6.79141 -179.46093,-1.4e-4 -23.50843,-6.79112 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon190"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 669.46957,569.97995 h -34.65653 l -10.44805,-23.50837 h 39.88045 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon192"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 738.78234,569.97995 5.22413,-23.50837 h 39.88044 l -10.44804,23.50837 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon194"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 669.46957,881.88771 -5.22413,23.5084 h -39.88045 l 10.44805,-23.5084 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon196"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 773.43887,881.88771 10.44804,23.5084 h -39.88044 l -5.22413,-23.5084 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon198"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 643.55149,607.04943 19.34308,-8.01209 m -6.21514,-19.12861 -22.25906,9.22001"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon200"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 745.35734,599.03734 19.34307,8.01209 m 9.13113,-17.92069 -22.25907,-9.22001"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon202"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 662.89442,852.83096 -19.34322,-8.01212 m -9.13083,17.92004 22.25906,9.22008"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon204"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 764.7007,844.81884 -19.34322,8.01212 m 6.21499,19.128 22.25907,-9.22008"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon206"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 625.69929,617.98869 17.8522,-10.93926 m -9.13112,-17.92069 -20.54278,12.58843"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon208"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 764.70041,607.04943 17.85221,10.93926 m 11.82169,-16.27152 -20.54277,-12.58843"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon210"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 585.24094,665.35908 10.93987,-17.85192 m -16.27152,-11.82169 -12.58839,20.54277"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon212"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 812.0711,647.50716 10.93983,17.85192 m 17.92011,-9.13084 -12.58843,-20.54277"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon214"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 596.18081,804.3605 -10.93987,-17.85192 m -17.92004,9.13083 12.58839,20.54278"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon216"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 823.01093,786.50858 812.0711,804.3605 m 16.27151,11.82169 12.58843,-20.54278"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon218"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 643.5512,844.81884 -17.85191,-10.93987 m -11.8217,16.27152 20.54278,12.58839"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon220"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 782.55262,833.87897 -17.85192,10.93987 m 9.13084,17.92004 20.54277,-12.58839"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon222"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 596.18081,647.50716 13.59796,-15.92051 m -14.22178,-14.22182 -15.6477,18.32064"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon224"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 798.47314,631.58665 13.59796,15.92051 m 16.27151,-11.82169 -15.64766,-18.32064"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon226"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="M 609.77877,820.28101 596.18081,804.3605 m -16.27152,11.82169 15.6477,18.32064"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon228"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 812.0711,804.3605 -13.59796,15.92051 m 14.22181,14.22182 15.64766,-18.32064"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon230"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 609.77877,631.58665 2.74485,-2.34397 m -13.80803,-14.57505 -3.1586,2.6972"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon232"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 612.52362,629.24268 13.17567,-11.25399 m -11.8217,-16.27152 -15.162,12.95046"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon234"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 782.55262,617.98869 13.17566,11.25399 m 13.80803,-14.57505 -15.162,-12.95046"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon236"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 812.69495,617.36483 -3.15864,-2.6972 m -13.80803,14.57505 2.74486,2.34397"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon238"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 595.55699,834.50283 3.1586,2.69716 m 13.80803,-14.57501 -2.74485,-2.34397"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon240"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 625.69929,833.87897 -13.17567,-11.25399 m -13.80803,14.57501 15.162,12.9505"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon242"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 795.72828,822.62498 -13.17566,11.25399 m 11.82169,16.27152 15.162,-12.9505"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon244"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 798.47314,820.28101 -2.74486,2.34397 m 13.80803,14.57501 3.15864,-2.69716"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon246"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 548.17207,680.88044 30.64032,1.4e-4 -18.88956,-6.79141 -35.25916,1.5e-4 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon248"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 567.3209,656.22824 -7.39807,17.86093 18.88956,6.79141 6.42855,-15.5215"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon250"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 823.01093,665.35908 6.42858,15.5215 18.88957,-6.79141 -7.39804,-17.86093"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon252"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,680.88044 23.50843,-6.79112 -35.25919,-1.5e-4 -18.88957,6.79141 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon254"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 559.92283,674.08917 v 103.68931 l 18.88956,-6.79141 v -90.10649 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon256"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 578.81239,770.98707 -30.64032,1.5e-4 -23.5084,6.79112 35.25916,1.4e-4 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon258"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 585.24094,786.50858 -6.42855,-15.52151 -18.88956,6.79141 7.39807,17.86093"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon260"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 840.93104,795.63941 7.39804,-17.86093 -18.88957,-6.79141 -6.42858,15.52151"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon262"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 848.32908,674.08917 -18.88957,6.79141 v 90.10649 l 18.88957,6.79141 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon264"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 860.07984,770.98722 -30.64033,-1.5e-4 18.88957,6.79141 35.25919,-1.4e-4 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon266"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 662.89457,599.03734 6.575,-1.57853 -5.22406,-19.36614 -7.56608,1.81606"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon268"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 669.46957,597.45881 v -27.47886 l -5.22413,-23.50837 7e-5,31.62109 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon270"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 738.78234,569.97995 v 27.47886 l 5.22406,-19.36614 7e-5,-31.62109 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon272"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 744.0064,578.09267 h -79.76089 l 5.22406,19.36614 h 69.31277 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon274"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 751.57247,579.90873 -7.56607,-1.81606 -5.22406,19.36614 6.575,1.57853"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon276"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 664.24544,873.7756 h 79.76103 l -5.22413,-19.36676 h -69.31277 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon278"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 656.67943,871.95896 7.56601,1.81664 5.22413,-19.36676 -6.57515,-1.57788"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="polygon280"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 669.46957,854.40884 -5.22413,19.36676 v 31.62051 l 5.22413,-23.5084 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon282"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 738.78234,881.88771 5.22413,23.5084 V 873.7756 l -5.22413,-19.36676 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="polygon284"
+       style="stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 745.35748,852.83096 -6.57514,1.57788 5.22413,19.36676 7.566,-1.81664"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
