@@ -356,7 +356,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0);
   color: var(--r-link-color);
 }
 
