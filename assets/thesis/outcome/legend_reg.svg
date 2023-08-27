@@ -29,7 +29,7 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="3.54675"
-     inkscape:cx="70.346092"
+     inkscape:cx="70.205117"
      inkscape:cy="318.31959"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -291,138 +291,138 @@
   </defs>
   <text
      xml:space="preserve"
-     transform="matrix(0.75,0,0,0.75,-585.1998,75.749911)"
+     transform="matrix(0.75,0,0,0.75,-592.6998,75.749911)"
      id="text2429"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="903.46875"
        y="111.78459"
-       id="tspan18"><tspan
+       id="tspan2"><tspan
          style="font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan17">RandomForest</tspan></tspan></text>
+         id="tspan1">RandomForest</tspan></tspan></text>
   <text
      xml:space="preserve"
-     transform="matrix(0.75,0,0,0.75,-584.6959,43.120001)"
+     transform="matrix(0.75,0,0,0.75,-592.1959,43.120001)"
      id="text2429-6"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-3);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="903.46875"
        y="111.78459"
-       id="tspan20"><tspan
+       id="tspan4"><tspan
          style="font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan19">GradientBoosting</tspan></tspan></text>
+         id="tspan3">GradientBoosting</tspan></tspan></text>
   <text
      xml:space="preserve"
-     transform="matrix(0.75,0,0,0.75,-585.1998,138.74646)"
+     transform="matrix(0.75,0,0,0.75,-592.6998,138.74646)"
      id="text2429-5"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-7);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="903.46875"
        y="111.78459"
-       id="tspan22"><tspan
+       id="tspan6"><tspan
          style="font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan21">DecisionTree</tspan></tspan></text>
+         id="tspan5">DecisionTree</tspan></tspan></text>
   <text
      xml:space="preserve"
-     transform="matrix(0.75,0,0,0.75,-585.1998,170.43898)"
+     transform="matrix(0.75,0,0,0.75,-592.6998,170.43898)"
      id="text2429-62"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-35);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="903.46875"
        y="111.78459"
-       id="tspan24"><tspan
+       id="tspan8"><tspan
          style="font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan23">KNeighbors</tspan></tspan></text>
+         id="tspan7">KNeighbors</tspan></tspan></text>
   <text
      xml:space="preserve"
-     transform="matrix(0.75,0,0,0.75,-584.81308,107.26759)"
+     transform="matrix(0.75,0,0,0.75,-592.31308,107.26759)"
      id="text2429-1"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-9);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="903.46875"
        y="111.78459"
-       id="tspan26"><tspan
+       id="tspan10"><tspan
          style="font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan25">SupportVector</tspan></tspan></text>
+         id="tspan9">SupportVector</tspan></tspan></text>
   <text
      xml:space="preserve"
-     transform="matrix(0.75,0,0,0.75,-585.1998,10.969694)"
+     transform="matrix(0.75,0,0,0.75,-592.6998,10.969694)"
      id="text2429-7"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2431-2);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="903.46875"
        y="111.78459"
-       id="tspan28"><tspan
+       id="tspan12"><tspan
          style="font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan27">LinearRegression</tspan></tspan></text>
+         id="tspan11">LinearRegression</tspan></tspan></text>
   <rect
      style="opacity:1;fill:#99c1f1;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect2725"
      width="26.969816"
      height="23.548985"
-     x="54.594566"
+     x="47.094566"
      y="142.52318" />
   <rect
      style="opacity:1;fill:#8ff0a4;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect2725-0"
      width="26.969816"
      height="23.548985"
-     x="54.497704"
+     x="46.997704"
      y="110.96542" />
   <rect
      style="opacity:1;fill:#f9f06b;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect2725-6"
      width="26.969816"
      height="23.548985"
-     x="54.497704"
+     x="46.997704"
      y="206.5246" />
   <rect
      style="opacity:1;fill:#ffbe6f;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect2725-2"
      width="26.969816"
      height="23.548985"
-     x="54.497704"
+     x="46.997704"
      y="238.43304" />
   <rect
      style="opacity:1;fill:#f99085;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect2725-61"
      width="26.969816"
      height="23.548985"
-     x="54.349998"
+     x="46.849998"
      y="174.96683" />
   <rect
      style="opacity:1;fill:#ebbbeb;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect2725-8"
      width="26.969816"
      height="23.548985"
-     x="54.497704"
+     x="46.997704"
      y="79.260017" />
   <text
      xml:space="preserve"
-     transform="matrix(0.75,0,0,0.75,-585.1998,-67.940282)"
+     transform="matrix(0.75,0,0,0.75,-592.6998,-67.940282)"
      id="text12524"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12540);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="903.46875"
        y="111.78459"
-       id="tspan30"><tspan
+       id="tspan14"><tspan
          style="font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan29">MLP</tspan></tspan></text>
+         id="tspan13">MLP</tspan></tspan></text>
   <text
      xml:space="preserve"
-     transform="matrix(0.75,0,0,0.75,-585.1998,-34.718857)"
+     transform="matrix(0.75,0,0,0.75,-592.6998,-34.718857)"
      id="text12532"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12544);display:inline;fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"><tspan
        x="903.46875"
        y="111.78459"
-       id="tspan32"><tspan
+       id="tspan16"><tspan
          style="font-family:Roboto;-inkscape-font-specification:Roboto"
-         id="tspan31">DGCNN</tspan></tspan></text>
+         id="tspan15">DGCNN</tspan></tspan></text>
   <rect
      style="opacity:1;fill:#b9f5e2;fill-opacity:1;stroke:#e5e5e5;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect12534"
      width="26.969816"
      height="23.548985"
-     x="54.497704"
+     x="46.997704"
      y="0.34999999" />
   <rect
      style="opacity:1;fill:none;fill-opacity:1;stroke:#e5e5e5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect12538"
      width="26.969816"
      height="23.548985"
-     x="54.645351"
+     x="47.145351"
      y="32.261646" />
 </svg>
