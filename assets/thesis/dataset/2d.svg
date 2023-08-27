@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Blender, SVG Export for Grease Pencil - v1.0 -->
+
+<svg
+   version="1.0"
+   x="0px"
+   y="0px"
+   width="1887.3278"
+   height="1490.0055"
+   viewBox="0 0 1887.3278 1490.0055"
+   id="svg419"
+   sodipodi:docname="2d.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:export-filename="window_generation1.pdf"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs423" />
+  <sodipodi:namedview
+     id="namedview421"
+     pagecolor="#121212"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.29056645"
+     inkscape:cx="683.14838"
+     inkscape:cy="757.14178"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Lines"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="blender_frame_374"
+     transform="translate(-1138.8542,-374.33214)">
+    <g
+       id="blender_object_Line Art">
+      <!--Layer: Lines-->
+      <g
+         id="Lines">
+        <path
+           id="rect1"
+           style="opacity:1;fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           d="m 2843.9592,1173.4636 -159.442,312.6477 -217.4903,-32.5486 -277.8361,61.6831 -44.5461,199.4268 -372.6467,-85.9935 -200.07,-191.7028 -177.9443,-155.1475 -86.7952,-100.9077 164.484,-551.43102 222.5772,-4.197 236.9507,19.3014 223.9609,-131.1975 427.1769,167.5109 25.386,266.0683 z"
+           sodipodi:nodetypes="cccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2607.7242,946.97618 -228.1351,122.64442 87.4378,383.9421"
+           id="path1"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="M 2379.5891,1069.6206 2162.0526,974.70382 1931.2003,644.59448"
+           id="path2"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2162.0526,974.70382 -170.2392,258.95248 197.3774,281.5895"
+           id="path3"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1991.8134,1233.6563 1823.5249,1168.742 1571.928,1436.9763"
+           id="path4"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="M 1823.5249,1168.742 1656.8614,899.13198 1393.9836,1281.8288"
+           id="path5"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1656.8614,899.13198 37.3883,-273.8389"
+           id="path6"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+  </g>
+</svg>

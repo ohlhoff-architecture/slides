@@ -24,9 +24,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="3.4991274"
-     inkscape:cx="65.587781"
-     inkscape:cy="129.74663"
+     inkscape:zoom="1.7495637"
+     inkscape:cx="651.01945"
+     inkscape:cy="120.6015"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -545,7 +545,7 @@
      fill-rule="nonzero"
      fill="rgb(24.705882%, 74.901961%, 68.235294%)"
      fill-opacity="1"
-     d="m 596.04999,41.993111 h 88.86213 c 2.7617,0 5,2.238281 5,5 v 28 c 0,2.761719 -2.2383,5 -5,5 h -88.86213 c -2.7618,0 -5,-2.238281 -5,-5 v -28 c 0,-2.761719 2.2382,-5 5,-5 z"
+     d="m 596.04999,9.000283 h 88.86213 c 2.7617,0 5,2.238281 5,5 v 28 c 0,2.761719 -2.2383,5 -5,5 h -88.86213 c -2.7618,0 -5,-2.238281 -5,-5 v -28 c 0,-2.761719 2.2382,-5 5,-5 z"
      id="path525-6"
      style="fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="sssssssss" />
@@ -553,11 +553,11 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.35;font-family:sans-serif;fill:#e5e5e5;fill-opacity:1;stroke:none"
      x="640.68878"
-     y="67.628548"
+     y="34.635719"
      id="text598-20-2-9"><tspan
        sodipodi:role="line"
        x="640.68878"
-       y="67.628548"
+       y="34.635719"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#e5e5e5;fill-opacity:1"
        id="tspan1636-9-37">TREEMAP</tspan></text>
   <text
@@ -679,7 +679,7 @@
      sodipodi:nodetypes="ccc" />
   <path
      style="fill:none;stroke:#e5e5e5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart-0-7)"
-     d="M 467.44364,123.272 V 61.000283 h 110.5042"
+     d="m 467.44364,123.272 0,-95.271707 h 110.5042"
      id="path3004-5"
      sodipodi:nodetypes="ccc" />
   <path
@@ -708,9 +708,14 @@
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#e5e5e5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#TriangleStart)"
-     d="M 825.49339,111.04287 V 61.000283 H 689.91212"
+     d="m 825.49339,110.51195 0,-82.511667 H 689.91212"
      id="path3688"
      sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:none;stroke:#e5e5e5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 825.49339,91.636136 -94.13798,0"
+     id="path3688-3"
+     sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#e5e5e5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#TriangleStart)"
      d="M 952.37774,155.27199 H 886.59809"
@@ -779,4 +784,28 @@
        y="174.83183"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#e5e5e5;fill-opacity:1"
        id="tspan6">PROCESSING</tspan></text>
+  <path
+     fill-rule="nonzero"
+     fill="rgb(24.705882%, 74.901961%, 68.235294%)"
+     fill-opacity="1"
+     d="m 554.60664,72.63614 h 171.74877 c 2.7617,0 5,2.238281 5,5 v 27.99999 c 0,2.76172 -2.2383,5 -5,5 H 554.60664 c -2.7618,0 -5,-2.23828 -5,-5 V 77.63614 c 0,-2.761719 2.2382,-5 5,-5 z"
+     id="path4"
+     style="fill:#35b996;fill-opacity:1;stroke:#e5e5e5;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="sssssssss" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.35;font-family:sans-serif;fill:#e5e5e5;fill-opacity:1;stroke:none"
+     x="640.69983"
+     y="98.271561"
+     id="text4"><tspan
+       sodipodi:role="line"
+       x="640.69983"
+       y="98.271561"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#e5e5e5;fill-opacity:1"
+       id="tspan4">VORONOI TREEMAP</tspan></text>
+  <path
+     style="fill:none;stroke:#e5e5e5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart-0-7)"
+     d="m 467.44364,91.636136 68.31745,0"
+     id="path6"
+     sodipodi:nodetypes="cc" />
 </svg>
