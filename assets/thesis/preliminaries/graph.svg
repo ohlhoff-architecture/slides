@@ -29,9 +29,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="2.0225246"
-     inkscape:cx="218.78597"
-     inkscape:cy="139.92413"
+     inkscape:zoom="1.7336322"
+     inkscape:cx="166.1252"
+     inkscape:cy="159.20332"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -352,12 +352,6 @@
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
     <path
-       id="path19"
-       d="m 388.86273,162.81882 -169.18,44.545"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
        id="path21"
        d="m 388.86273,162.81882 -78.216,-13.809"
        fill="none"
@@ -376,45 +370,14 @@
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
     <path
-       id="path29"
-       d="m 219.68273,207.35882 -66.007,-40.006"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
-       id="path31"
-       d="m 219.68273,207.35882 -16.01819,116.0862"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
-    <path
        id="path33"
        d="m 219.68273,207.35882 -28.682,-92.24702"
        fill="none"
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
     <path
-       id="path35"
-       d="m 219.68273,207.35882 71.549,-19.435"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
-       id="path37"
-       d="m 140.91273,125.11881 145.32,-7.8833"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
        id="path39"
        d="m 140.91273,125.11881 61.775,27.07601"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
-       id="path41"
-       d="M 140.91273,125.11881 15.902728,197.28482"
        fill="none"
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
@@ -467,12 +430,6 @@
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
     <path
-       id="path61"
-       d="M 94.732732,161.86882 124.14573,86.081801"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
        id="path63"
        d="m 189.47273,275.73882 -133.270002,0.5724"
        fill="none"
@@ -492,18 +449,6 @@
        style="stroke:#e0e0e0;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
-       id="path71"
-       d="m 172.58273,218.80882 -109.590002,29.612"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
-       id="path73"
-       d="m 172.58273,218.80882 -18.911,-51.448"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
        id="path75"
        d="m 172.58273,218.80882 65.477,45.463"
        fill="none"
@@ -518,12 +463,6 @@
     <path
        id="path87"
        d="m 56.202728,276.30882 51.879002,-63.34"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
-       id="path89"
-       d="M 56.202728,276.30882 8.0387275,173.53882"
        fill="none"
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
@@ -547,12 +486,6 @@
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
     <path
-       id="path101"
-       d="m 310.65273,149.00882 -82.573,-18.65"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
        id="path105"
        d="m 286.23273,117.23881 -39.745,-17.08401"
        fill="none"
@@ -567,12 +500,6 @@
     <path
        id="path115"
        d="m 202.69273,152.19882 35.372,112.07"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
-       id="path119"
-       d="m 202.69273,152.19882 40.106,-110.730015"
        fill="none"
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
@@ -644,26 +571,8 @@
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
     <path
-       id="path159"
-       d="m 228.07273,130.35882 65.657,76.293"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
-       id="path161"
-       d="M 45.395728,86.668801 8.0397275,173.54482"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
        id="path163"
        d="M 45.395728,86.668801 145.75573,38.952804"
-       fill="none"
-       stroke="#222222"
-       style="stroke:#e0e0e0;stroke-opacity:1" />
-    <path
-       id="path165"
-       d="M 45.395728,86.668801 190.99573,115.1178"
        fill="none"
        stroke="#222222"
        style="stroke:#e0e0e0;stroke-opacity:1" />
