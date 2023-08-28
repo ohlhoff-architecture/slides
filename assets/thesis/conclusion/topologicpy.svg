@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg1"
-   width="62.082253"
-   height="63.873989"
-   viewBox="0 0 62.082253 63.873989"
+   width="77.851364"
+   height="76.665649"
+   viewBox="0 0 77.851365 76.665649"
    sodipodi:docname="topologicpy.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -17,7 +17,7 @@
      id="defs1" />
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#3fa391"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:showpageshadow="2"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
      inkscape:zoom="3.15625"
-     inkscape:cx="86.019802"
-     inkscape:cy="25.029703"
+     inkscape:cx="4.4356436"
+     inkscape:cy="-17.108911"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -38,7 +38,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g1"
-     transform="translate(78.461004,-18.767941)">
+     transform="translate(86.345556,-18.767941)">
     <rect
        style="fill:none;stroke:#e5e5e5;stroke-width:1.5159;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="rect14"
@@ -67,5 +67,16 @@
        style="fill:none;stroke:#e5e5e5;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        d="m -47.419893,20.067941 29.741113,10.212333 2.9e-5,40.849322 -29.741118,10.212335 -29.741112,-10.212332 -2.3e-5,-40.849326 29.741111,-10.212332 2.4e-5,61.27399"
        id="path16" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="-86.664566"
+       y="95.329422"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="-86.664566"
+         y="95.329422"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e5e5e5;fill-opacity:1">TopologicPy</tspan></text>
   </g>
 </svg>
