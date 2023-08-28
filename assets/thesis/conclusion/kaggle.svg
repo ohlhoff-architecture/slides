@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-0.02709519 -0.030642709 59.14747 59.123474"
+   width="905.0293"
+   height="905.0293"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="kaggle.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#3d997e"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.64375001"
+     inkscape:cx="406.99028"
+     inkscape:cy="557.66989"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     id="rect1"
+     style="fill:#e5e5e5;fill-opacity:1;stroke:#121212;stroke-width:1.04567;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="m 9.6972786,0.48040493 c -5.0976476,0 -9.20154014,4.10389257 -9.20154014,9.20154017 V 49.380668 c 0,5.097648 4.10389254,9.20154 9.20154014,9.20154 H 49.396002 c 5.097647,0 9.20154,-4.103892 9.20154,-9.20154 V 9.6819451 c 0,-5.0976476 -4.103893,-9.20154017 -9.20154,-9.20154017 z M 16.604019,5.8970176 c 0.04784,-0.00473 0.09725,-0.00385 0.147557,0.00332 h 4.790004 c 0.402462,-0.057387 0.747435,0.2875867 0.690048,0.6900485 V 34.830422 l 12.210004,-12.35003 c 0.254135,-0.290828 0.614415,-0.467409 0.99997,-0.490029 h 6.390033 c 0.24102,-0.01964 0.465736,0.123348 0.550022,0.350003 0.101036,0.205766 0.07366,0.451485 -0.07008,0.630055 L 29.381659,35.450394 42.841562,52.170348 c 0.19492,0.190013 0.25082,0.481359 0.140026,0.730001 -0.05,0.18 -0.239978,0.269969 -0.559978,0.269969 h -6.169973 c -0.390305,0.0063 -0.760772,-0.171463 -0.99997,-0.479945 L 25.061644,39.680419 22.231628,42.390321 v 10.06008 c 0.05739,0.402461 -0.287586,0.747308 -0.690048,0.689921 h -4.790004 c -0.402461,0.05739 -0.747307,-0.28746 -0.689921,-0.689921 V 6.5903849 c -0.05022,-0.3521541 0.207509,-0.6602888 0.542364,-0.6933673 z" />
+</svg>
